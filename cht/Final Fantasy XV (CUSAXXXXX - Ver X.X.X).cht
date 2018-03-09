@@ -1,0 +1,66 @@
+1.2|eboot.bin
+data|6547|310620C|4 bytes|99|0|Item 1st|
+data|6547|3106214|4 bytes|99|0|Item 2nd|
+data|6547|310621C|4 bytes|99|0|Item 3rd|
+data|6547|3106224|4 bytes|99|0|Item 4th|
+data|6547|310622C|4 bytes|99|0|Item 5th|
+data|6547|3106234|4 bytes|99|0|Item 6th|
+data|6547|310623C|4 bytes|99|0|Item 7th|
+data|6547|3106244|4 bytes|99|0|Item 8th|
+data|6547|310624C|4 bytes|99|0|Item 9th|
+data|6547|3106254|4 bytes|99|0|Item 10th|
+
+data|6547|3106C0C|4 bytes|99|0|Ingredient 1st|
+data|6547|3106C14|4 bytes|99|0|Ingredient 2nd|
+data|6547|3106C1C|4 bytes|99|0|Ingredient 3rd|
+data|6547|3106C24|4 bytes|99|0|Ingredient 4th|
+data|6547|3106C2C|4 bytes|99|0|Ingredient 5th|
+data|6547|3106C34|4 bytes|99|0|Ingredient 6th|
+data|6547|3106C3C|4 bytes|99|0|Ingredient 7th|
+data|6547|3106C44|4 bytes|99|0|Ingredient 8th|
+data|6547|3106C4C|4 bytes|99|0|Ingredient 9th|
+data|6547|3106C65|4 bytes|99|0|Ingredient 10th|
+
+data|6547|3107414|4 bytes|99|0|Treasure 1st|
+data|6547|310741C|4 bytes|99|0|Treasure 2nd|
+data|6547|3107424|4 bytes|99|0|Treasure 3rd|
+data|6547|310742C|4 bytes|99|0|Treasure 4th|
+data|6547|3107434|4 bytes|99|0|Treasure 5th|
+data|6547|310743C|4 bytes|99|0|Treasure 6th|
+data|6547|3107444|4 bytes|99|0|Treasure 7th|
+data|6547|310744C|4 bytes|99|0|Treasure 8th|
+data|6547|3107454|4 bytes|99|0|Treasure 9th|
+data|6547|310745C|4 bytes|99|0|Treasure 10th|
+
+data|6547|3107C0C|4 bytes|99|0|Auto Parts 1st|
+data|6547|3107C14|4 bytes|99|0|Auto Parts 2nd|
+data|6547|3107C1C|4 bytes|99|0|Auto Parts 3rd|
+data|6547|3107C24|4 bytes|99|0|Auto Parts 4th|
+data|6547|3107C2C|4 bytes|99|0|Auto Parts 5th|
+data|6547|3107C34|4 bytes|99|0|Auto Parts 6th|
+data|6547|3107C3C|4 bytes|99|0|Auto Parts 7th|
+data|6547|3107C44|4 bytes|99|0|Auto Parts 8th|
+data|6547|3107C4C|4 bytes|99|0|Auto Parts 9th|
+data|6547|3107C54|4 bytes|99|0|Auto Parts 10th|
+
+data|6547|310840C|4 bytes|99|0|Leisure Goods 1st|
+data|6547|3108414|4 bytes|99|0|Leisure Goods 2nd|
+data|6547|310841C|4 bytes|99|0|Leisure Goods 3rd|
+data|6547|3108424|4 bytes|99|0|Leisure Goods 4th|
+data|6547|310842C|4 bytes|99|0|Leisure Goods 5th|
+data|6547|3108434|4 bytes|99|0|Leisure Goods 6th|
+data|6547|310843C|4 bytes|99|0|Leisure Goods 7th|
+data|6547|3108444|4 bytes|99|0|Leisure Goods 8th|
+data|6547|310844C|4 bytes|99|0|Leisure Goods 9th|
+data|6547|3108454|4 bytes|99|0|Leisure Goods 10th|
+
+data|6547|310640C|4 bytes|99|0|Key Items 1st|
+data|6547|3106414|4 bytes|99|0|Key Items 2nd|
+data|6547|310641C|4 bytes|99|0|Key Items 3rd|
+data|6547|3106424|4 bytes|99|0|Key Items 4th|
+data|6547|310642C|4 bytes|99|0|Key Items 5th|
+data|6547|3106434|4 bytes|99|0|Key Items 6th|
+data|6547|310643C|4 bytes|99|0|Key Items 7th|
+data|6547|3106444|4 bytes|99|0|Key Items 8th|
+data|6547|310644C|4 bytes|99|0|Key Items 9th|
+data|6547|3106454|4 bytes|99|0|Key Items 10th|
