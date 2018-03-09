@@ -3,6 +3,20 @@
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
+## Table of Contents
+
+    [Disclaimer](#disclaimer)
+
+    [Information](#information)
+
+    [Guides / Tutorials](#guides--tutorials)
+
+    [Contributions](#contributions)
+
+    [Pull / Push Request Rules](#pull--push-request-rules)
+
+    [List](#list)
+
 ## Disclaimer
 
 All codes belong to their respective owners. I am merely gathering them here for ease of use.
@@ -17,11 +31,21 @@ In other words, __USE AT YOUR OWN RISK__!
 
 Original threads found [here](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/), [here](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) and [here](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) on the [psxhax](https://www.psxhax.com/) forum.
 
+## Guides / Tutorials
+
+* How to jailbreak your PS4 : [HERE](https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/)
+
+* How to dump PS4 game disc's into PKG files : [HERE](https://playstationhax.xyz/forums/topic/4260-how-to-rebuild-your-fake-signed-patched-raw-ps4-game-dump/)
+
+* How to install Game updates (disc only) on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=-6HzmOes8mw)
+
+* How to find Game offsets for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
+
 ## Contributions
 
 I will update at my pace. What I have here is mostly incomplete and untested.
 
-Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain your own versions. (Or even Push your Changes!)
+Feel free to ````[Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork)```` and maintain your own versions. (Or even Push your Changes!)
 
 ## Pull / Push Request Rules
 
@@ -288,6 +312,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Apples
 
     0 7CD9A0
+    ````
+
+* Dark Souls 3 (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360)
+
+    ````
+    Souls
+
+    0 9A9B34
+    0 3E17670
+    0 3E1A8EC
+    0 3E1A8F0
+    0 6CCA1A8
+    0 6CCA1AC
     ````
 
 * Diablo 3 (CUSA00433 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673)
