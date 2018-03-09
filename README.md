@@ -45,7 +45,7 @@ Original threads found [here](https://www.psxhax.com/threads/ps4cheater-ps4-chea
 
 I will update at my pace. What I have here is mostly incomplete and untested.
 
-Feel free to ````[Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork)```` and maintain your own versions. (Or even Push your Changes!)
+Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain your own versions. (Or even Push your Changes!)
 
 ## Pull / Push Request Rules
 
