@@ -5,17 +5,17 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 
 ## Table of Contents
 
-    [Disclaimer](#disclaimer)
+* [Disclaimer](#disclaimer)
 
-    [Information](#information)
+* [Information](#information)
 
-    [Guides / Tutorials](#guides--tutorials)
+* [Guides / Tutorials](#guides--tutorials)
 
-    [Contributions](#contributions)
+* [Contributions](#contributions)
 
-    [Pull / Push Request Rules](#pull--push-request-rules)
+* [Pull / Push Request Rules](#pull--push-request-rules)
 
-    [List](#list)
+* [List](#list)
 
 ## Disclaimer
 
