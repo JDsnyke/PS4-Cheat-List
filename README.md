@@ -63,6 +63,8 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - Search using Ctrl + F on Windows or Command + F on Mac
 
+> Tip - cht files can be found [HERE](/cht/) or next to specific game titles
+
 * Bloodborne (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 )
 
@@ -306,7 +308,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7342E58
     ````
 
-* Crash Bandicoot N Sane Trilogy (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778)
+* Crash Bandicoot N Sane Trilogy (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778) [[CHT File]](/cht/Crash_Bandicoot_N_Sane_Trilogy_(CUSAXXXXX-Ver_X.X.X).cht)
 
     ````
     Apples
@@ -314,7 +316,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7CD9A0
     ````
 
-* Dark Souls 3 (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360)
+* Dark Souls 3 (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
 
     ````
     Souls
@@ -440,7 +442,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106454
     ````
 
-* God Eater 2 : Rage Burst (CUSA03370 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994)
+* God Eater 2 : Rage Burst (CUSA03370 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_X.X.X).cht)
 
     ````
     Money
@@ -494,6 +496,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 037688A4
     0 037688A8
     0 037688D0
+    ````
+
+* NieR Automata (CUSA04551 - Ver 1.0.0) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[CHT File]](/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht)
+
+    ````
+    Money
+
+    0 4A1810
+
+    EXP (Set Exp 9999999 -> To get Max LvL 99)
+
+    0 4A99C0
+
+    Medium Recovery (Minimum 1 MR required first)
+
+    0 4A1828
     ````
 
 * Tales of Zestiria (CUSA02461 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
