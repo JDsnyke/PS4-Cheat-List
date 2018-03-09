@@ -141,6 +141,50 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 21BEE14
     ````
 
+* Call of Duty : Ghosts (CUSAXXXXX - Ver 1.0.0) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
+
+    ````
+    FPS (80, 78, 10, 01)
+
+    0 81B09A
+
+    FPS String
+
+    0 BDEDE5
+
+    Name
+
+    0 1F0F29C
+
+    Primary Weapon
+
+    0 1F0C26C
+
+    Primary Ammo - Clip
+
+    0 1F0C454
+
+    Primary Ammo - Stock
+
+    0 1F0C3D4
+
+    Secondary Ammo - Clip
+
+    0 1F0C460
+
+    Secondary Ammo - Akimbo Clip
+
+    0 1F0C464
+
+    Grenade Ammo
+
+    0 1F0C43C
+
+    Tactical Ammo
+
+    0 1F0C448
+    ````
+
 * Call of Duty : Infinite Warfare (CUSAXXXXX - Ver 1.0.0) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
 
     ````
@@ -189,12 +233,69 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3D3EFC0
     ````
 
+* Call of Duty : Modern Warfare Remastered (CUSAXXXXX - Ver 1.0.7) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-62317)
+
+    ````
+    Name
+
+    0 7347322
+
+    Scoreboard Score, Kills, Deaths and Assists - 0x2 Bytes (FF FF = 65535)
+
+    0 73473CE
+    0 73473D0
+    0 73473D2
+    0 73473D4
+
+    Ammo - 0x3 Bytes (FF FF FF = Infinite)
+
+    Primary Ammo Clip
+
+    0 7342E28
+
+    Primary Ammo Reserve
+
+    0 7342D5C
+
+    Secondary Ammo Clip
+
+    0 7342DF8
+
+    Secondary Ammo Reserve
+
+    0 7342D44
+
+    Grenade Ammo
+
+    0 7342E10
+
+    Tactical Ammo
+
+    0 7342E40
+
+    Grenade Launcher Attachment (uses Tactical Ammo)
+
+    0 7342E58
+
+    Perk Ammo
+
+    0 7342E58
+    ````
+
 * Crash Bandicoot N Sane Trilogy (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778)
 
     ````
     Apples
 
     0 7CD9A0
+    ````
+
+* Diablo 3 (CUSA00433 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673)
+
+    ````
+    Gold (address changes on restart)
+
+    0 20C71D3CC
     ````
 
 * FIFA 15 (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
@@ -300,6 +401,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106444
     0 310644C
     0 3106454
+    ````
+
+* God Eater 2 : Rage Burst (CUSA03370 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994)
+
+    ````
+    Money
+
+    0 19EB90
     ````
 
 * Gravity Rush (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-12#post-64486)
