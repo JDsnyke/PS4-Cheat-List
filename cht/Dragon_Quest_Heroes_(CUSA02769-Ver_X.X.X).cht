@@ -1,0 +1,9 @@
+1.2|eboot.bin
+data|22|1FFB40|4 bytes|99999999|0|Money|
+data|22|1FFB44|4 bytes|99999999|0|Minimedals|
+data|22|1F45C8|4 bytes|9999999|0|Aila Max Exp|
+data|22|1F4424|4 bytes|9999999|0|Aurora Max Exp|
+data|22|1F44B0|4 bytes|9999999|0|Luceus Max Exp|
+data|22|1F4654|4 bytes|9999999|0|Alena Max Exp|
+data|22|1F453C|4 bytes|9999999|0|Doric Max Exp|
+data|22|1F46E0|4 bytes|9999999|0|Kiryl Max Exp|

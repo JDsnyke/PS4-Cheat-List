@@ -45,8 +45,6 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to find Game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
-* How to use PS4Cheater 1.2 : [HERE](http://www.maxconsole.com/threads/ps4cheater-guide-v1-2.46581/)
-
 ## How to use the Cheats
 
 * Currently the easiest way to use cheats are to use the [cht](/cht/) files on [PS4Cheater 1.2](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
@@ -74,8 +72,6 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * The end goal should be to use these codes / offsets to generate user friendly cht files!
 
-> Remember : Visit the included source links if you have any doubts!
-
 ## Contributions
 
 I will update at my pace. What I have here is mostly incomplete and untested.
@@ -98,11 +94,13 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 ## List
 
-> Tip - Search using Ctrl + F on Windows or Command + F on Mac
+> Tip - search using Ctrl + F on Windows or Command + F on Mac
+
+> Tip - visit the included source links if you have any doubts
 
 > Tip - cht files can be found [here](/cht/) or next to specific game titles
 
-* Bloodborne (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
+* Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 )
 
     ````
@@ -374,12 +372,64 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 6CCA1AC
     ````
 
+* Dead Island : Definitive Edition (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/)
+
+    ````
+    Cash
+
+    0 401F882DF8
+    ````
+
+* Dead Rising 1 HD Remake (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/)
+
+    ````
+    PP
+
+    21E28928C
+    ````
+
 * Diablo 3 (CUSA00433 - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673)
 
     ````
     Gold (address changes on restart)
 
     0 20C71D3CC
+    ````
+
+* Dragon Quest Heroes (CUSA02769 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](/cht/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht)
+
+    ````
+    Money
+
+    0 1FFB40
+
+    Minimedals
+
+    0 1FFB44
+
+    Aila Max EXP
+
+    0 1F45C8
+
+    Aurora Max EXP
+
+    0 1F4424
+
+    Luceus Max EXP
+
+    0 1F44B0
+
+    Alena Max EXP
+
+    0 1F4654
+
+    Doric Max EXP
+
+    0 1F4654
+
+    Kiryl Max EXP
+
+    0 1F46E0
     ````
 
 * FIFA 15 (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
@@ -512,7 +562,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 01E7A2B0
     ````
 
-* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434)
+* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434)
 
     ````
     Arrows [1]
@@ -533,7 +583,40 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 264C68899
     ````
 
-* Mortal Kombat X Standard Edition (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610)
+* Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/)
+
+    ````
+    Sora Munny
+
+    0 2F65C44C
+
+    Sora EXP
+
+    0 2F6A3DA0
+
+    Meow Wow EXP
+
+    0 2F654524
+    ````
+
+* Kingdom Hearts 2.8 (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/)
+
+    ````
+    Sora Munny
+
+    0 D5844C
+
+    Ability Links
+
+    0 D5052C
+
+    Main Character EXP
+
+    0 D9FDA0
+    0 D583CC
+    ````
+
+* Mortal Kombat X Standard Edition (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610)
 
     ````
     No Money Krypt
@@ -581,6 +664,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Main Character Skill Points (Max 999)
 
     1 33730
+    ````
+
+* Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
+
+    ````
+    Handgun Ammo and Equipped Ammo (Slot 01)
+
+    0 20D0EFCDC
+
+    Ink Ribbon (Slot 04)
+
+    0 20D14D554
     ````
 
 * Tales of Zestiria (CUSA02461 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
@@ -656,7 +751,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 00EA54F8
     ````
 
-* Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825)
+* Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825)
 
     ````
     Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
