@@ -396,7 +396,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 20C71D3CC
     ````
 
-* Dragon Quest Heroes (CUSA02769 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](/cht/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht)
+* Dragon Quest Heroes (CUSA02769 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](/cht/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht)
 
     ````
     Money
