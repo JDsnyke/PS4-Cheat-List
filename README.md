@@ -11,6 +11,8 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 
 * [Guides / Tutorials](#guides--tutorials)
 
+* [How to use the Cheats](#how-to-use-the-cheats)
+
 * [Contributions](#contributions)
 
 * [Pull / Push Request Rules](#pull--push-request-rules)
@@ -41,6 +43,16 @@ Original threads found [here](https://www.psxhax.com/threads/ps4cheater-ps4-chea
 
 * How to find Game offsets for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
+## How to use the Cheats
+
+* Currently the easiest way to use cheats are to use the [cht](/cht/) files on [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
+
+* The codes in the [list](#list) below are the corresponding addresses you should keep an eye out for on PS4Cheater
+
+* Always ignore the ````0```` in front and focus on the value that comes after
+
+* The end goal should be to use these values / codes in order to generate user friendly cht files!
+
 ## Contributions
 
 I will update at my pace. What I have here is mostly incomplete and untested.
@@ -59,11 +71,13 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 * Add source next to game title
 
+* If available, upload cht and link it next to game title
+
 ## List
 
 > Tip - Search using Ctrl + F on Windows or Command + F on Mac
 
-> Tip - cht files can be found [HERE](/cht/) or next to specific game titles
+> Tip - cht files can be found [here](/cht/) or next to specific game titles
 
 * Bloodborne (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 )
@@ -316,7 +330,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7CD9A0
     ````
 
-* Dark Souls 3 (CUSAXXXXX - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
+* Dark Souls 3 - Game of the Year (CUSAXXXXX - Ver 1.0.0) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
 
     ````
     Souls
@@ -512,6 +526,30 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Medium Recovery (Minimum 1 MR required first)
 
     0 4A1828
+    ````
+
+* Persona 5 (CUSA06638 - Ver 1.0.0) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
+
+    ````
+    Money
+
+    0 36674
+
+    Medicine (Max 99)
+
+    0 35BB0
+
+    Main Character EXP (Set your exp, after 1 Battle you get the lvl ups)
+
+    0 3373C
+
+    Main Character HP (Max 999)
+
+    0 3372C
+
+    Main Character Skill Points (Max 999)
+
+    0 33730
     ````
 
 * Tales of Zestiria (CUSA02461 - Ver X.X.X) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)

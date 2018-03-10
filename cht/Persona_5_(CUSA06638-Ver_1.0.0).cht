@@ -1,0 +1,6 @@
+1.2|eboot.bin
+data|3|35BB0|4 bytes|99|0|Medicine  (Max 99)|
+data|3|36674|4 bytes|9999999|0|Money|
+data|3|3373C|4 bytes|20000|0|Main Character EXP|
+data|3|3372C|4 bytes|999|1|Main Character HP (Max 999)|
+data|3|33730|4 bytes|999|1|Main Character Skill Points (Max 999)|
