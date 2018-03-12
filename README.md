@@ -128,7 +128,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ````
     Blood Echo
 
-    0 C674C4
+    0 2082674C4
     ````
 
 * Call of Duty : Black Ops 3 (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
@@ -351,12 +351,12 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7342E58
     ````
 
-* Crash Bandicoot N Sane Trilogy (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778) [[CHT File]](/cht/Crash_Bandicoot_N_Sane_Trilogy_(CUSAXXXXX-Ver_X.X.X).cht)
+* Crash Bandicoot N Sane Trilogy (CUSA07399 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778) [[CHT File]](/cht/Crash_Bandicoot_N_Sane_Trilogy_(CUSA07399-Ver_1.0.0).cht)
 
     ````
     Apples
 
-    0 7CD9A0
+    0 2587CD9A0
     ````
 
 * Dark Souls 3 - Game of the Year (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
@@ -537,12 +537,12 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106454
     ````
 
-* God Eater 2 : Rage Burst (CUSA03370 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_X.X.X).cht)
+* God Eater 2 : Rage Burst (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht)
 
     ````
     Money
 
-    0 19EB90
+    0 14919EB90
     ````
 
 * Gravity Rush (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-12#post-64486)
@@ -599,10 +599,10 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2F654524
     ````
 
-* Kingdom Hearts 2.8 (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/)
+* Kingdom Hearts 2.8 (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/) [[2]](https://github.com/Weysincha) [[CHT File]](/cht/Kingdom_Hearts_2.8_(CUSA05787-Ver_1.0.0).cht)
 
     ````
-    Sora Munny
+    Sora Munny (Set the Values when you in the Option Menu)
 
     0 D5844C
 
@@ -610,9 +610,12 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     0 D5052C
 
-    Main Character EXP
+    Main Character EXP - Sora
 
     0 D9FDA0
+
+    Main Character EXP - Ryku
+
     0 D583CC
     ````
 
@@ -631,15 +634,15 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ````
     Money
 
-    0 4A1810
+    0 1C8D810
 
     EXP (Set Exp 9999999 -> To get Max LvL 99)
 
-    0 4A99C0
+    0 1C959C0
 
     Medium Recovery (Minimum 1 MR required first)
 
-    1 4A1828
+    1 1C8D828
     ````
 
 * Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
@@ -647,23 +650,23 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ````
     Money
 
-    0 36674
+    0 195E674
 
     Medicine (Max 99)
 
-    0 35BB0
+    0 195DBB0
 
     Main Character EXP (Set your exp, after 1 Battle you get the lvl ups)
 
-    0 3373C
+    0 195B73C
 
     Main Character HP (Max 999)
 
-    1 3372C
+    1 195B72C
 
     Main Character Skill Points (Max 999)
 
-    1 33730
+    1 195B730
     ````
 
 * Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
