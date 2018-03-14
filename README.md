@@ -45,9 +45,9 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to run PS4 pkg's from a USB drive : [HERE](https://www.youtube.com/watch?v=nGa2ZKd2_Qc)
 
-* How to install Game updates (disc only) on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=-6HzmOes8mw)
+* How to install game updates (disc only) on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=-6HzmOes8mw)
 
-* How to find Game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
+* How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
 ## How to use the Cheats
 
@@ -376,7 +376,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 6CCA1AC
     ````
 
-* Dead Island : Definitive Edition (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/)
+* Dead Island : Definitive Edition (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/dead-island-definitive-edition-cheat-codes.46586/#post-363244) [[2]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/)
 
     ````
     Cash
@@ -384,7 +384,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 401F882DF8
     ````
 
-* Dead Rising 1 HD Remake (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/)
+* Dead Rising 1 HD Remake (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/) [[2]](https://playstationhax.xyz/forums/topic/4379-dead-rising-1-hd-remake-ps4-cheater-cheat-codes/)
 
     ````
     PP
@@ -442,6 +442,34 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Money
 
     0 50030671D0 3B9AC9FF
+    ````
+
+* Final Fantasy XII (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/ff-xii-zodiac-cheat-codes.46554/) [[2]](https://playstationhax.xyz/forums/topic/4377-ff-xii-zodiac-ps4-cheater-405-cheat-codes/)
+
+    ````
+    Vaan EXP
+
+    0 66B384D4 (high probability of being the address to watch out for)
+    0 66E999E0
+    0 66E9C350
+    0 22EEB96FF
+    0 22EEB98FF
+    0 22EEB99FF
+
+    Vaan Health
+
+    0 66B384D8
+    0 66E99A00
+    0 66E9C370
+    0 68954B10
+
+    Gil (not static)
+
+    0 6B707E4C
+
+    Potions
+
+    0 66B3CA88
     ````
 
 * Final Fantasy XV (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.2 [1] and NetCheatPS4 [2]) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-17#post-71001) [[2]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-10#post-63601) [[CHT File]](/cht/Final_Fantasy_XV_(CUSAXXXXX-Ver_X.X.X).cht)
@@ -587,7 +615,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 264C68899
     ````
 
-* Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/)
+* Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ````
     Sora Munny
@@ -603,7 +631,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2F654524
     ````
 
-* Kingdom Hearts 2.8 (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/) [[2]](https://github.com/Weysincha) [[CHT File]](/cht/Kingdom_Hearts_2.8_(CUSA05787-Ver_1.0.0).cht)
+* Kingdom Hearts 2.8 (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46585/) [[2]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/) [[3]](https://github.com/Weysincha) [[CHT File]](/cht/Kingdom_Hearts_2.8_(CUSA05787-Ver_1.0.0).cht)
 
     ````
     Sora Munny (Set the Values when you in the Option Menu)
@@ -729,7 +757,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 23596D60
     ````
 
-* Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
+* Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/re-origins-collection-re-0-ps4-cheater-4-55-codes.46606/) [[2]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
 
     ````
     Handgun Ammo and Equipped Ammo (Slot 01)
@@ -800,6 +828,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 103DE01080
     0 103DE01084
     0 103DE01088
+    ````
+
+* The Last of Us (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/the-last-of-us-ps4-cheater-4-55-cheat-codes.46608/) [[2]](https://playstationhax.xyz/forums/topic/4418-the-last-of-us-ps4-cheater-455-cheat-codes/)
+
+    ````
+    Ammo (currently has issues, view source for more details)
+
+    0 11748B719C
     ````
 
 * Uncharted Trilogy (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)
