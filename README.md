@@ -37,9 +37,13 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 ## Guides / Tutorials
 
-* How to jailbreak your PS4 : [HERE](https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/)
+* How to jailbreak your PS4 : [HERE](https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/) and [HERE](https://www.youtube.com/watch?v=-JEeyT-zH64)
+
+* How to change your avatar / profile pic on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=_8YEaihW3dI)
 
 * How to dump PS4 game disc's into PKG files : [HERE](https://playstationhax.xyz/forums/topic/4260-how-to-rebuild-your-fake-signed-patched-raw-ps4-game-dump/)
+
+* How to run PS4 pkg's from a USB drive : [HERE](https://www.youtube.com/watch?v=nGa2ZKd2_Qc)
 
 * How to install Game updates (disc only) on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=-6HzmOes8mw)
 
@@ -645,7 +649,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 1C8D828
     ````
 
-* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
+* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
 
     ````
     Money
@@ -656,7 +660,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     0 195DBB0
 
-    Main Character EXP (Set your exp, after 1 Battle you get the lvl ups)
+    Main Character EXP (Set your EXP, after one Battle you get the lvl ups)
 
     0 195B73C
 
@@ -667,6 +671,62 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Main Character Skill Points (Max 999)
 
     1 195B730
+
+    Main Character Bullets [3]
+
+    1 7B1D39B4
+
+    Ryuji HP [3]
+
+    1 7B1D39CC
+
+    Ryuji EXP [3]
+
+    0 7B1D3A0C
+
+    Ryuji Gun Bullets [3]
+
+    1 7B1D3C54
+
+    Ryuji Skill Points [3]
+
+    1 7B1D39D0
+
+    Morgana Cat HP [3]
+
+    1 7B1D3C6C
+
+    Morgana Cat Skill Points [3]
+
+    1 7B1D3C70
+
+    Morgana Cat EXP [3]
+
+    0 7B1D3CAC
+
+    Morgana Cat Gun Bullets [3]
+
+    1 7B1D3EF4
+
+    Ann HP [3]
+
+    1 7B1D3F0C
+
+    Ann Skill Points [3]
+
+    1 7B1D3F10
+
+    Ann EXP [3]
+
+    0 7B1D3F4C
+
+    Ann Gun Bullets [3]
+
+    1 7B1D4194
+
+    Casino Points [2]
+
+    0 23596D60
     ````
 
 * Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
