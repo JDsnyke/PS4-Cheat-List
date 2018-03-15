@@ -1,19 +1,24 @@
 1.2|eboot.bin
-data|3|35BB0|4 bytes|99|0|Medicine  (Max 99)|
-data|3|36674|4 bytes|9999999|0|Money|
-data|3|3373C|4 bytes|12275|0|Main Character EXP|
+data|3|35BB0|4 bytes|999|0|Medicine  (Max 999)|
+data|3|36674|4 bytes|99999999|0|Money|
 data|3|3372C|4 bytes|999|1|Main Character HP|
 data|3|33730|4 bytes|999|1|Main Character Skill Points|
+data|3|33738|4 bytes|10|0|Main Character Level (Max 99)|
+data|3|3373C|4 bytes|99999|0|Main Character EXP|
 data|3|339B4|4 bytes|99|1|Main Character Gun Bullets|
-data|3|33EF4|4 bytes|99|1|Cat Gun Bullets|
-data|3|33C54|4 bytes|99|1|Ryuji Gun Bullets|
 data|3|339CC|4 bytes|999|1|Ryuji HP|
-data|3|33A0C|4 bytes|501|0|Ryuji EXP|
-data|3|339D0|4 bytes|888|1|Ryuji Skill Points|
-data|3|33C6C|4 bytes|888|1|Morgana Cat HP|
-data|3|33F0C|4 bytes|888|1|Ann HP|
-data|3|33F10|4 bytes|888|1|Ann Skill Points|
-data|3|33C70|4 bytes|888|1|Morgana Cat Skill Points|
-data|3|33CAC|4 bytes|681|0|Morgana EXP|
-data|3|33F4C|4 bytes|262|0|Ann EXP|
+data|3|339D0|4 bytes|999|1|Ryuji Skill Points|
+data|3|33A0C|4 bytes|99999|0|Ryuji EXP|
+data|3|33C54|4 bytes|99|1|Ryuji Gun Bullets|
+data|3|33F0C|4 bytes|999|1|Ann HP|
+data|3|33F10|4 bytes|999|1|Ann Skill Points|
+data|3|33F4C|4 bytes|99999|0|Ann EXP|
 data|3|34194|4 bytes|99|1|Ann Gun Bullets|
+data|3|33C6C|4 bytes|999|1|Morgana HP|
+data|3|33C70|4 bytes|999|1|Morgana Skill Points|
+data|3|33CAC|4 bytes|99999|0|Morgana EXP|
+data|3|33EF4|4 bytes|99|1|Morgana Gun Bullets|
+data|3|36AF0|4 bytes|1|0|Days Until Expulsion (Max 99)/ [14]|
+data|3|36CE4|4 bytes|0|0|Kamashida Security Level|
+data|3|2ED0C|4 bytes|5|0|Guts Confidant?|
+data|3|1AA95C|4 bytes|5|0|Knowledge Confidant?|

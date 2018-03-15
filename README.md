@@ -11,7 +11,7 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 
 * [Guides / Tutorials](#guides--tutorials)
 
-* [How to use the Cheats](#how-to-use-the-cheats)
+* [Cheat Usage and Template](#cheat-usage-and-template)
 
 * [Contributions](#contributions)
 
@@ -49,7 +49,7 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
-## How to use the Cheats
+## Cheat Usage and Template
 
 * Currently the easiest way to use cheats are to use the [cht](/cht/) files on [PS4Cheater 1.2](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
 
@@ -677,16 +677,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 1C8D828
     ````
 
-* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
+* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[CHT File]](/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
 
     ````
     Money
 
     0 195E674
 
-    Medicine (Max 99)
+    Medicine (Max 999)
 
     0 195DBB0
+
+    Main Character Level [4]
+
+    0 B38F738
 
     Main Character EXP (Set your EXP, after one Battle you get the lvl ups)
 
@@ -751,6 +755,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Ann Gun Bullets [3]
 
     1 7B1D4194
+
+    Days until Expulsion [4]
+
+    0 B392AF0
+
+    Kamoshida Security Level [4]
+
+    0 B392CE4
 
     Casino Points [2]
 
