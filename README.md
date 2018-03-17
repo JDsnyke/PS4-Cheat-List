@@ -33,7 +33,7 @@ In other words, __USE AT YOUR OWN RISK__!
 
 Original threads found [here](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/), [here](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) and [here](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) on the [psxhax](https://www.psxhax.com/) forum.
 
-Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-codes.266/) at [maxconsole](http://www.maxconsole.com/) forum.
+Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-codes.266/) and [here](https://playstationhax.xyz/forums/forum/163-ps4-cheat-codes-for-ps4cheater/) at [maxconsole](http://www.maxconsole.com/) and [playstationhax](https://playstationhax.xyz/) forums respectively.
 
 ## Guides / Tutorials
 
@@ -475,13 +475,13 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * Final Fantasy XV (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.2 [1] and NetCheatPS4 [2]) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-17#post-71001) [[2]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-10#post-63601) [[CHT File]](/cht/Final_Fantasy_XV_(CUSAXXXXX-Ver_X.X.X).cht)
 
     ````
-    Infinite Health [2]
-
-    0 50030671DC
-
     Money [2]
 
     0 50030671D0
+
+    Infinite Ability Points [2]
+
+    0 50030671DC
 
     All Characters Max Exp [2]
 
