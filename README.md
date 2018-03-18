@@ -59,20 +59,20 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * The PS4Cheater format : listed similarly to NetCheatPS4 format in order to maintain uniformity
 
-* Some offsets like this ````0xFFFFFF```` have been listed as ````0 FFFFFF```` in order to maintain uniformity
+* Some offsets like this ```0xFFFFFF``` have been listed as ```0 FFFFFF``` in order to maintain uniformity
 
 * The CHT File format (PS4Cheater 1.2):
 
-    ````
+    ```
     1.2|eboot.bin
     data|FF (?)|FFFFFF (Address)|4 bytes|FF (Value)|0 or 1|Name (eg: Money)|
     data|FF (?)|FFFFFF (Address)|4 bytes|FF (Value)|0 or 1|Name (eg: Potions)|
-    ````
+    ```
 
-    ````
+    ```
     1.2|eboot.bin
     data|25|7CD9A0|4 bytes|99|0|Apples|
-    ````
+    ```
 
 * The end goal should be to use these codes / offsets to generate user friendly cht files!
 
@@ -107,15 +107,15 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 )
 
-    ````
+    ```
     Blood Echo [1]
 
     0 2082674C4
     0 208A674C4
     0 20840C06C
-    ````
+    ```
 
-    ````
+    ```
     Blood Echo [2]
 
     0 207C0C08C
@@ -125,19 +125,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 311F17738
     0 311F17740
     0 311F197F0
-    ````
+    ```
 
 * Bloodborne Game of the Year Edition (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht)
 
-    ````
+    ```
     Blood Echo
 
     0 2082674C4
-    ````
+    ```
 
 * Call of Duty : Black Ops 3 (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
 
-    ````
+    ```
     Player State
 
     0 21A8164
@@ -212,11 +212,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Zombies Points
 
     0 21BEE14
-    ````
+    ```
 
 * Call of Duty : Ghosts (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
 
-    ````
+    ```
     FPS (80, 78, 10, 01)
 
     0 81B09A
@@ -256,11 +256,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Tactical Ammo
 
     0 1F0C448
-    ````
+    ```
 
 * Call of Duty : Infinite Warfare (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/)
 
-    ````
+    ```
     Player State
 
     0 3D3E540
@@ -304,11 +304,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     0 3D3EF78
     0 3D3EFC0
-    ````
+    ```
 
 * Call of Duty : Modern Warfare Remastered (CUSAXXXXX - Ver 1.0.7 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-62317)
 
-    ````
+    ```
     Name
 
     0 7347322
@@ -353,19 +353,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Perk Ammo
 
     0 7342E58
-    ````
+    ```
 
 * Crash Bandicoot N Sane Trilogy (CUSA07399 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Crash_Bandicoot_N_Sane_Trilogy_(CUSA07399-Ver_1.0.0).cht)
 
-    ````
+    ```
     Apples
 
     0 2587CD9A0
-    ````
+    ```
 
 * Dark Souls 3 - Game of the Year (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
 
-    ````
+    ```
     Souls
 
     1 9A9B34
@@ -374,35 +374,35 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 3E1A8F0
     1 6CCA1A8
     1 6CCA1AC
-    ````
+    ```
 
 * Dead Island : Definitive Edition (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/dead-island-definitive-edition-cheat-codes.46586/#post-363244) [[2]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/)
 
-    ````
+    ```
     Cash
 
     0 401F882DF8
-    ````
+    ```
 
 * Dead Rising 1 HD Remake (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/) [[2]](https://playstationhax.xyz/forums/topic/4379-dead-rising-1-hd-remake-ps4-cheater-cheat-codes/)
 
-    ````
+    ```
     PP
 
     21E28928C
-    ````
+    ```
 
 * Diablo 3 (CUSA00433 - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673)
 
-    ````
+    ```
     Gold (address changes on restart)
 
     0 20C71D3CC
-    ````
+    ```
 
 * Dragon Quest Heroes (CUSA02769 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht)
 
-    ````
+    ```
     Money
 
     0 1FFB40
@@ -434,19 +434,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Kiryl Max EXP
 
     0 1F46E0
-    ````
+    ```
 
 * FIFA 15 (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
 
-    ````
+    ```
     Money
 
     0 50030671D0 3B9AC9FF
-    ````
+    ```
 
 * Final Fantasy XII (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/ff-xii-zodiac-cheat-codes.46554/) [[2]](https://playstationhax.xyz/forums/topic/4377-ff-xii-zodiac-ps4-cheater-405-cheat-codes/)
 
-    ````
+    ```
     Vaan EXP
 
     0 66B384D4 (high probability of being the address to watch out for)
@@ -470,11 +470,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Potions
 
     0 66B3CA88
-    ````
+    ```
 
 * Final Fantasy XV (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.2 [1] and NetCheatPS4 [2]) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-17#post-71001) [[2]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-10#post-63601) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Final_Fantasy_XV_(CUSAXXXXX-Ver_X.X.X).cht)
 
-    ````
+    ```
     Money [2]
 
     0 50030671D0
@@ -567,44 +567,44 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106444
     0 310644C
     0 3106454
-    ````
+    ```
 
 * Fl4tout : Total Insanity (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Fl4tout_Total Insanity_(CUSA07458-Ver_1.0.3).cht)
 
-    ````
+    ```
     Cash
 
     0 301D1D1C8
-    ````
+    ```
 
 * God Eater 2 : Rage Burst (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht)
 
-    ````
+    ```
     Money
 
     0 14919EB90
-    ````
+    ```
 
 * Gravity Rush (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-12#post-64486)
 
-    ````
+    ```
     Gems
 
     0 264522937
-    ````
+    ```
 
 * Gravity Rush 2 (CUSA03694 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58385)
 
-    ````
+    ```
     Gems
 
     0 01E7A2AC
     0 01E7A2B0
-    ````
+    ```
 
 * Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434)
 
-    ````
+    ```
     Arrows [1]
 
     0 F5CF09E84
@@ -621,11 +621,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 25CF8212C
     0 25D915190
     0 264C68899
-    ````
+    ```
 
 * Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
-    ````
+    ```
     Sora Munny
 
     0 2F65C44C
@@ -637,11 +637,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Meow Wow EXP
 
     0 2F654524
-    ````
+    ```
 
 * Kingdom Hearts 2.8 (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46585/) [[2]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/) [[3]](https://github.com/Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Kingdom_Hearts_2.8_(CUSA05787-Ver_1.0.0).cht)
 
-    ````
+    ```
     Sora Munny (Set the Values when you in the Option Menu)
 
     0 D5844C
@@ -657,21 +657,21 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Main Character EXP - Ryku
 
     0 D583CC
-    ````
+    ```
 
 * Mortal Kombat X Standard Edition (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610)
 
-    ````
+    ```
     No Money Krypt
 
     0 037688A4
     0 037688A8
     0 037688D0
-    ````
+    ```
 
 * NieR Automata (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht)
 
-    ````
+    ```
     Money
 
     0 1C8D810
@@ -683,11 +683,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Medium Recovery (Minimum 1 MR required first)
 
     1 1C8D828
-    ````
+    ```
 
 * Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
 
-    ````
+    ```
     Money
 
     0 195E674
@@ -775,11 +775,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Casino Points [2]
 
     0 23596D60
-    ````
+    ```
 
 * Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/re-origins-collection-re-0-ps4-cheater-4-55-codes.46606/) [[2]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
 
-    ````
+    ```
     Handgun Ammo and Equipped Ammo (Slot 01)
 
     0 20D0EFCDC
@@ -787,11 +787,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Ink Ribbon (Slot 04)
 
     0 20D14D554
-    ````
+    ```
 
 * Tales of Zestiria (CUSA02461 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
 
-    ````
+    ```
     Sorey Exp
 
     0 103DE7D5BC
@@ -848,19 +848,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 103DE01080
     0 103DE01084
     0 103DE01088
-    ````
+    ```
 
 * The Last of Us (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/the-last-of-us-ps4-cheater-4-55-cheat-codes.46608/) [[2]](https://playstationhax.xyz/forums/topic/4418-the-last-of-us-ps4-cheater-455-cheat-codes/)
 
-    ````
+    ```
     Ammo (currently has issues, view source for more details)
 
     0 11748B719C
-    ````
+    ```
 
 * Uncharted Trilogy (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)
 
-    ````
+    ```
     Uncharted 1 - 1st Weapon Bullets
 
     0 00EA5444
@@ -868,31 +868,31 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Uncharted 1 - 2nd Weapon Bullets
 
     0 00EA54F8
-    ````
+    ```
 
 * Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825)
 
-    ````
+    ```
     Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
 
     0 209E8F2B0
-    ````
+    ```
 
 * Yakuza 6 (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
 
-    ````
+    ```
     Money
 
     0 2023B1D38
-    ````
+    ```
 
 * Yakuza Ishin (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4)  [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-11#post-63905)
 
-    ````
+    ```
     Money
 
     0 2003E6BC8 3B9AC9FF
-    ````
+    ```
 
 ## License
 
