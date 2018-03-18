@@ -569,6 +569,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106454
     ````
 
+* Fl4tout : Total Insanity (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](/cht/Fl4tout_Total Insanity_(CUSA07458-Ver_1.0.3).cht)
+
+    ````
+    Cash
+
+    0 301D1D1C8
+    ````
+
 * God Eater 2 : Rage Burst (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht)
 
     ````
