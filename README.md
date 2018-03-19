@@ -98,13 +98,13 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 ## List
 
-> Tip - search using Ctrl + F on Windows or Command + F on Mac
+> :bulb: Tip - search using Ctrl + F on Windows or Command + F on Mac
 
-> Tip - visit the included source links if you have any doubts
+> :bulb: Tip - visit the included source links if you have any doubts
 
-> Tip - save cht files easily by hovering over [CHT File] --> pressing 'right click' and then 'save link as'
+> :bulb: Tip - save cht files easily by hovering over [CHT File] --> pressing 'right click' and then 'save link as'
 
-> Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
+> :bulb: Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
 * Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 )
@@ -363,6 +363,41 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Apples
 
     0 2587CD9A0
+    ```
+
+* Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht)
+
+    ```
+    Souls
+
+    0 203AF9D1C
+    0 203DA9B34
+
+    Ember
+
+    0 203DAA568
+
+    Estus Flask
+
+    0 203AFA73C
+    0 203DAA4E8
+
+    Estus Shard
+
+    0 203DAA728
+
+    Undead Bone Shard
+
+    0 203DAAB38
+
+    Titanite (reinforce materials)
+
+    0 203DAA628
+    0 203DAAE78
+    0 203DAAFC8
+    0 203DAB828
+    0 203DAB838
+    0 203DABA18
     ```
 
 * Dark Souls 3 - Game of the Year (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht)
