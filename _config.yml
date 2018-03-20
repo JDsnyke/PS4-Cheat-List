@@ -3,4 +3,7 @@ description: List of PS4 cheat codes / offsets found for either PS4Cheater or Ne
 show_downloads: true
 theme: jekyll-theme-modernist
 plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-feed
  - jemoji
