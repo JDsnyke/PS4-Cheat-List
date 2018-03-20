@@ -11,6 +11,8 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 
 * [Guides / Tutorials](#guides--tutorials)
 
+* [Program / Tool Links](#program--tool-links)
+
 * [Cheat Usage and Template](#cheat-usage-and-template)
 
 * [Contributions](#contributions)
@@ -18,6 +20,10 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 * [Pull / Push Request Rules](#pull--push-request-rules)
 
 * [List](#list)
+
+* [Donate](#donate)
+
+* [License](#license)
 
 ## Disclaimer
 
@@ -49,19 +55,33 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
+## Program / Tool Links
+
+* PS4Cheater : [GITHUB](https://github.com/hurrican6/PS4_Cheater/releases) or [THREAD](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
+
+* NetCheatPS4 : [GITHUB](https://github.com/BISOON/netCheatAPI-for-PS4) or [THREAD](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/)
+
+* PS4 Cheat Manager : [0.1.3](http://www26.zippyshare.com/v/c1uzaoQR/file.html)
+
+* PS4 Trainer Utility : [0.9.3](http://www94.zippyshare.com/v/bfxSG6cx/file.html) or [THREAD](https://www.psxhax.com/threads/ps4-trainer-utility-community-edition-tuce-v0-9-by-zerofox.4847/)
+
 ## Cheat Usage and Template
 
-* Currently the easiest way to use cheats are to use the [cht](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) files on [PS4Cheater 1.2](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
+* Currently the easiest way to use cheats are to use the [cht](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) files on [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
 
 * The codes in the [list](#list) below are the corresponding addresses you should keep an eye out for on PS4Cheater and NetCheatPS4
 
-* The NetCheatPS4 format : 0 FFFFFF (Address) FF (Value)
+* The NetCheatPS4 format :
+
+    ```
+    0 FFFFFF (Address) FF (Value)
+    ```
 
 * The PS4Cheater format : listed similarly to NetCheatPS4 format in order to maintain uniformity
 
 * Some offsets like this ```0xFFFFFF``` have been listed as ```0 FFFFFF``` in order to maintain uniformity
 
-* The CHT File format (PS4Cheater 1.2):
+* The CHT File format as of PS4Cheater 1.2 :
 
     ```
     1.2|eboot.bin
@@ -78,7 +98,9 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 ## Contributions
 
-I will update at my pace. What I have here is mostly incomplete and untested.
+I will update at my pace.
+
+What I have here is mostly incomplete and untested.
 
 Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain your own versions. (Or even Push your Changes!)
 
@@ -930,6 +952,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     0 2003E6BC8 3B9AC9FF
     ```
+
+## Donate
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1AQrV5YKDv3WnwEYddHr5UFtiTLUvQ5pQr)](https://en.cryptobadges.io/donate/1AQrV5YKDv3WnwEYddHr5UFtiTLUvQ5pQr)
+
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x2729F47611dC42758A2f918668E32f464e5d231B)](https://en.cryptobadges.io/donate/0x2729F47611dC42758A2f918668E32f464e5d231B)
+
+[![Donate with Ripple](https://en.cryptobadges.io/badge/small/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)](https://en.cryptobadges.io/donate/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)
 
 ## License
 
