@@ -1,0 +1,17 @@
+1.3|eboot.bin
+data|17|3A6198|2 bytes|999|1|Infinite HP|
+data|17|3A619C|2 bytes|10000|1|Always Max Hunger Gauge|
+data|17|3A6194|2 bytes|1|0|Set Days Elapsed To 1 (Part 1)|
+data|17|3A61A4|2 bytes|1|0|Set Days Elapsed To 1 (Part 2)|
+data|17|3B9870|2 bytes|999|1|Set Attack To 999|
+data|17|3B9872|2 bytes|999|1|Set Defense To 999|
+data|17|3BE902|2 bytes|80|1|Infinite Regular Item Slot 1|
+data|17|3BE906|2 bytes|80|1|Infinite Regular Item Slot 2|
+data|17|3BE90A|2 bytes|80|1|Infinite Regular Item Slot 3|
+data|17|3BE90E|2 bytes|80|1|Infinite Regular Item Slot 4|
+data|17|3BE912|2 bytes|80|1|Infinite Regular Item Slot 5|
+data|17|3BE916|2 bytes|80|1|Infinite Regular Item Slot 6|
+data|17|3BE91A|2 bytes|80|1|Infinite Regular Item Slot 7|
+data|17|3BE91E|2 bytes|80|1|Infinite Regular Item Slot 8|
+data|17|3BE974|4 bytes|294912312|0|Put Best Sword In Slot 15|
+data|17|3BE978|4 bytes|294912320|0|Put Best Hammer In Slot 16|

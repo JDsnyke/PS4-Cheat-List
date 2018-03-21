@@ -459,6 +459,74 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 20C71D3CC
     ```
 
+* Dragon Quest Builders (CUSA05235 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374686806) [[2]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374695459) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragon_Quest_Builders_(CUSA05235-Ver_1.0.0).cht)
+
+    ```
+    Infinite HP
+
+    1 21129A198
+
+    Always Max Hunger
+
+    1 21129A19C
+
+    Set Days Elapsed To 1 (Part 1)
+
+    0 21129A194
+
+    Set Days Elapsed To 1 (Part 2)
+
+    0 21129A1A4
+
+    Set Attack Value
+
+    1 2112AD870
+
+    Set Defense Value
+
+    1 2112AD872
+
+    Infinite Item 1
+
+    1 2112B2902
+
+    Infinite Item 2
+
+    1 2112B2906
+
+    Infinite Item 3
+
+    1 2112B290A
+
+    Infinite Item 4
+
+    1 2112B290E
+
+    Infinite Item 5
+
+    1 2112B2912
+
+    Infinite Item 6
+
+    1 2112B2916
+
+    Infinite Item 7
+
+    1 2112B291A
+
+    Infinite Item 8
+
+    1 2112B291E
+
+    Put Best Sword in Slot 15
+
+    0 2112B2974
+
+    Put Best Hammer in Slot 16
+
+    0 2112B2978
+    ```
+
 * Dragon Quest Heroes (CUSA02769 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht)
 
     ```
