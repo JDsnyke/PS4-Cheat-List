@@ -47,6 +47,8 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to change your avatar / profile pic on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=_8YEaihW3dI)
 
+* How to create custom themes for a jailbroken PS4 : [HERE](https://www.psxhax.com/threads/making-a-ps4-theme-pkg-for-4-05-4-55-tutorial-by-mangekyou222.4907/)
+
 * How to dump PS4 game disc's into PKG files : [HERE](https://playstationhax.xyz/forums/topic/4260-how-to-rebuild-your-fake-signed-patched-raw-ps4-game-dump/)
 
 * How to run PS4 pkg's from a USB drive : [HERE](https://www.youtube.com/watch?v=nGa2ZKd2_Qc)
@@ -696,7 +698,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106454
     ```
 
-* Fl4tout : Total Insanity (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Fl4tout_Total Insanity_(CUSA07458-Ver_1.0.3).cht)
+* Fl4tout : Total Insanity (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Fl4tout_Total_Insanity_(CUSA07458-Ver_1.0.3).cht)
 
     ```
     Cash
