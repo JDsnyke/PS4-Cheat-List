@@ -814,6 +814,113 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 1C8D828
     ```
 
+* Nioh (CUSA07123 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80457) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80490) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Nioh_(CUSA07123-Ver_X.X.X).cht)
+
+    ```
+    Spirit Iron Fragment
+
+    0 16003A90
+
+    HQ Tamahagane
+
+    0 16005458
+    0 160048A0
+
+    HQ Wood
+
+    0 16004968
+    0 16004A30
+
+    HQ Lacquer
+
+    0 160040D0
+    0 16004260
+
+    HQ Ingot
+
+    0 160039C8
+    0 160059D0
+
+    HQ Leather Cord
+
+    0 160052C8
+    0 16004580
+
+    HQ Leather Kozane
+
+    0 16004710
+    0 160047D8
+
+    HQ Iron Kozane
+
+    0 16004328
+    0 160044B8
+
+    Iron Chunk
+
+    0 16004198
+
+    Demon Horn
+
+    0 16004D50
+
+    Great Centipede Fang
+
+    0 16005520
+
+    Bangasa Rib
+
+    0 16005070
+
+    Spirit Stone
+
+    0 15FE18A8
+
+    Small Spirit Stone
+
+    0 15FE02B8
+
+    Large Spirit Stone
+
+    0 15FE2A88
+
+    Guardian Spirit Talisman
+
+    0 160170B8
+
+    Slot Talisman
+
+    0 16017310
+
+    Arrow
+
+    0 15FEB238
+
+    Special Arrow
+
+    0 15FE3E08
+
+    Rifle Ammo
+
+    0 15FE65D8
+
+    Special Rifle Ammo
+
+    0 15FE2268
+
+    Hand Cannon Ammo
+
+    0 15FE60F8
+
+    Special Hand Cannon Ammo
+
+    0 15FE3448
+
+    Glory
+
+    0 161CFB8C
+    ```
+
 * Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
 
     ```
