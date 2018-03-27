@@ -752,6 +752,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 264C68899
     ```
 
+* inFAMOUS : Second Son (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863)
+
+    ```
+    Shards
+
+    0 21A36DD8
+
+    Bombs
+
+    0 27216DD4
+    ```
+
 * Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ```
