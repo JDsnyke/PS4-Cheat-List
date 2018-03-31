@@ -454,7 +454,15 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     PP
 
-    21E28928C
+    0 21E28928C
+    ```
+
+* Devil May Cry : Definitive Edition (CUSA01013 - Ver 1.0.0 - Firm 4.55 - PS4 Trainer Utility) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82860) [[Wiki Guide]](https://www.ign.com/wikis/dmc-devil-may-cry)
+
+    ```
+    Red Orbs
+
+    0 21AEFC450
     ```
 
 * Diablo 3 (CUSA00433 - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673) [[Wiki Guide]](https://www.ign.com/wikis/diablo-3)
@@ -1158,7 +1166,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 00EA54F8
     ```
 
-* Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825)
+* Watch Dogs 2 (CUSA04294 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82771) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82785) [[Wiki Guide]](https://www.ign.com/wikis/watch-dogs-2)
+
+    ```
+    Money [1]
+
+    1 204A81158
+
+    Inf Hack [2]
+
+    1 207A7CD74
+    ```
+
+* Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0/)
 
     ```
     Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
