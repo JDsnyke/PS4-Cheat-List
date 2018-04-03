@@ -844,6 +844,42 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 D583CC
     ```
 
+* Middle Earth: Shadow of Mordor GOTY Edition (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
+
+    ```
+    Note : Please use the 'First Save Slot' for this game. Using other slots may cause issues.
+
+    Note : Disregard duplicates in the cht file. They were meant as backups by the author.
+    ```
+
+    ```
+    Address's are not available (currently), please use cht file instead.
+
+    Attribute Points / Currency (Set your amount, kill 1, go back to Main Menu, reload your save)
+
+    0 XXXXXX
+
+    Exp (Go to Pause Menu, set your exp, go out from Pause Menu then back in)
+
+    0 XXXXXX
+
+    Skill Points (Set your amount, kill 1, go back to Main Menu, reload your save)
+
+    0 XXXXXX
+
+    Tier Points (Go to Pause Menu, set your exp go out from Pause Menu then back in)
+
+    0 XXXXXX
+
+    Inf Arrows
+
+    0 XXXXXX
+
+    Inf Focus
+
+    0 XXXXXX
+    ```
+
 * Mortal Kombat X Standard Edition (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610)
 
     ```
