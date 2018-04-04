@@ -1,34 +1,32 @@
-PS4 Cheat List Slack Code of Conduct
+Slack Code of Conduct
 ===========================
 
-Welcome!
+Welcome
 --------
-
-[BRIEF DESCRIPTION OF THE SLACK AND ITS PURPOSE]
 
 The current admins are:
 * JDsnyke
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Confidentiality:
+Confidentiality
 ----------------
 
 **Please keep what's said in psxcheatlist confidential**. Don't repeat or quote things said here without the affirmative consent of the speaker(s). When quoting (with consent), please be careful not to reveal the existence of psxcheatlist. Rather, you can refer to the quote as something that was said "in chat" or while you were talking to the quoted member.
 
 **Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-Logs and Records:
+Logs and Records
 -----------------
 
 **Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-Message Retention:
+Message Retention
 ------------------
 
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of psxcheatlist. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-Harassment:
+Harassment
 -----------
 
 Harassment includes:
