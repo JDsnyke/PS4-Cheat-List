@@ -1,0 +1,4 @@
+1.4|eboot.bin
+simple pointer|pointer|2 bytes|@6491CAE0_3_314CAE0+50+28+20+208+20+10+10+60+54|data|2 bytes|15|1|Precision Arrows|
+simple pointer|pointer|2 bytes|@18A866F0_3_30AE6F0+F0+360+28+0+208+20+10+60+54|data|2 bytes|30|0|Fire Arrows|
+simple pointer|pointer|float|@3D9CF750_3_30B3750+48+48+0+58+10+20+38+4C0+64|data|float|9999|0|Test Health 3|

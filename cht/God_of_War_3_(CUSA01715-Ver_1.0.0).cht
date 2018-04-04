@@ -2,3 +2,10 @@
 simple pointer|pointer|float|@22A2D4D38_21_18D4D38+1E8|data|float|99999|1|Souls|
 simple pointer|pointer|float|@22A2D9BC0_21_18D9BC0+1CC|data|float|300|1|Life|
 simple pointer|pointer|float|@22A2D4D38_21_18D4D38+1D0|data|float|300|1|Magic|
+simple pointer|pointer|float|@22A2D4D38_21_18D4D38+1D4|data|float|300|1|Arrow|
+simple pointer|pointer|float|@22A2D4D38_21_18D4D38+1D8|data|float|100|1|Special Sword|
+simple pointer|pointer|float|@22A2D4D38_20_18D4D38+1E8|data|float|99999|1|Souls2|
+simple pointer|pointer|float|@22A2D9BC0_20_18D9BC0+1CC|data|float|300|1|Life2|
+simple pointer|pointer|float|@22A2D4D38_20_18D4D38+1D0|data|float|300|1|Magic2|
+simple pointer|pointer|float|@22A2D4D38_20_18D4D38+1D4|data|float|300|1|Arrow2|
+simple pointer|pointer|float|@22A2D4D38_20_18D4D38+1D8|data|float|100|1|Special Sword2|

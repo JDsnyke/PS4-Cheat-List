@@ -579,6 +579,15 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 1F46E0
     ```
 
+* Dying Light (CUSAXXXXX - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83326) [[Wiki Guide]](https://www.ign.com/wikis/dying-light)
+
+    ```
+    Health
+
+    0 402DC54B14
+    0 402DC54B18
+    ```
+
 * FIFA 15 (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548) [[Wiki Guide]](https://www.ign.com/wikis/fifa-15)
 
     ```
@@ -728,7 +737,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 14919EB90
     ```
 
-* God of War 3 (CUSA01715 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_of_War_3_(CUSA01715-Ver_1.0.0).cht)
+* God of War 3 (CUSA01715 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83300) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_of_War_3_(CUSA01715-Ver_1.0.0).cht)
 
     ```
     Address's are not available (currently), please use cht file instead.
@@ -742,6 +751,10 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
 
     Magic
+
+    0 XXXXXX
+
+    Special Sword
 
     0 XXXXXX
     ```
@@ -777,7 +790,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 01E7A2B0
     ```
 
-* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434)
+* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-49#post-83844) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Horizon_Zero_Dawn_(CUSAXXXXX-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
 
     ```
     Arrows [1]
@@ -796,6 +809,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 25CF8212C
     0 25D915190
     0 264C68899
+    ```
+
+    ```
+    Address's are not available (currently), please use cht file instead.
+
+    Test Health [3]
+
+    0 XXXXXX
+
+    Precision Arrows [3]
+
+    0 XXXXXX
+
+    Fire Arrows [3]
+
+    0 XXXXXX
     ```
 
 * inFAMOUS : Second Son (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863)
@@ -1182,6 +1211,16 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 103DE01080
     0 103DE01084
     0 103DE01088
+    ```
+
+* Tekken 7 (CUSA06014 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-17#post-84529) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Tekken_7_(CUSA06014-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/tekken-7)
+
+    ```
+    Address's are not available (currently), please use cht file instead.
+
+    Health
+
+    0 XXXXXX
     ```
 
 * The Last of Us (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/the-last-of-us-ps4-cheater-4-55-cheat-codes.46608/) [[2]](https://playstationhax.xyz/forums/topic/4418-the-last-of-us-ps4-cheater-455-cheat-codes/)
