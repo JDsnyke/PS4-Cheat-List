@@ -21,7 +21,7 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 
 * [List](#list)
 
-* [Community](#community)
+* [Contact Me](#contact-me)
 
 * [Donate](#donate)
 
@@ -1299,9 +1299,9 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2003E6BC8 3B9AC9FF
     ```
 
-## Community
+## Contact Me
 
-Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel.
+Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel, open a  [Github](https://github.com/JDsnyke/PS4-Cheat-List/issues) issue or mention me using ```@Shurikan117``` on [PSXHAX](https://www.psxhax.com)
 
 ## Donate
 
