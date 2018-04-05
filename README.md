@@ -475,6 +475,16 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 20C71D3CC
     ```
 
+* Digimon Cyber Sleuth (CUSA02966 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83365) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Digimon_Cyber_Sleuth_(CUSA02966-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/digimon-story-cyber-sleuth/)
+
+    ```
+    Address's are not available (currently), please use cht file instead.
+
+    20k XP
+
+    0 XXXXXX
+    ```
+
 * Dragon Quest Builders (CUSA05235 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374686806) [[2]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374695459) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragon_Quest_Builders_(CUSA05235-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-quest-builders)
 
     ```
@@ -790,7 +800,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 01E7A2B0
     ```
 
-* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-49#post-83844) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Horizon_Zero_Dawn_(CUSAXXXXX-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
+* Horizon Zero Dawn (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
 
     ```
     Arrows [1]
@@ -811,18 +821,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 264C68899
     ```
 
+* Horizon Zero Dawn (CUSA07320 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-49#post-83844) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Horizon_Zero_Dawn_(CUSA07320-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
+
     ```
     Address's are not available (currently), please use cht file instead.
 
-    Test Health [3]
+    Test Health
 
     0 XXXXXX
 
-    Precision Arrows [3]
+    Precision Arrows
 
     0 XXXXXX
 
-    Fire Arrows [3]
+    Fire Arrows
 
     0 XXXXXX
     ```
@@ -873,6 +885,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Main Character EXP - Ryku
 
     0 D583CC
+    ```
+
+* LEGO Marvel Super Heroes (CUSA00044 - Ver X.X.X - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-53#post-84751) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/LEGO_Marvel_Super_Heroes_(CUSA00044-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-marvel-super-heroes)
+
+    ```
+    Coins
+
+    0 23039D820
     ```
 
 * Middle Earth: Shadow of Mordor GOTY Edition (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
