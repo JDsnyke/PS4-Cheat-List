@@ -1325,7 +1325,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 ## Contact Me
 
-Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel, open a  [Github](https://github.com/JDsnyke/PS4-Cheat-List/issues) issue or mention me using ```@Shurikan117``` on [PSXHAX](https://www.psxhax.com)
+Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel to be notified of the latest commits, open a [Github](https://github.com/JDsnyke/PS4-Cheat-List/issues) issue or mention me using ```@Shurikan117``` on [psxhax](https://www.psxhax.com)
 
 ## Donate
 
