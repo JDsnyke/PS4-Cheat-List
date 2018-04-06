@@ -779,17 +779,17 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 * Gravity Rush (CUSA01113 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Gravity_Rush_(CUSA01113-Ver_1.0.0).cht)
 
-  ```
-  Address's are not available (currently), please use cht file instead.
+    ```
+    Address's are not available (currently), please use cht file instead.
 
-  Gems
+    Gems
 
-  0 XXXXXX
+    0 XXXXXX
 
-  Life
+    Life
 
-  0 XXXXXX
-  ```
+    0 XXXXXX
+    ```
 
 * Gravity Rush 2 (CUSA03694 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58385)
 
@@ -887,12 +887,28 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 D583CC
     ```
 
+* LEGO Batman 3 Beyond Gotham (CUSA00580 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-84995) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/LEGO_Batman_3_Beyond_Gotham_(CUSA00580-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-batman-3-beyond-gotham)
+
+    ```
+    Coins
+
+    1 230647BE8
+    ```
+
 * LEGO Marvel Super Heroes (CUSA00044 - Ver X.X.X - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-53#post-84751) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/LEGO_Marvel_Super_Heroes_(CUSA00044-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-marvel-super-heroes)
 
     ```
     Coins
 
     0 23039D820
+    ```
+
+* LEGO Star Wars The Force Awakens (CUSA03397 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85043) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/LEGO_Star_Wars_The_Force_Awakens_(CUSA03397-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-star-wars-the-force-awakens/)
+
+    ```
+    Coins
+
+    0 21C743660
     ```
 
 * Middle Earth: Shadow of Mordor GOTY Edition (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
@@ -1158,6 +1174,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Fishing Points [5]
 
     0 7690AC40
+    ```
+
+* Resident Evil 4 (CUSA04885 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85014) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resident_Evil_4_(CUSA04885-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-4)
+
+    ```
+    Currency
+
+    0 7E485C7C  
     ```
 
 * Resident Evil Origins : RE 0 (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/re-origins-collection-re-0-ps4-cheater-4-55-codes.46606/) [[2]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
