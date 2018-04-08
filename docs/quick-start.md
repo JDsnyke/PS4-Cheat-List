@@ -6,7 +6,13 @@ The decision on following this guide / advice is up to you.
 
 However, try to use the below details as a rule of thumb when trying to troubleshoot.
 
-## Getting Started
+## Short Version
+
+Make sure you match everything provided in the information section, found next to the game title. Any mismatch could lead to errors or other issues.
+
+> Remember - addresses change with title id's, game updates and firmware versions (among others)
+
+## Long Version
 
 ### Step 01
 
@@ -41,15 +47,17 @@ However, try to use the below details as a rule of thumb when trying to troubles
 * If it is a sub-version, ensure you have the latest update of it.
 
     ```
-    If it says PS4Cheater 1.4 on the information area, try latest PS4Cheater version 1.4.2
+    If it says PS4Cheater 1.4 on the information area, try latest PS4Cheater version 1.4.2 etc.
     ```
 
 ### Step 07
 
 * If all steps above were covered, you can now proceed to load the exploit on your PS4, run the game and the relevant cheats / offsets.
 
+> Tip - save cht files easily by hovering over [CHT File] --> pressing 'right click' and then 'save link as'
+
 ## Questions
 
-I recommend conversing with the amazing community at [psxhax](https://www.psxhax.com) for more clarification.
+I recommend conversing with the amazing community at [Discord](https://discord.gg/FpRwaZE) or [psxhax](https://www.psxhax.com) for more clarification.
 
 Also feel free to join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel to be notified of the latest commits.
