@@ -134,44 +134,36 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
-* Atelier Sophie : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
+* Atelier Sophie : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
     ```
     Money
 
-    0 399CA3A0
+    0 1E30E3A0
 
-    Sophie Level
+    Sophie Max All
 
-    0 399CA3C8
+    0 1E30E3C8
 
-    Sophie Stats
+    Monika Max All
 
-    0 399CA3CC
+    0 1E30EB68
 
-    Monika Level
+    Oskar Max All
 
-    0 399CAB68
+    0 1E30EF38
 
-    Monika Stats
+    Julio Max All
 
-    0 399CAB6C
+    0 1E30F308
 
-    Oskar Level
+    Corneria Max All
 
-    0 399CAF38
+    0 1E30FAA8
 
-    Oskar Stats
+    Leon Max All
 
-    0 399CAF3C
-
-    Julio Level
-
-    0 399CB308
-
-    Julio Stats
-
-    0 399CB30C
+    0 1E310248
     ```
 
 * Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
