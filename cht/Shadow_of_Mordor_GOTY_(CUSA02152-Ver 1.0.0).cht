@@ -1,14 +1,14 @@
-1.4|eboot.bin
-simple pointer|pointer|4 bytes|@534CE508_2_10A508+0+0+8+28+0+40|data|4 bytes|14|0|P1 Arrow|
-simple pointer|pointer|4 bytes|@534C46C8_2_1006C8+0+0+8+28+0+40|data|4 bytes|14|0|P2 Arrow|
-simple pointer|pointer|4 bytes|@534CE570_2_10A570+30+48+198|data|4 bytes|300|0|P 1 Attribute Points = Currency (M)|
-simple pointer|pointer|4 bytes|@534C46C8_2_1006C8+0+0+8+28+0+44|data|4 bytes|1128792064|0|P1 Arrow Focus|
-simple pointer|pointer|4 bytes|@534CE508_2_10A508+0+0+8+28+0+44|data|4 bytes|1128792064|0|P2 Arrow Focus|
-simple pointer|pointer|4 bytes|@534C3E18_2_FFE18+30+0+30+68+0+0+0+88+28+28+20+80+3C|data|4 bytes|525|0|P1 Exp|
-simple pointer|pointer|4 bytes|@53603C10_2_23FC10+30+0+30+68+0+0+0+88+28+28+20+80+3C|data|4 bytes|525|0|P2 Exp|
-simple pointer|pointer|4 bytes|@534CE570_2_10A570+30+48+1D8|data|4 bytes|30|0|P1 Skill Points|
-simple pointer|pointer|4 bytes|@53398900_1_154900+38+30+28+68+0+0+0+88+28+20+28+88+44|data|4 bytes|298|0|P1 Tier Points|
-simple pointer|pointer|4 bytes|@53398900_1_154900+38+30+30+68+0+0+0+88+28+20+28+88+44|data|4 bytes|298|0|P2 Tier Points|
-simple pointer|pointer|4 bytes|@53398900_1_154900+38+30+28+0+60+0+0+88+28+20+28+88+44|data|4 bytes|298|0||
-simple pointer|pointer|4 bytes|@53398900_1_154900+38+30+30+0+60+0+0+88+28+20+28+88+44|data|4 bytes|298|0||
-simple pointer|pointer|4 bytes|@53398900_1_154900+38+30+28+8+60+0+0+88+28+20+28+88+44|data|4 bytes|299|0||
+1.4|eboot.bin|ID:CUSA02152|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@49BDE508_2_10A508+0+0+8+28+0+40|data|4 bytes|14|0|P1 Arrow|
+simple pointer|pointer|4 bytes|@49BDE570_2_10A570+30+48+198|data|4 bytes|350|0|P 1 Attribute Points = Currency (M)|
+simple pointer|pointer|4 bytes|@49BD46C8_2_1006C8+0+0+8+28+0+44|data|4 bytes|1128792064|0|P1 Arrow Focus|
+simple pointer|pointer|4 bytes|@49BD3E18_2_FFE18+30+0+30+68+0+0+0+88+28+28+20+80+3C|data|4 bytes|4751|0|P1 Exp|
+simple pointer|pointer|4 bytes|@49BDE570_2_10A570+30+48+1D8|data|4 bytes|34|0|P1 Skill Points|
+simple pointer|pointer|4 bytes|@49AA8900_1_154900+38+30+28+68+0+0+0+88+28+20+28+88+44|data|4 bytes|0|0|P1 Tier Points|
+simple pointer|pointer|float|@49BD5AD0_2_101AD0+0+100+0+0+10+E0+20+40+8+24|data|float|1000|0|P1 HP|
+simple pointer|pointer|float|@49BD3E58_2_FFE58+8+8+28+28+E0+20+40+8+24|data|float|200|0|P2 HP |
+simple pointer|pointer|float|@49BD3E50_2_FFE50+8+38+18+28+E0+20+40+8+24|data|float|200|0|P3 HP|
+simple pointer|pointer|float|@49BD3E58_2_FFE58+8+8+38+18+28+E0+20+40+8+24|data|float|200|0|P4 HP|
+simple pointer|pointer|float|@49BD3E58_2_FFE58+8+8+20+28+E0+20+40+8+24|data|float|200|0|P5 HP|
+simple pointer|pointer|float|@49BD67F0_2_1027F0+10+30+50+8+20+E8+20+40+8+24|data|float|200|0|P6 HP|
+simple pointer|pointer|float|@49BD5AD0_2_101AD0+0+100+0+0+38+E8+20+40+8+24|data|float|200|0|P7 HP|

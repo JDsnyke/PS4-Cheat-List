@@ -1,2 +1,7 @@
 1.4|eboot.bin
 simple pointer|pointer|4 bytes|@2339BC090_214_C090+554|data|4 bytes|99|0|20k XP|
+simple pointer|pointer|4 bytes|@200B22430_14_A430+48|data|4 bytes|9999999|0|Money|
+simple pointer|pointer|2 bytes|@6A1596C8_3_16C8+20+94|data|2 bytes|99|0|Memory Up|
+simple pointer|pointer|4 bytes|@233EFC090_214_C090+14|data|4 bytes|99|0|HP Capsule B|
+simple pointer|pointer|4 bytes|@238D6CB60_683_5CB60+54|data|4 bytes|99|0|HP Spray C|
+simple pointer|pointer|2 bytes|@742BA320_3_82320+20+40+F0+228+450+10+10+10FFFFFFFFFFFFD9F4|data|2 bytes|99|0|Medical Spray|

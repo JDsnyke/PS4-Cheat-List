@@ -1,0 +1,11 @@
+1.4|eboot.bin|ID:CUSA05572|VER:01.00|FM:455
+simple pointer|pointer|float|@51D72840_3_24E840+18+28+390+228+100+60+F0+110+20+48|data|float|9997|0|Health|
+simple pointer|pointer|float|@51D72840_3_24E840+30+28+390+228+100+60+F0+110+20+48|data|float|9999|0|Health|
+simple pointer|pointer|4 bytes|@27F91530_3_48D530+110+FFFFFFFFFFFFFFF8|data|4 bytes|519|0|XPLV|
+simple pointer|pointer|4 bytes|@27F93448_3_48F448+230+78+FFFFFFFFFFFFFFF8|data|4 bytes|517|0|XPLV|
+simple pointer|pointer|4 bytes|@1AF50EF0_3_48CEF0+110+98+30+20+8+40|data|4 bytes|200|0|Skill Points|
+simple pointer|pointer|4 bytes|@1AF56548_3_492548+230+98+30+20+8+40|data|4 bytes|199|0|Skill Points|
+simple pointer|pointer|4 bytes|@1AF4D408_3_489408+110+98+40+20+8+40|data|4 bytes|196|0|Skill Points|
+simple pointer|pointer|4 bytes|@1AF4D5D0_3_4895D0+230+98+40+20+8+40|data|4 bytes|196|0|Skill Points|
+simple pointer|pointer|4 bytes|@1AF50F20_3_48CF20+110+98+20+8+40|data|4 bytes|196|0|Skill Points|
+simple pointer|pointer|4 bytes|@1AF53968_3_48F968+230+98+20+8+40|data|4 bytes|196|0|Skill Points|

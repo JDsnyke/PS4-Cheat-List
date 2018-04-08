@@ -132,6 +132,46 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
+* Atelier Sophie : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
+
+    ```
+    Money
+
+    0 399CA3A0
+
+    Sophie Level
+
+    0 399CA3C8
+
+    Sophie Stats
+
+    0 399CA3CC
+
+    Monika Level
+
+    0 399CAB68
+
+    Monika Stats
+
+    0 399CAB6C
+
+    Oskar Level
+
+    0 399CAF38
+
+    Oskar Stats
+
+    0 399CAF3C
+
+    Julio Level
+
+    0 399CB308
+
+    Julio Stats
+
+    0 399CB30C
+    ```
+
 * Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 ) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
@@ -475,12 +515,32 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 20C71D3CC
     ```
 
-* Digimon Cyber Sleuth (CUSA02966 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83365) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Digimon_Cyber_Sleuth_(CUSA02966-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/digimon-story-cyber-sleuth/)
+* Digimon Cyber Sleuth (CUSA02966 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83365) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85469) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Digimon_Cyber_Sleuth_(CUSA02966-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/digimon-story-cyber-sleuth/)
 
     ```
     Address's are not available (currently), please use cht file instead.
 
     20k XP
+
+    0 XXXXXX
+
+    Money
+
+    0 XXXXXX
+
+    Memory Up
+
+    0 XXXXXX
+
+    HP Capsule B
+
+    0 XXXXXX
+
+    HP Spray C
+
+    0 XXXXXX
+
+    Medical Spray
 
     0 XXXXXX
     ```
@@ -911,7 +971,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 21C743660
     ```
 
-* Middle Earth: Shadow of Mordor GOTY Edition (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
+* Middle Earth: Shadow of Mordor GOTY Edition (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85280) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-55#post-85422) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
 
     ```
     Note : Please use the 'First Save Slot' for this game. Using other slots may cause issues.
@@ -943,6 +1003,10 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
 
     Inf Focus
+
+    0 XXXXXX
+
+    Inf HP
 
     0 XXXXXX
     ```
@@ -1297,6 +1361,43 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Inf Hack [2]
 
     1 207A7CD74
+    ```
+
+* Witcher 3 GOTY Edition (CUSA05572 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85569) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Witcher_3_GOTY_Edition_(CUSA05572-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
+
+    ```
+    Note : According to the author, could be game version 1.3.0 or 1.3.1 compatible.
+
+    Health
+
+    0 XXXXXX
+    0 XXXXXX
+
+    Level XP
+
+    0 XXXXXX
+    0 XXXXXX
+
+    Skill Points
+
+    0 XXXXXX
+    0 XXXXXX
+    0 XXXXXX
+    0 XXXXXX
+    0 XXXXXX
+    0 XXXXXX
+    ```
+
+* Witcher 3 GOTY Edition (CUSA05574 - Ver 1.3.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85475) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Witcher_3_GOTY_Edition_(CUSA05574-Ver_1.3.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
+
+    ```
+    Money
+
+    1 12333A9A14
+
+    Skill Points
+
+    0 1007C03710
     ```
 
 * Yakuza 0 (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0/)
