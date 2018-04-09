@@ -51,7 +51,7 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to change your avatar / profile pic on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=_8YEaihW3dI)
 
-* How to create custom themes for a jailbroken PS4 : [HERE](https://www.psxhax.com/threads/making-a-ps4-theme-pkg-for-4-05-4-55-tutorial-by-mangekyou222.4907/)
+* How to create custom themes for a jailbroken PS4 : [HERE](https://www.psxhax.com/threads/making-a-ps4-theme-pkg-for-4-05-4-55-tutorial-by-mangekyou222.4907/) and [HERE](https://www.youtube.com/watch?v=8Gyg6TIxfLw)
 
 * How to dump PS4 game disc's into PKG files : [HERE](https://playstationhax.xyz/forums/topic/4260-how-to-rebuild-your-fake-signed-patched-raw-ps4-game-dump/)
 
