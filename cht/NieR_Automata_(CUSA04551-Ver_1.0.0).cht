@@ -1,4 +1,5 @@
-1.2|eboot.bin
-data|3|4A1810|4 bytes|9999999|0|Gil|
-data|3|4A99C0|4 bytes|9999999|0|Exp -> 9999999 -> To get Max Lvl |
-data|3|4A1828|4 bytes|99|1|Medium Recovery|
+1.4|eboot.bin|ID:CUSA04551|VER:01.00|FM:455
+data|3|4A1810|4 bytes|9999999|0|Gil|458C5810
+data|3|4A99C0|4 bytes|9999999|0|Exp -> 9999999 -> To get Max Lvl |458CD9C0
+data|3|4A1828|4 bytes|90|0|Medium Recovery|458C5828
+simple pointer|pointer|4 bytes|@454034C0_1_7B4C0+98+518+340+1E0+348+8+C0+88+3B0|data|4 bytes|9057|0|P1 HP (Lock your MAX HP)|

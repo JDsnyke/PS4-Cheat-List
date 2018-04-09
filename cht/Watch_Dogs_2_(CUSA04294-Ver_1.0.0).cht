@@ -1,0 +1,6 @@
+1.4|eboot.bin|ID:CUSA04294|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@2005B3CA8_18_1C3CA8+18|data|4 bytes|9999999|1|Money|
+simple pointer|pointer|4 bytes|@200863CA8_18_1C3CA8+18|data|4 bytes|9816169|0|Money|
+simple pointer|pointer|4 bytes|@12684EA8_3_5CEA8+138+70+18+C8+0+50+B0+18+0+60+20|data|4 bytes|1035099|0|P1 Follower XP|
+simple pointer|pointer|float|@51E5E660_3_BA660+18+90+0+48+10+10+18|data|float|100|1|Life|
+simple pointer|pointer|float|@51E273A0_3_833A0+28+10+A8+110+328+0+290+74|data|float|1500|1|Inf Hack|

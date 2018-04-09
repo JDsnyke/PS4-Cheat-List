@@ -1015,20 +1015,24 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 037688D0
     ```
 
-* NieR Automata (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht)
+* NieR Automata (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht)
 
     ```
     Money
 
-    0 1C8D810
+    0 458C5810
 
     EXP (Set Exp 9999999 -> To get Max LvL 99)
 
-    0 1C959C0
+    0 458CD9C0
 
     Medium Recovery (Minimum 1 MR required first)
 
-    1 1C8D828
+    1 458C5828
+
+    Health (Lock Max HP) [2]
+
+    0 454034C0
     ```
 
 * Nioh (CUSA07123 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80457) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80490) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Nioh_(CUSA07123-Ver_X.X.X).cht)
@@ -1345,23 +1349,44 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 00EA54F8
     ```
 
-* Watch Dogs 2 (CUSA04294 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82771) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82785) [[Wiki Guide]](https://www.ign.com/wikis/watch-dogs-2)
+* Watch Dogs 2 (CUSA04294 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82771) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82785) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85757) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Watch_Dogs_2_(CUSA04294-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/watch-dogs-2)
 
     ```
     Money [1]
 
     1 204A81158
 
+    Money [3] [4]
+
+    0 200863CA8
+    1 2005B3CA8
+
+    Follower XP [3]
+
+    0 12684EA8
+
+    Life [4]
+
+    1 51E5E660
+
+    Inf Hack [4]
+
+    1 51E273A0
+
     Inf Hack [2]
 
     1 207A7CD74
     ```
 
-* Witcher 3 GOTY Edition (CUSA05572 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85569) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Witcher_3_GOTY_Edition_(CUSA05572-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
+* Witcher 3 GOTY Edition (CUSA05572 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85569) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-58#post-85772) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Witcher_3_GOTY_Edition_(CUSA05572-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
 
     ```
     Note : According to the author, could be game version 1.3.0 or 1.3.1 compatible.
 
+    Note : When setting XP LV, set value to 600000 than go get a kill. If u mess up and then it says wrong section, simply reboot and set again.
+    ```
+
+    ```
     Health
 
     0 XXXXXX
