@@ -1,0 +1,3 @@
+1.4|eboot.bin|ID:|VER:|FM:455
+simple pointer|pointer|4 bytes|@7D488B50_3_8CB50+80+1398+128+D8|data|4 bytes|9999|0|Inf Health|
+simple pointer|pointer|4 bytes|@7D45FDE8_3_63DE8+10+520+B8+FFFFFFFFFFFFFE4C|data|4 bytes|99999999|0|Inf Souls|​

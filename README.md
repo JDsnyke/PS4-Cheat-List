@@ -429,7 +429,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Address's are not available (currently), please use cht file instead.
     ```
 
-* Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
+* Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
+
+    ```
+    Game Ver - 1.11 to 1.30 [[?]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-60#post-86082)
+
+    Inf Health [3]
+
+    0 7D488B50
+
+    Inf Souls [3]
+
+    0 7D45FDE8
+    ```
 
     ```
     Souls
