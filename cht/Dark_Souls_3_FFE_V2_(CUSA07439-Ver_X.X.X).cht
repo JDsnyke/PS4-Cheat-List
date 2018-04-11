@@ -1,3 +1,6 @@
-1.4|eboot.bin|ID:|VER:|FM:455
-simple pointer|pointer|4 bytes|@7D488B50_3_8CB50+80+1398+128+D8|data|4 bytes|9999|0|Inf Health|
-simple pointer|pointer|4 bytes|@7D45FDE8_3_63DE8+10+520+B8+FFFFFFFFFFFFFE4C|data|4 bytes|99999999|0|Inf Souls|​
+1.4|eboot.bin|ID:CUSA07439|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@1F26CB50_3_8CB50+80+1398+128+D8|data|4 bytes|9999|0|Inf Health|
+simple pointer|pointer|4 bytes|@1F26CB50_3_8CB50+40+28+420+2E0+8+BE8+114|data|4 bytes|9999|0|Inf Energy|
+simple pointer|pointer|4 bytes|@1F243DE8_3_63DE8+10+520+B8+FFFFFFFFFFFFFE4C|data|4 bytes|99999999|0|Inf Souls|
+simple pointer|pointer|2 bytes|@1F2F7AC0_3_117AC0+258+68+160+148+4C0|data|2 bytes|20|0|Inf Bombs|
+simple pointer|pointer|2 bytes|@1F2B0B30_3_D0B30+30+50+80+60+60+530+10|data|2 bytes|99|0|Inf Durability Uchigatana|​

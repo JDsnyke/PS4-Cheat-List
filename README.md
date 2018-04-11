@@ -134,36 +134,56 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
-* Atelier Sophie : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
+* Atelier Sophie : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
     ```
     Money
 
-    0 1E30E3A0
+    0 629BE3A0
+
+    Vouchers
+
+    0 629CD248
+
+    Sophie Alchemy Max XP
+
+    0 629BC6B0
 
     Sophie Max All
 
-    0 1E30E3C8
+    0 629BE3C8
 
     Monika Max All
 
-    0 1E30EB68
+    0 629BEB68
 
     Oskar Max All
 
-    0 1E30EF38
+    0 629BEF38
 
     Julio Max All
 
-    0 1E30F308
+    0 629BF308
 
     Corneria Max All
 
-    0 1E30FAA8
+    0 629BFAA8
 
     Leon Max All
 
-    0 1E310248
+    0 629C0248
+
+    Harol Max All
+
+    0 629BFE78
+
+    Fritz Max All
+
+    0 629BF6D8
+
+    Plachta Max All
+
+    0 629BE798
     ```
 
 * Bloodborne (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
@@ -429,18 +449,30 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Address's are not available (currently), please use cht file instead.
     ```
 
-* Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
+* Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-23#post-86282) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
 
     ```
     Game Ver - 1.11 to 1.30 [[?]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-60#post-86082)
 
-    Inf Health [3]
+    Inf Health [3] [4]
 
-    0 7D488B50
+    0 1F26CB50
 
-    Inf Souls [3]
+    Inf Souls [3] [4]
 
-    0 7D45FDE8
+    0 1F243DE8
+
+    Inf Energy [4]
+
+    0 1F26CB50
+
+    Inf Bombs [4]
+
+    0 1F2F7AC0
+
+    Inf Durability Uchigatana [4]
+
+    0 1F2B0B30
     ```
 
     ```
