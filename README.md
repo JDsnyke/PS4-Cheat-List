@@ -209,6 +209,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 311F197F0
     ```
 
+* Bloodborne (CUSA00207 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86499) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_(CUSA00207-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
+
+    ```
+    Inf Health
+
+    0 53DFF510
+
+    Inf Energy
+
+    0 53D491A8
+
+    Inf Souls
+
+    0 53EDEBE0
+    ```
+
 * Bloodborne Game of the Year Edition (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
