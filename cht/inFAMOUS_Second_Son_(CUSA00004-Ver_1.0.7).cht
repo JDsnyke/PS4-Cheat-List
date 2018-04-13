@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA00004|VER:01.07|FM:455
+simple pointer|pointer|4 bytes|@53BADF50_1_D5F50+C0|data|4 bytes|166434304|0|P1 Karma Exp / Rank|
+simple pointer|pointer|4 bytes|@53D2B7A8_3_1137A8+80+E0|data|4 bytes|81|0|P1 Shards|
+simple pointer|pointer|4 bytes|@53BADF50_1_D5F50+DC|data|4 bytes|3|0|P2 Bombs|

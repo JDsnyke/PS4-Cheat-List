@@ -209,20 +209,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 311F197F0
     ```
 
-* Bloodborne (CUSA00207 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86499) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_(CUSA00207-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
+* Bloodborne (CUSA00207 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86499) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86645) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_(CUSA00207-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
     Inf Health
 
-    0 53DFF510
+    0 32A6B510
 
     Inf Energy
 
-    0 53D491A8
+    0 32A5C610
 
     Inf Souls
 
-    0 53EDEBE0
+    0 32B4ABE0
     ```
 
 * Bloodborne Game of the Year Edition (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
@@ -845,6 +845,23 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 3106454
     ```
 
+* Final Fantasy XV (CUSA01615 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86779) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Final_Fantasy_XV_(CUSA01615-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-15)
+
+    ```
+    Noctis Health
+
+    0 7C04E090
+
+    MP
+
+    0 62D59C00
+    0 62D59C80
+
+    XP
+
+    1 728AEB18
+    ```
+
 * Fl4tout : Total Insanity (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Fl4tout_Total_Insanity_(CUSA07458-Ver_1.0.3).cht)
 
     ```
@@ -953,7 +970,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
     ```
 
-* inFAMOUS : Second Son (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863)
+* inFAMOUS : Second Son (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863) [[Wiki Guide]](https://www.ign.com/wikis/infamous-second-son)
 
     ```
     Shards
@@ -963,6 +980,41 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Bombs
 
     0 27216DD4
+    ```
+
+* inFAMOUS : Second Son (CUSA00004 - Ver 1.0.7 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86797) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/inFAMOUS_Second_Son_(CUSA00004-Ver_1.0.7).cht) [[Wiki Guide]](https://www.ign.com/wikis/infamous-second-son)
+
+    ```
+    <EXP/ Right Rank Fix>
+
+    If you want to Change between good and bad you have to go first Normal use this values
+    -> 166434304
+
+    Then for good rank, do in game something good to Change your rank to Protector (lvl 1 good) then use the Level 5 (Max lvl) value for good to become True Hero then do something good again
+
+    or
+
+    Do after when you get normal something bad, Kill someone to change your rank to Thug (lvl 1 bad) then use the Level 5 (Max lvl) value for good to become Infamous then kill again some one
+
+    <Here the values>
+
+    If you want to go Infamous (Bad) Level 5 (Max lvl) Use this value -> 4259760640 then Kill someone to change your rank
+
+    If you want to go True Hero (Good) Level 5 (Max lvl) Use this value -> 1166434304 then do in game something good to Change your rank
+    ```
+
+    ```
+    P1 Karma Exp / Rank
+
+    0 53BADF50
+
+    P1 Shards
+
+    0 53D2B7A8
+
+    P2 Bombs
+
+    0 53BADF50
     ```
 
 * Kingdom Hearts 2.8 (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)

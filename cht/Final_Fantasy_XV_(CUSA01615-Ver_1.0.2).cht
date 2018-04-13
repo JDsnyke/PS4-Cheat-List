@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA01615|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@7C04E090_3_56090+10+278+8+3E8+2D8+10+18+1F8+180|data|4 bytes|1011|0|Noctis Health|
+simple pointer|pointer|4 bytes|@62D59C00_3_35DC00+4D0+10+278+8+3E8+2D8+10+18+1F8+1D0|data|4 bytes|300|0|MP|
+simple pointer|pointer|4 bytes|@62D59C80_3_35DC80+4D0+10+278+8+3E8+2D8+10+18+1F8+1D0|data|4 bytes|310|0|MP|
+simple pointer|pointer|4 bytes|@728AEB18_3_78AB18+20+8+8+8+50+1C8+10+6B0|data|4 bytes|9999999|1|XP|

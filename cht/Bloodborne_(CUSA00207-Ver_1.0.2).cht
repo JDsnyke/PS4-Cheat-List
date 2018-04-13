@@ -1,4 +1,4 @@
 1.4|eboot.bin|ID:CUSA00207|VER:01.02|FM:455
-simple pointer|pointer|4 bytes|@53DFF510_2_20F510+28+28+A0+158+C0+0+3B0+20+F8|data|4 bytes|9999|0|Inf Health|
-simple pointer|pointer|4 bytes|@53D491A8_2_1591A8+308+8+C0+8+10+10+188+60+134|data|4 bytes|200|0|Inf Energy|
-simple pointer|pointer|4 bytes|@53EDEBE0_2_2EEBE0+0+20+8+B8+8+8+120+8+3D0+FFFFFFFFFFFFFEC4|data|4 bytes|999999999|0|Max Inf Souls|
+simple pointer|pointer|4 bytes|@32A6B510_2_20F510+28+28+A0+158+C0+0+3B0+20+F8|data|4 bytes|9999|0|Inf Health|
+simple pointer|pointer|4 bytes|@32A5C610_2_200610+90+20+1700+C0+10+128+C0+0+3B0+20+134|data|4 bytes|200|0|Inf Energy|
+simple pointer|pointer|4 bytes|@32B4ABE0_2_2EEBE0+0+20+8+B8+8+8+120+8+3D0+FFFFFFFFFFFFFEC4|data|4 bytes|999999999|0|Max Inf Souls| 
