@@ -225,12 +225,48 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 32B4ABE0
     ```
 
-* Bloodborne Game of the Year Edition (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
+* Bloodborne Game of the Year Edition (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86954) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Bloodborne_GOTY_V2_(CUSA03173-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
     Blood Echo
 
     0 2082674C4
+    ```
+
+    ```
+    Note : works with EP9000-CUSA03173_00-BLOODBORNE0000EU-A0100-V0100 according to Vampirexx [CHT File 1.4]
+
+    Inf Health [2]
+
+    0 5E8BB8F0
+
+    Inf Energy [2]
+
+    0 5E8AA068
+
+    Inf Souls [2]
+
+    0 5E99AE20
+
+    Inf Intuition Points [2]
+
+    0 5E8030D0
+
+    Inf Bullets [2]
+
+    0 5E812038
+
+    Inf Knives [2]
+
+    0 5E8030D0
+
+    Inf Items Molotov [2]
+
+    0 5E8AA7A0
+
+    Inf Blood Stone Sliver [2]
+
+    0 5E8030D0
     ```
 
 * Call of Duty : Black Ops 3 (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-black-ops-3)
@@ -952,22 +988,54 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 264C68899
     ```
 
-* Horizon Zero Dawn (CUSA07320 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-49#post-83844) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Horizon_Zero_Dawn_(CUSA07320-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
+* Horizon Zero Dawn (CUSA07320 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-49#post-83844) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-64#post-87302) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Horizon_Zero_Dawn_(CUSA07320-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    Note : have at least 1 of the item in your inventory first
 
     Test Health
 
-    0 XXXXXX
+    0 5867750
+
+    Shards
+
+    0 58626F0
+
+    Hunter Arrows
+
+    0 5900AE0
+
+    Harvest Arrows
+
+    0 586C138
 
     Precision Arrows
 
-    0 XXXXXX
+    0 586C138
+
+    Tear Blast Arrows
+
+    0 586C138
 
     Fire Arrows
 
-    0 XXXXXX
+    0 5900AE0
+
+    Blast Trap
+
+    0 5900AE0
+
+    Detonating Blast Trap
+
+    0 586C138
+
+    Shock Trap
+
+    0 586C138
+
+    Shock Wire
+
+    0 58626F0
     ```
 
 * inFAMOUS : Second Son (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863) [[Wiki Guide]](https://www.ign.com/wikis/infamous-second-son)
@@ -1348,6 +1416,24 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Fishing Points [5]
 
     0 7690AC40
+    ```
+
+* Republique (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
+
+    ```
+    Money
+
+    0 6E507568
+
+    Battery
+
+    (Every bar of battery is 0,1 (with a comma), so if your battery have 3 bars of energy, you should put 0,3 as the value. If your battery have 4 bar, you should put 0,4... and so on.)
+
+    0 6E507568
+
+    Pepper Spray
+
+    0 6E683A60
     ```
 
 * Resident Evil 4 (CUSA04885 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85014) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resident_Evil_4_(CUSA04885-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-4)

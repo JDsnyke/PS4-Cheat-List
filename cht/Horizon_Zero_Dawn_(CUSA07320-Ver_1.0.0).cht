@@ -1,4 +1,12 @@
-1.4|eboot.bin
-simple pointer|pointer|2 bytes|@6491CAE0_3_314CAE0+50+28+20+208+20+10+10+60+54|data|2 bytes|15|1|Precision Arrows|
-simple pointer|pointer|2 bytes|@18A866F0_3_30AE6F0+F0+360+28+0+208+20+10+60+54|data|2 bytes|30|0|Fire Arrows|
-simple pointer|pointer|float|@3D9CF750_3_30B3750+48+48+0+58+10+20+38+4C0+64|data|float|9999|0|Test Health 3|
+1.4|eboot.bin|ID:CUSA07320|VER:01.00|FM:455
+simple pointer|pointer|float|@5867750_3_30B3750+48+48+0+58+10+20+38+4C0+64|data|float|9999|0|Test Health 3|
+simple pointer|pointer|4 bytes|@5900AE0_3_314CAE0+58+28+B0+28+30+208+50+8+7F8+54|data|4 bytes|9|0|Blast Trap|
+simple pointer|pointer|4 bytes|@586C138_3_30B8138+50+0+8+88+190+228+10+20+60+54|data|4 bytes|10|0|Detonating Blast Trap|
+simple pointer|pointer|2 bytes|@5900AE0_3_314CAE0+28+28+A0+28+70+8+30+88+38+54|data|2 bytes|29|0|Fire Arrows|
+simple pointer|pointer|2 bytes|@586C138_3_30B8138+50+0+8+88+150+230+8+78+54|data|2 bytes|15|0|Harvest Arrows|
+simple pointer|pointer|2 bytes|@5900AE0_3_314CAE0+70+1B8+230+8+28+10+60+54|data|2 bytes|30|0|Hunter Arrows|
+simple pointer|pointer|2 bytes|@586C138_3_30B8138+50+0+8+190+230+8+50+18+54|data|2 bytes|15|0|Precision Arrows|
+simple pointer|pointer|4 bytes|@58626F0_3_30AE6F0+F0+2C8+28+0+198+28+0+1F8+8+8E4|data|4 bytes|9999999|0|Shards|
+simple pointer|pointer|4 bytes|@586C138_3_30B8138+50+0+8+88+F8+228+10+50+0+FFFFFFFFFFFFFFF4|data|4 bytes|9|0|Shock Trap|
+simple pointer|pointer|2 bytes|@586C138_3_30B8138+50+0+8+88+280+1A0+1E0+78+54|data|2 bytes|15|0|Tear Blast Arrows|
+simple pointer|pointer|2 bytes|@58626F0_3_30AE6F0+F0+230+28+0+1F8+8+858+54|data|2 bytes|6|0|Shock Wire|

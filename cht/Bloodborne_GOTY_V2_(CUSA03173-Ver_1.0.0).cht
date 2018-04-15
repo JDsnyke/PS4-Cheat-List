@@ -1,0 +1,9 @@
+1.4|eboot.bin|ID:CUSA03173|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@5E8BB8F0_2_20F8F0+0+C0+0+0+C0+28+8+3B0+20+F8|data|4 bytes|1900|0|Inf Health|
+simple pointer|pointer|4 bytes|@5E8AA068_2_1FE068+100+60+0+A0+108+C0+0+3B0+20+138|data|4 bytes|200|0|Inf Energy|
+simple pointer|pointer|4 bytes|@5E99AE20_2_2EEE20+0+110+10+D0+70+A8+8+120+8+94|data|4 bytes|999999999|0|Inf Souls|
+simple pointer|pointer|2 bytes|@5E8030D0_2_1570D0+100+148+0+10+C0+8+50+10+68+84|data|2 bytes|99|0|Inf Intuition Points|
+simple pointer|pointer|2 bytes|@5E812038_2_166038+1C0+18+B8+30+10+38+8+18+218+D8|data|2 bytes|99|0|Inf Bullets|
+simple pointer|pointer|2 bytes|@5E8030D0_2_1570D0+110+60+4A0+50+3D0+8+18+218+1D8|data|4 bytes|99|0|Inf Knives|
+simple pointer|pointer|2 bytes|@5E8AA7A0_2_1FE7A0+178+C0+0+68+30+8+18+218+108|data|2 bytes|99|0|Inf Items Molotov|
+simple pointer|pointer|4 bytes|@5E8030D0_2_1570D0+38+10+68+5A0+148+218+128|data|4 bytes|99|0|Inf Blood Stone Sliver| 

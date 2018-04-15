@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA03853|VER:01.01|FM:455
+simple pointer|pointer|4 bytes|@6E507568_1_3B568+8+1AE0+20+30+98+A0+0+0+A0+1E0+18+18+0+10+20+28+10+20+68+FFFFFFFFFFFFFFF8|data|4 bytes|9999999|0|Money|
+simple pointer|pointer|float|@6E507568_1_3B568+8+1D98+0+18+70+40+10+20+134|data|float|0,4|0|Battery|
+simple pointer|pointer|4 bytes|@6E683A60_3_13FA60+340+2B0+10+28+E8+20+60+350+198+38|data|4 bytes|9|0|Pepper Spray|
