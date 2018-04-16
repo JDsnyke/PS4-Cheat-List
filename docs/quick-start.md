@@ -6,6 +6,10 @@ The decision on following this guide / advice is up to you.
 
 However, try to use the below details as a rule of thumb when trying to troubleshoot.
 
+    ```
+    Warning : take care to not load too many cheats for a game at once. Doing so could lead to crashing and game lag. Stick to two or three cheats at a time to avoid this. Save the changes, restart console and exploit, before changing the next set, etc.
+    ```
+
 ## Short Version
 
 Make sure you match everything provided in the information section, found next to the game title. Any mismatch could lead to errors or other issues.

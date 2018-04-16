@@ -501,6 +501,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Address's are not available (currently), please use cht file instead.
     ```
 
+* Darksiders Warmaster Edition (CUSA05347 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87675) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Darksiders_Warmaster_Edition_(CUSA05347-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/darksiders)
+
+    ```
+    Inf Health
+
+    0 224439F0
+
+    Inf Souls
+
+    0 2232C108
+
+    Inf Horse Charges
+
+    0 226E5530
+    ```
+
 * Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-23#post-86282) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
 
     ```
@@ -1418,22 +1434,28 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7690AC40
     ```
 
-* Republique (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
+* Republique (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87574) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
+
+    ```
+    Warning : Normally you can have only a maximum of 3 of each weapon (Only 3 taser, only 3 pepper spray). In one occasion I tried to put more than that using the codes, but this seems to mess with the game and, after that, some actions were unavailable, specifically all of the actions made using the x button. So, make sure to not surpass the maximum of 3 used by the game. If you find yourself unable to search a locker or unable to crawl in a vent, just close and open the game and everything should be working fine again.
+    ```
 
     ```
     Money
 
-    0 6E507568
+    0 1C43F568
 
     Battery
 
     (Every bar of battery is 0,1 (with a comma), so if your battery have 3 bars of energy, you should put 0,3 as the value. If your battery have 4 bar, you should put 0,4... and so on.)
 
-    0 6E507568
+    0 1C43F568
 
-    Pepper Spray
+    Weapon
 
-    0 6E683A60
+    (Change quantity of pepper spray and taser, one code for all)
+
+    0 1C43F568
     ```
 
 * Resident Evil 4 (CUSA04885 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85014) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resident_Evil_4_(CUSA04885-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-4)

@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA05347|VER:01.00|FM:455
+simple pointer|pointer|float|@224439F0_3_11B9F0+8+88+184|data|float|500|0|Inf Health|
+simple pointer|pointer|float|@2232C108_3_4108+28+200|data|float|9999999|0|Inf Souls|
+simple pointer|pointer|2 bytes|@226E5530_3_3BD530+28+30+65C|data|2 bytes|5|0|Inf Horse Charges|
