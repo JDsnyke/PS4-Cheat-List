@@ -517,6 +517,30 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 226E5530
     ```
 
+* Dark Souls 2 - Scholar of the First Sin (CUSA01589 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-68#post-88271) [[CHT file]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_2_(CUSA01589-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-2)
+
+    ```
+    Inf Health
+
+    0 72719560
+
+    Max Inf Souls
+
+    0 7271B0F0
+
+    Inf Energy
+
+    0 7291BBD0
+
+    Inf Durability Weapons
+
+    0 7271B0F0
+
+    Inf Durability Shields
+
+    0 7291BBD0
+    ```
+
 * Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-23#post-86282) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
 
     ```
@@ -595,6 +619,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Cash
 
     0 401F882DF8
+    ```
+
+* Dead Island : Definitive Edition (CUSA03291 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-66#post-88082) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dead_Island_Definitive_Edition_(CUSA03291-Ver_1.0.3).cht) [[Wiki Guide]](https://www.ign.com/wikis/dead-island)
+
+    ```
+    Flashlight
+
+    1 5BC4F708
+
+    Money
+
+    1 5BC4F730
+
+    Stamina
+
+    1 5BC4F738
     ```
 
 * Dead Rising 1 HD Remake (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/) [[2]](https://playstationhax.xyz/forums/topic/4379-dead-rising-1-hd-remake-ps4-cheater-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/dead-rising)

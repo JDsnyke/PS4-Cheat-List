@@ -1,0 +1,6 @@
+1.4|eboot.bin|ID:CUSA01589|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@72719560_2_1560+1BA0+98+28+0+100+10+10+8+18|data|4 bytes|9999|0|Inf Health|
+simple pointer|pointer|4 bytes|@7271B0F0_2_30F0+D0+100+10+10+8+298+8+D0+EC|data|4 bytes|999999999|0|Max Inf Souls|
+simple pointer|pointer|2 bytes|@7291BBD0_2_203BD0+E0+100+100+10+10+8+66|data|2 bytes|32767|0|Inf Energy|
+simple pointer|pointer|float|@7271B0F0_2_30F0+D0+100+10+10+8+230+28+16C|data|float|99|0|Inf Durability Weapons|
+simple pointer|pointer|float|@7291BBD0_2_203BD0+E0+100+100+10+10+8+230+28+94|data|float|99|0|Inf Durability Shields|

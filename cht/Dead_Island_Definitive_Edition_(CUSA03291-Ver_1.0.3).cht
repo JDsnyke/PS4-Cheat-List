@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA03291|VER:01.00|FM:455
+simple pointer|pointer|2 bytes|@5BC4F708_3_B708+198+870+62|data|2 bytes|17096|1|Flashlight|
+simple pointer|pointer|2 bytes|@5BC4F730_3_B730+18+0+B58|data|2 bytes|8769|1|Money|
+simple pointer|pointer|2 bytes|@5BC4F738_3_B738+10+0+D52|data|2 bytes|16256|1|Stamina|
+simple pointer|pointer|2 bytes|@5BC4F738_3_B738+10+0+D46|data|2 bytes|16256|1|Stamina|
