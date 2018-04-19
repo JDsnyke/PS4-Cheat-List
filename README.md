@@ -517,28 +517,40 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 226E5530
     ```
 
-* Dark Souls 2 - Scholar of the First Sin (CUSA01589 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-68#post-88271) [[CHT file]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_2_(CUSA01589-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-2)
+* Dark Souls 2 - Scholar of the First Sin (CUSA01589 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-68#post-88271) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88320) [[CHT file]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_2_(CUSA01589-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-2)
 
     ```
     Inf Health
 
-    0 72719560
+    0 3DF8D560
 
     Max Inf Souls
 
-    0 7271B0F0
+    0 3DF8F0F0
 
     Inf Energy
 
-    0 7291BBD0
+    0 3E18FBD0
 
     Inf Durability Weapons
 
-    0 7271B0F0
+    0 3DF8F0F0
 
     Inf Durability Shields
 
-    0 7291BBD0
+    0 3E18FBD0
+
+    Inf Titanium
+
+    0 3DF8F0F0
+
+    Inf Items
+
+    0 3DF8F510
+
+    Inf Arrows
+
+    0 3DF8FA18
     ```
 
 * Dark Souls 3 - Fire Fades Edition (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-23#post-86282) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
@@ -1595,6 +1607,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Ammo (currently has issues, view source for more details)
 
     0 11748B719C
+    ```
+
+* Last of Us : Remastered (CUSA00556 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
+
+    ```
+    Inf Health
+
+    0 6836A530
+
+    Inf Ammo Health
+
+    0 683E4768
     ```
 
 * Uncharted Trilogy (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)

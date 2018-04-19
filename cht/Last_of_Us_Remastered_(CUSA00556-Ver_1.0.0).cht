@@ -1,0 +1,3 @@
+1.4|eboot.bin|ID:CUSA00556|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@6836A530_2_2530+0+3A8+30|data|4 bytes|100|0|Inf Health|
+simple pointer|pointer|4 bytes|@683E4768_2_7C768+118+10+0+378+0+1F8+1C0+20C|data|4 bytes|99|0|Inf Ammo Gun|
