@@ -61,6 +61,8 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
 
+* How to use PS4 Toolbox by DeathRGH : [HERE](https://pastebin.com/vtViM2Hj)
+
 ## Program / Tool Links
 
 * PS4Cheater : [GITHUB](https://github.com/hurrican6/PS4_Cheater/releases) or [THREAD](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
@@ -70,6 +72,8 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 * PS4 Cheat Manager : [0.1.3](http://www26.zippyshare.com/v/c1uzaoQR/file.html)
 
 * PS4 Trainer Utility : [0.9.3](http://www94.zippyshare.com/v/bfxSG6cx/file.html) or [THREAD](https://www.psxhax.com/threads/ps4-trainer-utility-community-edition-tuce-v0-9-by-zerofox.4847/)
+
+* PS4 Toolbox by DeathRGH : [1.1.0.0](https://cdn.discordapp.com/attachments/430007650760261695/436716511596642305/PS4_Toolbox_by_DeathRGH_v1.1.0.0_exclusive_test_version.rar)
 
 ## Cheat Usage and Template
 
@@ -1390,7 +1394,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 161CFB8C
     ```
 
-* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht)
+* Persona 5 (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht)
 
     ```
     Money
@@ -1484,6 +1488,36 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Fishing Points [5]
 
     0 7690AC40
+    ```
+
+    ```
+    1st Persona Exp [6]
+
+    0 61FAF76C
+
+    2nd Persona Exp [6]
+
+    0 61FAF79C
+
+    3rd Persona Exp [6]
+
+    0 61FAF7CC
+
+    4th Persona Exp [6]
+
+    0 61FAF7FC
+
+    5th Persona Exp [6]
+
+    0 61FAF82C
+
+    6th Persona Exp [6]
+
+    0 61FAF85C
+
+    All Items, Materials & Essentials [7]
+
+    0 61FB1B73
     ```
 
 * Republique (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87574) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
