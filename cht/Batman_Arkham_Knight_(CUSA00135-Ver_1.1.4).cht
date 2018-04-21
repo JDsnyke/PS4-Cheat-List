@@ -1,0 +1,3 @@
+1.4|eboot.bin|ID:CUSA00135|VER:01.14|FM:455
+simple pointer|pointer|4 bytes|@7F780760_2_A5C760+10+618+38+2A8+2A8+38+58+A0+608+3F8|data|4 bytes|555|0|P1 Root W|
+simple pointer|pointer|4 bytes|@7F4157B8_2_6F17B8+80+58+70+13A0+45C|data|4 bytes|100|0|P1 Inf HP|

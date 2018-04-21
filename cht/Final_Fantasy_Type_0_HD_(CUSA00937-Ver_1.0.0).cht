@@ -1,0 +1,22 @@
+1.4|eboot.bin|ID:CUSA00937|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@142D0FA8_2_3A4FA8+7C8+0+1AF0+878|data|4 bytes|265|0|P1 First Chara / ODIN HP|
+simple pointer|pointer|4 bytes|@142D0FA8_2_3A4FA8+7C8+0+1AF0+884|data|4 bytes|232|0|P1 First Chara / ODIN MP|
+simple pointer|pointer|4 bytes|@144F9FA8_2_5CDFA8+10+7C8+0+1B60+878|data|4 bytes|0|0|P1 Second Chara HP|
+simple pointer|pointer|4 bytes|@14144E90_2_218E90+180+7C8+0+1B60+884|data|4 bytes|0|0|P1 Second Chara MP|
+simple pointer|pointer|4 bytes|@144F9FA8_2_5CDFA8+10+7C8+0+1B28+878|data|4 bytes|0|0|P1 Third Chara HP|
+simple pointer|pointer|4 bytes|@144F9FA8_2_5CDFA8+10+7C8+0+1B28+884|data|4 bytes|0|0|P1 Third Chara MP|
+data|2|2DFBF4|4 bytes|102832|0|Gil|1420BBF4
+data|2|2E6374|4 bytes|999|0|Ace AP|14212374
+data|2|2E67B4|4 bytes|999|0|Trey AP|142127B4
+data|2|2E69D4|4 bytes|999|0|Cater AP|142129D4
+data|2|2E6BF4|4 bytes|999|0|Cinque AP|14212BF4
+data|2|2E6E14|4 bytes|999|0|Sice AP|14212E14
+data|2|2E7034|4 bytes|999|0|Seven AP|14213034
+data|2|2E7254|4 bytes|999|0|Eight AP|14213254
+data|2|2E7474|4 bytes|999|0|Nine AP|14213474
+data|2|2E7694|4 bytes|999|0|Jack AP|14213694
+data|2|2E78B4|4 bytes|999|0|Queen AP|142138B4
+data|2|2E7AD4|4 bytes|999|0|King AP|14213AD4
+data|2|2E7CF4|4 bytes|999|0|Machina AP|14213CF4
+data|2|2E7F14|4 bytes|999|0|Rem AP|14213F14
+data|2|2DFBF8|4 bytes|99999|0|VP|1420BBF8
