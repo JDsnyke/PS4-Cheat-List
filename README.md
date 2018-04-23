@@ -3,9 +3,10 @@
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
-    ```
-    Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
-    ```
+```
+Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
+```
+
 
 ## Table of Contents
 
