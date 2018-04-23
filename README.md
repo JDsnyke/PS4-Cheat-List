@@ -3,6 +3,10 @@
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
+    ```
+    Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
+    ```
+
 ## Table of Contents
 
 * [Disclaimer](#disclaimer)
@@ -138,7 +142,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
-* __Atelier Sophie__ : The Alchemist of the Mysterious Book (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
+* __Atelier Sophie : The Alchemist of the Mysterious Book__ (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
     ```
     Money
@@ -1506,7 +1510,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 23A43E0
     ```
 
-* __Persona 5__ (CUSA06638 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht)
+* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
+
+    ```
+    Note : apparently these codes work for both CUSA06638 and CUSA05877 respectively [8]
+    ```
 
     ```
     Money
@@ -1603,6 +1611,8 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
+    CHT FILE V2 :
+
     1st Persona Exp [6]
 
     0 61FAF76C
@@ -1630,6 +1640,458 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     All Items, Materials & Essentials [7]
 
     0 61FB1B73
+    ```
+
+    ```
+    CHT FILE V3 :
+
+    Money [8]
+
+    0 8FD6674
+
+    Note : for codes: 'Items&Materials&Essentials', 'All Treasures' and 'All Skill Cards', you only need to lock them for the cheat to load. The objects will automatically appear in the item section of the menu.
+
+    (From - https://kutt.it/MDfTb4)
+
+    All Items, Materials and Essentials [8] [9]
+
+    0 8FD5B73
+
+    Social Stats (Only 1 point for max) [9]
+
+    0 8FE5D20
+
+    Main Character HP [8] [9]
+
+    0 8FD372C
+
+    Main Character SP [8] [9]
+
+    0 8FD3730
+
+    Main Character EXP [8] [9]
+
+    0 8FD373C
+
+    Main Character Gun Bullets [8] [9]
+
+    0 8FD39B4
+
+    Ryuji HP [8] [9]
+
+    0 8FD39CC
+
+    Ryuji SP [8] [9]
+
+    0 8FD39D0
+
+    Ryuji EXP [8] [9]
+
+    0 8FD3A0C
+
+    Ryuji Gun Bullets [8] [9]
+
+    0 8FD3C54
+
+    Ann HP [8] [9]
+
+    0 8FD3F0C
+
+    Ann SP [8] [9]
+
+    0 8FD3F10
+
+    Ann EXP [8] [9]
+
+    0 8FD3F4C
+
+    Ann Gun Bullets [8] [9]
+
+    0 8FD4194
+
+    Morgana HP [8] [9]
+
+    0 8FD3C6C
+
+    Morgana SP [8] [9]
+
+    0 8FD3C70
+
+    Morgana EXP [8] [9]
+
+    0 8FD3CAC
+
+    Morgana Gun Bullets [8] [9]
+
+    0 8FD3EF4
+
+    Yusuke HP [8] [9]
+
+    0 8FD41AC
+
+    Yusuke SP [8] [9]
+
+    0 8FD41B0
+
+    Yusuke EXP [8] [9]
+
+    0 8FD41EC
+
+    Yusuke Gun Bullets [8] [9]
+
+    0 8FD4434
+
+    Security Level [8] [9]
+
+    0 8FD6CE4
+
+    1st Persona Exp [8] [9]
+
+    0 8FD376C
+
+    2nd Persona Exp [8] [9]
+
+    0 8FD379C
+
+    3rd Persona Exp [8] [9]
+
+    0 8FD37CC
+
+    4th Persona Exp [8] [9]
+
+    0 8FD37FC
+
+    5th Persona Exp [8] [9]
+
+    0 8FD382C
+
+    6th Persona Exp [8] [9]
+
+    0 8FD385C
+
+    7th Persona Exp [8] [9]
+
+    0 8FD388C
+
+    8th Persona Exp [8] [9]
+
+    0 8FD38BC
+
+    9th Persona Exp [8] [9]
+
+    0 8FD38EC
+
+    10th Persona Exp [8] [9]
+
+    0 8FD391C
+
+    11th Persona Exp [8] [9]
+
+    0 8FD394C
+
+    12th Persona Exp [8] [9]
+
+    0 8FD397C
+
+    Note : for the "change persona" code, you need to write in "value" the hex code for the persona you want. Lets say you have Arsene and you want to change it for Metatron. Just write 0100 in value and press enter. If you check your personas now, you'll see Metatron instead of Arsene.
+
+    (From - https://kutt.it/MDfTb4)
+
+    Note 2 : The codes don't give you more slots. And you need to have a persona equipped in the slot you are gonna change. If you have Arsene in slot 1 and you want to change it, go to the cheat "change slot 1 persona" and write in value the code for the persona you want. Press enter and you'll see the new persona instead of Arsene. And remember, hex codes becomes empty if you try to refresh them.
+
+    (From - https://kutt.it/1k8EgD)
+
+    Change Slot 1 Persona [8] [9] (hex code values can be found below)
+
+    0 8FD3766
+
+    Change Slot 2 Persona [8] [9]
+
+    0 8FD3796
+
+    Change Slot 3 Persona [8] [9]
+
+    0 8FD37C6
+
+    Change Slot 4 Persona [8] [9]
+
+    0 8FD37F6
+
+    Change Slot 5 Persona [8] [9]
+
+    0 8FD3826
+
+    Change Slot 6 Persona [8] [9]
+
+    0 8FD3856
+
+    Change Slot 7 Persona [8] [9]
+
+    0 8FD3886
+
+    Change Slot 8 Persona [8] [9]
+
+    0 8FD38B6
+
+    Change Slot 9 Persona [8] [9]
+
+    0 8FD38E6
+
+    Change Slot 10 Persona [8] [9]
+
+    0 8FD3916
+
+    Change Slot 11 Persona [8] [9]
+
+    0 8FD3946
+
+    Change Slot 12 Persona [8] [9]
+
+    0 8FD3976
+    ```
+
+    ```
+    Change Persona Code Values for CHT File V3 [8]
+
+    (From - https://kutt.it/Pb8c9B)
+
+    0100 = Metatron
+    0200 = Beelzebub
+    0300 = Cu Chulainn
+    0400 = Jack-o'-Lantern
+    0500 = Jack Frost
+    0600 = Pixie
+    0700 = Cerberus
+    0800 = Lilim
+    0900 = Eligor
+    0A00 = Odin
+    0B00 = Hua Po
+    0C00 = Decarabia
+    0D00 = Mara
+    0E00 = Ose
+    0F00 = Thor
+    1000 = Unicorn
+    1100 = Uriel
+    1200 = Sarasvati
+    1300 = Valkirie
+    1400 = Yaksini
+    1500 = Ganesha
+    1600 = Anubis
+    1700 = Mot
+    1800 = Raphael
+    1900 = Scathach
+    1A00 = High Pixie
+    1B00 = Barong
+    1C00 = Girimehkala
+    1D00 = King Frost
+    1E00 = Narcissus
+    1F00 = Isis
+    2000 = Lamia
+    2100 = Legion
+    2200 = Rakshasa
+    2300 = Mokoi
+    2400 = Forneus
+    2500 = Setanta
+    2600 = Titania
+    2700 = Incubus
+    2800 = Oni
+    2900 = Lilith
+    2A00 = Rangda
+    2B00 = Makami
+    2C00 = Parvati
+    2D00 = Gabriel
+    2E00 = Zaou-Gongen
+    2F00 = Alice
+    3000 = Kali
+    3100 = Kurama Tengu
+    3200 = Oberon
+    3300 = Shiki-Ouji
+    3400 = Yamata-no-Orochi
+    3500 = Orobas
+    3600 = Hanuman
+    3700 = Archangel
+    3800 = Obariyon
+    3900 = Queen Mab
+    3A00 = Sandalphon
+    3B00 = Abaddon
+    3C00 = Shiisaa
+    3D00 = Sandman
+    3E00 = Belial
+    3F00 = Leanan Sidhe
+    4000 = Cybele
+    4100 = Chernobog
+    4200 = Flauros
+    4300 = Ippon-Datara
+    4400 = Orthrus
+    4500 = Succubus
+    4600 = Mothman
+    4800 = Dominion
+    4900 = Nekomata
+    4A00 = Black Frost
+    4B00 = Arahabaki
+    4C00 = Angel
+    4D00 = Skadi
+    4E00 = Kikuri-Hime
+    4F00 = Chi You
+    5000 = Power
+    5100 = Inugami
+    5200 = Nebirus
+    5400 = Slime
+    5500 = Anzu
+    5600 = Yatagarasu
+    5700 = Yoshitsune
+    5800 = Take-Minakata
+    5900 = Ame-No-Uzume
+    5A00 = Kushinada
+    5B00 = Kumbhanda
+    5C00 = Ongyo-Ki
+    5D00 = Kin-Ki
+    5E00 = Sui-Ki
+    5F00 = Fuu-Ki
+    6000 = Jatayu
+    6100 = Kaiwan
+    6200 = Kelpie
+    6300 = Thoth
+    6400 = Dionysus
+    6500 = Apsaras
+    6600 = Andras
+    6800 = Koropokguru
+    6900 = Koppa Tengu
+    6A00 = Regent
+    6B00 = Queen's Necklace
+    6C00 = Stone of Scone
+    6D00 = Koh-i-Noor
+    6E00 = Orlov
+    6F00 = Emperor's Amulet
+    7000 = Hope Diamond
+    7100 = Crystal Skull
+    7900 = Mandrake
+    7A00 = Baal
+    7B00 = Dakini
+    7C00 = Silky
+    7D00 = Bugs
+    7E00 = Black Ooze
+    7F00 = Bicorn
+    8000 = Mithras
+    8100 = Sudama
+    8200 = Kodama
+    8300 = Agathion
+    8400 = Onmoraki
+    8500 = Nue
+    8600 = Pisaca
+    8700 = Melchizedek
+    8800 = Baphomet
+    8900 = Raja Naga
+    8A00 = Naga
+    8B00 = Garuda
+    8C00 = Moloch
+    8D00 = Norn
+    8E00 = Belphgor
+    8F00 = Berith
+    9000 = Choronzon
+    9700 = Nagi Mitama
+    9800 = Kushi Mitama
+    9900 = Ara Mitama
+    9A00 = Saki Mitama
+    9C00 = Shiva
+    9D00 = Michael
+    9E00 = Asura
+    9F00 = Mada
+    A000 = Mother Harlot
+    A100 = Clotho
+    A200 = Lachesis
+    A300 = Atropos
+    A400 = Ardha
+    A600 = Vishnu
+    A700 = Hariti
+    A800 = Yurlungur
+    A900 = Hecatoncheires
+    AA00 = Satanael
+    B500 = Orpheus
+    B600 = Thanatos
+    B700 = Izanagi
+    B800 = Magatsu-Izanagi
+    B900 = Kaguya
+    BA00 = Ariadne
+    BB00 = Asterius
+    BC00 = Tsukiyomi
+    BD00 = Messiah
+    BE00 = Messiah Picaro
+    BF00 = Orpheus Picaro
+    C000 = Thanatos Picaro
+    C100 = Izanagi Picaro
+    C200 = M. Izanagi Picaro
+    C300 = Kaguya Picaro
+    C400 = Ariadne Picaro
+    C500 = Asterius Picaro
+    C600 = Tsukiyomi Picaro
+    C700 = Satanael
+    C800 = ???
+    C900 = Arsene
+    CA00 = Captain Kidd
+    CB00 = Zorro
+    CC00 = Carmen
+    CD00 = Goemon
+    CE00 = Johanna
+    CF00 = Milady
+    D000 = Necronomicon
+    D100 = Robin Hood
+    D200 = Loki
+    D300 = Satanael (glitched)
+    D400 = Seiten Taisei
+    D500 = Mercurius
+    D600 = Hecate
+    D700 = Kamu Susano-o
+    D800 = Anat
+    D900 = Astarte
+    DA00 = Prometheus
+    DB00 = Loki
+    DC00 = Arsene
+    DD00 = Captain Kidd
+    DE00 = Zorro
+    DF00 = Carmen
+    E000 = Goemon
+    E100 = Johanna
+    E200 = Milady
+    E300 = Necronomicon
+    E400 = Robin Hood
+    E600 = Lucifer
+    E700 = Seiten Taisei
+    E800 = Mercurius
+    E900 = Hecate
+    EA00 = Kamu Susano-o
+    EB00 = Anat
+    EC00 = Astarte
+    ED00 = Prometheus
+    EE00 = Loki
+    FC00 = Satan
+    FD00 = Lucifer
+    FE00 = Kohryu
+    FF00 = Okuninushi
+    0001 = Norn
+    0301 = Futsunushi
+    0501 = Seth
+    0601 = Ishtar
+    0901 = Siegfried
+    0A01 = Lakshmi
+    0D01 = Ex-Belphegor
+    0F01 = Garuda
+    1001 = Fortuna
+    1101 = Suzaku
+    1201 = Seiryu
+    1301 = Genbu
+    1401 = Byakko
+    1501 = Bishamonten
+    1601 = Koumokuten
+    1701 = Jikokuten
+    1801 = Zouchouten
+    1901 = Hell Biker
+    1A01 = Daisoujou
+    1B01 = Trumpeter
+    1C01 = White Rider
+    1D01 = Matador
+    1E01 = Pale Rider
+    1F01 = Horus
     ```
 
 * __Republique__ (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87574) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
