@@ -843,6 +843,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 402DC54B18
     ```
 
+* __Far Cry Primal__ (CUSA03309 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Far_Cry_Primal_(CUSA03309-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/far-cry-primal)
+
+    ```
+    Health
+
+    0 5DA8B088
+
+    Arrows
+
+    0 5DACD9D8
+
+    Skill Points
+
+    0 44AF8508
+    ```
+
 * __FIFA 15__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548) [[Wiki Guide]](https://www.ign.com/wikis/fifa-15)
 
     ```
@@ -1085,6 +1101,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Cash
 
     0 301D1D1C8
+    ```
+
+* __Ghostbusters__ (CUSA04312 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Ghostbusters_(CUSA04312-Ver_1.0.0).cht)
+
+    ```
+    Health
+
+    0 7D795350
+    0 7D795350
+    1 7D795350
+
+    Points
+
+    0 7D795350
     ```
 
 * __God Eater 2 : Rage Burst__ (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht)
@@ -2127,6 +2157,53 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7E485C7C  
     ```
 
+* __Resident Evil 6__ (CUSA03856 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resident_Evil_6_(CUSA03856-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-6)
+
+    ```
+    Health
+
+    1 5E7CF5C8
+
+    Assult Rifle Ammo
+
+    0 5E7CD2D8
+    0 5E943888
+
+    Skill Points
+
+    0 5E7CDDE0
+
+    Stamina
+
+    1 / 0 5E7CF5C8
+    ```
+
+* __Resident Evil 7__ (CUSA03842 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resident_Evil_7_(CUSA03842-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-7)
+
+    ```
+    Health
+
+    0 72939D08
+    0 72932218
+    0 729340D0
+
+    Pistol
+
+    0 56F5C678
+
+    SG Ammo
+
+    0 591F91B0
+
+    First Aid Med
+
+    0 61E98678
+
+    Psychostimulants
+
+    0 24C889C8
+    ```
+
 * __Resident Evil Origins : RE 0__ (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/re-origins-collection-re-0-ps4-cheater-4-55-codes.46606/) [[2]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
 
     ```
@@ -2205,7 +2282,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     Address's are not available (currently), please use cht file instead.
 
-    Health
+    Money
 
     0 XXXXXX
     ```
@@ -2218,16 +2295,46 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 11748B719C
     ```
 
-* __Last of Us : Remastered__ (CUSA00556 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
+* __Last of Us : Remastered__ (CUSA00556 - Ver 1.0.0 and 1.0.8 - Firm 4.55 - PS4Cheater 1.4 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-30#post-89447) [[CHT File Update 1.0.0]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[CHT File Update 1.0.8]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.8).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
 
     ```
-    Inf Health
+    Inf Health [1]
 
     0 6836A530
 
-    Inf Ammo Health
+    Inf Ammo [1]
 
     0 683E4768
+    ```
+
+    ```
+    Debug Menu [2] [CHT File Update 1.0.8]
+
+    0 126480B3
+
+    Inf Health [2] [CHT File Update 1.0.8]
+
+    0 141A4480
+
+    Inf Medikits [2] [CHT File Update 1.0.8]
+
+    0 141A4508
+
+    Inf Knives [2] [CHT File Update 1.0.8]
+
+    0 141A4508
+
+    Inf Upgrade Pills [2] [CHT File Update 1.0.8]
+
+    0 141A4508
+
+    Inf Molotovs [2] [CHT File Update 1.0.8]
+
+    0 141A44C8
+
+    Inf Ammo [2] [CHT File Update 1.0.8]
+
+    0 13DADB00
     ```
 
 * __Uncharted Trilogy__ (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)

@@ -1,0 +1,7 @@
+1.4|eboot.bin|ID:CUSA03856|VER:01.00|FM:455
+simple pointer|pointer|float|@5E7CF5C8_3_B5C8+28+38+28+1368|data|float|2.304098E-35|1|Health|
+simple pointer|pointer|2 bytes|@5E7CD2D8_3_92D8+28+568+C8+148+58+1A8+8+6FE|data|2 bytes|30|0|RE6 Assault Rifle Ammo|
+simple pointer|pointer|2 bytes|@5E943888_3_17F888+428+568+C8+148+58+1A8+8+6FE|data|2 bytes|30|0|RE6 Assault Rifle Ammo|
+simple pointer|pointer|4 bytes|@5E7CDDE0_3_9DE0+28+28+20+38+5B0+518|data|4 bytes|9999999|0|Skill Points|
+simple pointer|pointer|float|@5E7CF5C8_3_B5C8+28+38+28+1550+14D8+F68+490+1E30|data|float|800|0|Stamina|
+simple pointer|pointer|float|@5E7CF5C8_3_B5C8+28+38+28+1550+14D8+F68+490+1E30|data|float|800|1|Stamina|

@@ -1,0 +1,8 @@
+1.4|eboot.bin|ID:CUSA03842|VER:01.00|FM:455
+simple pointer|pointer|float|@72939D08_3_71D08+80+30+E0+70+24|data|float|1000|0|Health|
+simple pointer|pointer|float|@72932218_3_6A218+78+B0+E0+70+24|data|float|1000|0|Health|
+simple pointer|pointer|float|@729340D0_3_6C0D0+D0+B0+E0+70+24|data|float|1000|0|Health|
+simple pointer|pointer|4 bytes|@56F5C678_1_12C678+0+218+20+130+160+20+38+FFFFFFFFFFFFFFF4|data|4 bytes|10|0|Pistol Ammo|
+simple pointer|pointer|4 bytes|@591F91B0_3_6D1B0+98+80+158+A8+E8+128+160+FFFFFFFFFFFFFFF4|data|4 bytes|10|0|SG Ammo|
+simple pointer|pointer|4 bytes|@61E98678_1_12C678+0+D8+A8+28+E0+128+30+88|data|4 bytes|2|0|First-Aid-Med|
+simple pointer|pointer|4 bytes|@24C889C8_1_13C9C8+10+60+20+68+20+28+28+88|data|4 bytes|3|1|Psychostimulants|

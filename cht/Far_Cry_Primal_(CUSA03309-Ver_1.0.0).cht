@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA03309|VER:01.00|FM:455
+simple pointer|pointer|float|@5DA8B088_3_8F088+40+10+8+40+10+0+28+8+28+20+0+18|data|float|100|0|Health|
+simple pointer|pointer|2 bytes|@5DACD9D8_3_D19D8+70+108+18+40+100+50+A0+10+300+10+80+10+8+30+48+FFFFFFFFFFFFFF30|data|2 bytes|6|0|Arrows|
+simple pointer|pointer|4 bytes|@44AF8508_3_9C508+18+0+38+18+0+5C|data|4 bytes|99|0|Skill Points|

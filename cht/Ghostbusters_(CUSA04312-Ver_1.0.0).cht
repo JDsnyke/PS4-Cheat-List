@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA04312|VER:01.00|FM:455
+simple pointer|pointer|float|@7D795350_3_2FD350+FC8+1150+20+5D8+6C|data|float|1500|0|Health|
+simple pointer|pointer|float|@7D795350_3_2FD350+FC8+1150+A8+5D8+6C|data|float|2000|1|Health|
+simple pointer|pointer|float|@7D795350_3_2FD350+FC8+1150+A8+5D8+6C|data|float|2000|0|Health|
+simple pointer|pointer|float|@7D795350_3_2FD350+FC8+1150+20+B54|data|float|15000|0|Points|
