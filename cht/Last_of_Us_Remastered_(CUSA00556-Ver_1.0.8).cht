@@ -1,8 +1,11 @@
 1.4|eboot.bin|ID:CUSA00556|VER:01.08|FM:455
-data|0|40B3|hex|80B9872E0000000F8503120000C681812E000001EB04F6110000488D|0|Debug Menu|126480B3
-simple pointer|pointer|4 bytes|@141A4480_3_60C480+88+0+48+48+48+60+258+3E8+30|data|4 bytes|100|0|Inf Health|
-simple pointer|pointer|2 bytes|@141A4508_3_60C508+8+8+8+8+8+20+258+11C0+2FC|data|2 bytes|3|0|Inf Medikits|
-simple pointer|pointer|2 bytes|@141A4508_3_60C508+8+8+8+8+8+20+258+11C0+300|data|2 bytes|3|0|Inf Knives|
-simple pointer|pointer|2 bytes|@141A4508_3_60C508+8+8+8+8+8+20+258+11C0+334|data|2 bytes|100|0|Inf Upgrade Pills|
-simple pointer|pointer|byte|@141A44C8_3_60C4C8+8+8+8+8+8+8+20+258+10F8+FFFFFFFFFFFFFDEE|data|byte|3|0|Inf Molotovs|
-simple pointer|pointer|byte|@13DADB00_3_215B00+58+0+75C|data|byte|20|0|Inf Ammo|
+data|0|40B3|hex|80B9872E0000000F8503120000C681812E000001EB04F6110000488D|0|Debug Menu|444640B3
+simple pointer|pointer|4 bytes|@45FC0480_3_60C480+88+0+48+48+48+60+258+3E8+30|data|4 bytes|100|0|Inf Health|
+simple pointer|pointer|2 bytes|@45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+2FC|data|2 bytes|3|0|Inf Medikits|
+simple pointer|pointer|2 bytes|@45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+300|data|2 bytes|3|0|Inf Knives|
+simple pointer|pointer|2 bytes|@45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+334|data|2 bytes|100|0|Inf Upgrade Pills|
+simple pointer|pointer|byte|@45FC04C8_3_60C4C8+8+8+8+8+8+8+20+258+10F8+FFFFFFFFFFFFFDEE|data|byte|3|0|Inf Molotovs-Bricks-Smoke|
+simple pointer|pointer|byte|@45BC9B00_3_215B00+58+0+75C|data|byte|99|0|Inf Ammo Guns|
+simple pointer|pointer|2 bytes|@45FC04C8_3_60C4C8+8+8+8+8+8+8+20+258+11C0+332|data|2 bytes|99|0|Inf Materials|
+simple pointer|pointer|byte|@45FC06A0_3_60C6A0+258+11C0+304|data|byte|99|0|Inf Spiky Bombs|
+simple pointer|pointer|4 bytes|@459C5BB8_3_11BB8+10+10+1A0|data|4 bytes|9999|0|Inf Money|

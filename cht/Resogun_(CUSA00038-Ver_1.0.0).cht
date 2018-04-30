@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA00038|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@F41138_2_F9138+658+8+10+48+18+8+0+0+18+10+20+7D0+18+C4|data|4 bytes|99|0|P1 Lives|
+simple pointer|pointer|4 bytes|@F41138_2_F9138+4F8+8+10+48+18+8+0+0+18+10+20+7D0+18+C0|data|4 bytes|99|0|P1 Bombs|
+simple pointer|pointer|4 bytes|@F41070_2_F9070+E8+8F8+8+10+48+18+8+0+0+18+10+20+6B0+18+60|data|4 bytes|1065353216|0|P1 Turbo|
+simple pointer|pointer|4 bytes|@F41070_2_F9070+E8+38+8+10+48+18+8+0+0+18+10+20+750+18+5C|data|4 bytes|1065353216|0|P1 Overdrive (Max is 1065353216)|

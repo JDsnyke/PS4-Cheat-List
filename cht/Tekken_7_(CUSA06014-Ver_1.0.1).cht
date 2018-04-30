@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA06014|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@35AB8C60_3_18C60+8+0+98|data|4 bytes|8579999|0|Money|
+simple pointer|pointer|4 bytes|@35AD8560_3_38560+304|data|4 bytes|11141120|0|Inf HP (Left Side Fighter)|
+simple pointer|pointer|4 bytes|@35ADB350_3_3B350+304|data|4 bytes|11141120|0|Inf HP (Right Side Fighter)|

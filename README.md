@@ -80,6 +80,8 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * PS4 Toolbox by DeathRGH : [1.1.0.0](https://cdn.discordapp.com/attachments/430007650760261695/436716511596642305/PS4_Toolbox_by_DeathRGH_v1.1.0.0_exclusive_test_version.rar)
 
+* NetCheat PS4RPC by iCyb3r : [GITHUB](https://github.com/iCyb3r/NetCheat-PS4RPC) or [THREAD](https://www.psxhax.com/threads/netcheat-ps4rpc-jkpatch-rpc-with-ps4-netcheat-by-icyb3r.5144/)
+
 ## Cheat Usage and Template
 
 * Currently the easiest way to use cheats are to use the [cht](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) files on [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
@@ -524,6 +526,8 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2587CD9A0
 
     Boxes [2] [CHT File 1.4]
+
+    0 XXXXXX
 
     Address's are not available (currently), please use cht file instead.
     ```
@@ -1541,7 +1545,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 23A43E0
     ```
 
-* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
+* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[10]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-31#post-89831) [[11]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-90505) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
 
     ```
     Note : apparently these codes work for both CUSA06638 and CUSA05877 respectively [8]
@@ -1678,151 +1682,239 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     Money [8]
 
-    0 8FD6674
+    0 XXXXXX (refer to address from cht file)
 
-    Note : for codes: 'Items&Materials&Essentials', 'All Treasures' and 'All Skill Cards', you only need to lock them for the cheat to load. The objects will automatically appear in the item section of the menu.
+    Casino Coins [11] (Only use it if you don't mind skipping some scenes of the game)
+
+    0 XXXXXX
+
+    Note : for codes 'Items&Materials&Essentials', 'All Treasures' and 'All Skill Cards', you only need to lock them for the cheat to load. The objects will automatically appear in the item section of the menu.
 
     (From - https://kutt.it/MDfTb4)
 
     All Items, Materials and Essentials [8] [9]
 
-    0 8FD5B73
+    0 XXXXXX
+
+    All Treasures [10]
+
+    0 XXXXXX
+
+    All Skill Cards [10]
+
+    0 XXXXXX
+
+    All Melee Weapons [10]
+
+    0 XXXXXX
+
+    All Ranged Weapons [10]
+
+    0 XXXXXX
+
+    All Protectors [10]
+
+    0 XXXXXX
+
+    All Accessories [10]
+
+    0 XXXXXX
 
     Social Stats (Only 1 point for max) [9]
 
-    0 8FE5D20
+    0 XXXXXX
 
     Main Character HP [8] [9]
 
-    0 8FD372C
+    0 XXXXXX
 
     Main Character SP [8] [9]
 
-    0 8FD3730
+    0 XXXXXX
 
     Main Character EXP [8] [9]
 
-    0 8FD373C
+    0 XXXXXX
 
     Main Character Gun Bullets [8] [9]
 
-    0 8FD39B4
+    0 XXXXXX
 
     Ryuji HP [8] [9]
 
-    0 8FD39CC
+    0 XXXXXX
 
     Ryuji SP [8] [9]
 
-    0 8FD39D0
+    0 XXXXXX
 
     Ryuji EXP [8] [9]
 
-    0 8FD3A0C
+    0 XXXXXX
 
     Ryuji Gun Bullets [8] [9]
 
-    0 8FD3C54
+    0 XXXXXX
 
     Ann HP [8] [9]
 
-    0 8FD3F0C
+    0 XXXXXX
 
     Ann SP [8] [9]
 
-    0 8FD3F10
+    0 XXXXXX
 
     Ann EXP [8] [9]
 
-    0 8FD3F4C
+    0 XXXXXX
 
     Ann Gun Bullets [8] [9]
 
-    0 8FD4194
+    0 XXXXXX
 
     Morgana HP [8] [9]
 
-    0 8FD3C6C
+    0 XXXXXX
 
     Morgana SP [8] [9]
 
-    0 8FD3C70
+    0 XXXXXX
 
     Morgana EXP [8] [9]
 
-    0 8FD3CAC
+    0 XXXXXX
 
     Morgana Gun Bullets [8] [9]
 
-    0 8FD3EF4
+    0 XXXXXX
 
     Yusuke HP [8] [9]
 
-    0 8FD41AC
+    0 XXXXXX
 
     Yusuke SP [8] [9]
 
-    0 8FD41B0
+    0 XXXXXX
 
     Yusuke EXP [8] [9]
 
-    0 8FD41EC
+    0 XXXXXX
 
     Yusuke Gun Bullets [8] [9]
 
-    0 8FD4434
+    0 XXXXXX
+
+    Makoto HP [10]
+
+    0 XXXXXX
+
+    Makoto SP [10]
+
+    0 XXXXXX
+
+    Makoto EXP [10]
+
+    0 XXXXXX
+
+    Makoto Gun Bullets [10]
+
+    0 XXXXXX
+
+    Haru HP [11]
+
+    0 XXXXXX
+
+    Haru SP [11]
+
+    0 XXXXXX
+
+    Haru EXP [11]
+
+    0 XXXXXX
+
+    Haru Gun Bullets [11]
+
+    0 XXXXXX
+
+    Akechi HP [11]
+
+    0 XXXXXX
+
+    Akechi SP [11]
+
+    0 XXXXXX
+
+    Akechi EXP [11]
+
+    0 XXXXXX
+
+    Akechi Gun Bullets [11]
+
+    0 XXXXXX
+
+    Futaba HP [10]
+
+    0 XXXXXX
+
+    Futaba SP [10]
+
+    0 XXXXXX
+
+    Futaba EXP [10]
+
+    0 XXXXXX    
 
     Security Level [8] [9]
 
-    0 8FD6CE4
+    0 XXXXXX
 
     1st Persona Exp [8] [9]
 
-    0 8FD376C
+    0 XXXXXX
 
     2nd Persona Exp [8] [9]
 
-    0 8FD379C
+    0 XXXXXX
 
     3rd Persona Exp [8] [9]
 
-    0 8FD37CC
+    0 XXXXXX
 
     4th Persona Exp [8] [9]
 
-    0 8FD37FC
+    0 XXXXXX
 
     5th Persona Exp [8] [9]
 
-    0 8FD382C
+    0 XXXXXX
 
     6th Persona Exp [8] [9]
 
-    0 8FD385C
+    0 XXXXXX
 
     7th Persona Exp [8] [9]
 
-    0 8FD388C
+    0 XXXXXX
 
     8th Persona Exp [8] [9]
 
-    0 8FD38BC
+    0 XXXXXX
 
     9th Persona Exp [8] [9]
 
-    0 8FD38EC
+    0 XXXXXX
 
     10th Persona Exp [8] [9]
 
-    0 8FD391C
+    0 XXXXXX
 
     11th Persona Exp [8] [9]
 
-    0 8FD394C
+    0 XXXXXX
 
     12th Persona Exp [8] [9]
 
-    0 8FD397C
+    0 XXXXXX
 
     Note : for the "change persona" code, you need to write in "value" the hex code for the persona you want. Lets say you have Arsene and you want to change it for Metatron. Just write 0100 in value and press enter. If you check your personas now, you'll see Metatron instead of Arsene.
 
@@ -1834,57 +1926,59 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     Change Slot 1 Persona [8] [9] (hex code values can be found below)
 
-    0 8FD3766
+    0 XXXXXX
 
     Change Slot 2 Persona [8] [9]
 
-    0 8FD3796
+    0 XXXXXX
 
     Change Slot 3 Persona [8] [9]
 
-    0 8FD37C6
+    0 XXXXXX
 
     Change Slot 4 Persona [8] [9]
 
-    0 8FD37F6
+    0 XXXXXX
 
     Change Slot 5 Persona [8] [9]
 
-    0 8FD3826
+    0 XXXXXX
 
     Change Slot 6 Persona [8] [9]
 
-    0 8FD3856
+    0 XXXXXX
 
     Change Slot 7 Persona [8] [9]
 
-    0 8FD3886
+    0 XXXXXX
 
     Change Slot 8 Persona [8] [9]
 
-    0 8FD38B6
+    0 XXXXXX
 
     Change Slot 9 Persona [8] [9]
 
-    0 8FD38E6
+    0 XXXXXX
 
     Change Slot 10 Persona [8] [9]
 
-    0 8FD3916
+    0 XXXXXX
 
     Change Slot 11 Persona [8] [9]
 
-    0 8FD3946
+    0 XXXXXX
 
     Change Slot 12 Persona [8] [9]
 
-    0 8FD3976
+    0 XXXXXX
     ```
 
     ```
     Change Persona Code Values for CHT File V3 [8]
 
     (From - https://kutt.it/Pb8c9B)
+
+    Fusion calculator - (https://chinhodado.github.io/persona5_calculator/index.html#/list)
 
     0100 = Metatron
     0200 = Beelzebub
@@ -2216,6 +2310,30 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 20D14D554
     ```
 
+* __Resogun__ (CUSA00038 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-10#post-90285) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Resogun_(CUSA00038-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resogun)
+
+    ```
+    Address's are not available (currently), please use cht file instead.
+
+    P1 Lives
+
+    0 XXXXXX
+
+    P1 Bombs
+
+    0 XXXXXX
+
+    P1 Turbo (Max is 1065353216)
+
+    0 XXXXXX
+
+    P1 Overdrive
+
+    Note : use this Value to Max the Overdrive bar: 1065353216 then you can 'Lock', after you are in overdrive mode you have 'De-lock' to get out or stay in
+
+    0 XXXXXX
+    ```
+
 * __Tales of Zestiria__ (CUSA02461 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
 
     ```
@@ -2277,14 +2395,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 103DE01088
     ```
 
-* __Tekken 7__ (CUSA06014 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-17#post-84529) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Tekken_7_(CUSA06014-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/tekken-7)
+* __Tekken 7__ (CUSA06014 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-17#post-84529) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-10#post-90634) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Tekken_7_(CUSA06014-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/tekken-7)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    Money (need some money first)
 
-    Money
+    0 35AB8C60
 
-    0 XXXXXX
+    Inf HP (Left Side Fighter) [2]
+
+    Note : first, go in to 'Game Battle' for the codes to work
+
+    0 35AD8560
+
+    Inf HP (Right Side Fighter) [2]
+
+    0 35ADB350
     ```
 
 * __The Last of Us__ (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/the-last-of-us-ps4-cheater-4-55-cheat-codes.46608/) [[2]](https://playstationhax.xyz/forums/topic/4418-the-last-of-us-ps4-cheater-455-cheat-codes/)
@@ -2295,7 +2421,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 11748B719C
     ```
 
-* __Last of Us : Remastered__ (CUSA00556 - Ver 1.0.0 and 1.0.8 - Firm 4.55 - PS4Cheater 1.4 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-30#post-89447) [[CHT File Update 1.0.0]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[CHT File Update 1.0.8]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.8).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
+* __Last of Us : Remastered__ (CUSA00556 - Ver 1.0.0 and 1.0.8 - Firm 4.55 - PS4Cheater 1.4 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-30#post-89447) [[3]](Update from Discord on 27.04.2018 @ 9.48 PM) [[CHT File Update 1.0.0]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[CHT File Update 1.0.8]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.8).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
 
     ```
     Inf Health [1]
@@ -2308,33 +2434,47 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
+    Address's are not available (currently), please use cht file instead.
+
     Debug Menu [2] [CHT File Update 1.0.8]
 
-    0 126480B3
+    0 444640B3
 
     Inf Health [2] [CHT File Update 1.0.8]
 
-    0 141A4480
+    0 XXXXXX
 
     Inf Medikits [2] [CHT File Update 1.0.8]
 
-    0 141A4508
+    0 XXXXXX
 
     Inf Knives [2] [CHT File Update 1.0.8]
 
-    0 141A4508
+    0 XXXXXX
 
     Inf Upgrade Pills [2] [CHT File Update 1.0.8]
 
-    0 141A4508
+    0 XXXXXX
 
-    Inf Molotovs [2] [CHT File Update 1.0.8]
+    Inf Molotovs-Bricks-Smoke [2] [3] [CHT File Update 1.0.8]
 
-    0 141A44C8
+    0 XXXXXX
 
     Inf Ammo [2] [CHT File Update 1.0.8]
 
-    0 13DADB00
+    0 XXXXXX
+
+    Inf Materials [3] [CHT File Update 1.0.8]
+
+    0 XXXXXX
+
+    Inf Spiky Bombs [3] [CHT File Update 1.0.8]
+
+    0 XXXXXX
+
+    Inf Money [3] [CHT File Update 1.0.8]
+
+    0 XXXXXX
     ```
 
 * __Uncharted Trilogy__ (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)
