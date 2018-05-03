@@ -1,0 +1,25 @@
+Infolinks.com, 3092342 , DIRECT 
+appnexus.com, 3251, RESELLER
+openx.com, 118151, RESELLER, 6a698e2ec38604c6
+Pubmatic.com, 60809,RESELLER,5d62403b186f2ace
+Adtech.com, 11409, RESELLER
+google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0
+google.com, pub-2697483239283649, RESELLER, f08c47fec0942fa0
+aol.com, 6202, RESELLER
+aol.com, 17744, RESELLER
+lkqd.net, 295, RESELLER, 59c49fa9598a0117
+lkqd.com, 295, RESELLER, 59c49fa9598a0117
+Freewheel.tv, 482337, RESELLER
+Freewheel.tv, 480609, RESELLER
+revcontent.com, 29124, RESELLER
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+advertising.com, 8603, RESELLER
+advertising.com, 3531, RESELLER
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+openx.com, 539154393, RESELLER
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
+deepintent.com, 100004190, RESELLER, 4a5487c769369a8c
