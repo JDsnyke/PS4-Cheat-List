@@ -1,5 +1,5 @@
 # PS4 Cheat Code / Offset List
-![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
@@ -144,6 +144,30 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 > Tip - save cht files easily by hovering over [CHT File] --> pressing 'right click' and then 'save link as'
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
+
+* __Akiba's Trip : Undead & Undressed__ (CUSA01166 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-79#post-91104) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Akibas_Trip_Undead_&_Undressed_(CUSA01166-Ver_1.0.0).cht) [[Wiki Guide]](http://www.ign.com/wikis/akibas-trip-undead-undressed)
+
+    ```
+    Money
+
+    0 ABCD60
+
+    EXP
+
+    0 AB1E4C
+
+    Attack
+
+    0 AB1E44
+
+    Defense
+
+    0 AB1E48
+
+    Unison Strip Gauge
+
+    0 AB2B7C
+    ```
 
 * __Atelier Sophie : The Alchemist of the Mysterious Book__ (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
@@ -2557,6 +2581,26 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Skill Points
 
     0 1007C03710
+    ```
+
+* __Xuan-Yuan Sword : The Gate of Firmament__ (CUSA06423 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91056) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Xuan_Yuan_Sword_(CUSA06423-Ver_1.0.0).cht)
+
+    ```
+    Bei (Money)
+
+    0 XXXXXX
+
+    Sikongyu Life
+
+    0 XXXXXX
+
+    Sikongyu Mana
+
+    0 XXXXXX
+
+    Sikongyu EXP
+
+    0 XXXXXX
     ```
 
 * __Yakuza 0__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0/)

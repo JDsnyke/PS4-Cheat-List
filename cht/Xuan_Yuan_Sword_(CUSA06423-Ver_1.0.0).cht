@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA06423|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@503E0EB0_3_24EB0+10+10+198+18+0+A0+74|data|4 bytes|999999|0|Bei (Money)|
+simple pointer|pointer|4 bytes|@503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFF9C|data|4 bytes|10179|0|Sikongyu Life|
+simple pointer|pointer|4 bytes|@503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFFA0|data|4 bytes|8762|0|Sikongyu Mana|
+simple pointer|pointer|4 bytes|@503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFFD0|data|4 bytes|15018030|0|Sikongyu EXP|

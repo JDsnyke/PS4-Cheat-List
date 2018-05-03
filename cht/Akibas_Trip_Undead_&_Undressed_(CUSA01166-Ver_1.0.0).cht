@@ -1,0 +1,6 @@
+1.4|eboot.bin|ID:CUSA01166|VER:01.00|FM:455
+data|2|34D60|4 bytes|9999999|0|Money|ABCD60
+data|2|29E4C|4 bytes|9999999|0|Experience|AB1E4C
+data|2|29E44|4 bytes|999|0|Attack|AB1E44
+data|2|29E48|4 bytes|999|0|Defense|AB1E48
+data|2|2AB7C|4 bytes|101|0|Unison Strip Gauge|AB2B7C
