@@ -1,0 +1,5 @@
+1.4|eboot.bin|ID:CUSA02747|VER:01.00|FM:455
+simple pointer|pointer|float|@50D79EC8_3_59EC8+A8+20+10+28+88+10+E0+40|data|float|16.53342|0|Health|
+simple pointer|pointer|2 bytes|@2F23C6E8_3_1386E8+E0+1F0+18+0+140+0+1C8+98+D8|data|2 bytes|36|0|Primary Assault Rifle Ammo|
+simple pointer|pointer|4 bytes|@139B06B8_3_1386B8+58+50+110+10+E8+0+648+F0+B58+1C4|data|4 bytes|3|1|Grenades|
+simple pointer|pointer|4 bytes|@74D046B8_3_1386B8+58+50+110+10+E8+0+648+F0+B58+1BC|data|4 bytes|10|0|Rocket Ammo|

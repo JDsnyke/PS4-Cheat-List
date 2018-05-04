@@ -704,6 +704,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 5BC4F738
     ```
 
+* __Deadpool : The Game__ (CUSA03528 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 30.04.2018 @ 7.47 PM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Deadpool_(CUSA03528-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/deadpool-the-game)
+
+    ```
+    Health
+
+    1 7BC49EC8
+
+    DP Points
+
+    0 600E9EB8
+    ```
+
 * __Dead Rising 1 HD Remake__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/) [[2]](https://playstationhax.xyz/forums/topic/4379-dead-rising-1-hd-remake-ps4-cheater-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/dead-rising)
 
     ```
@@ -1322,6 +1334,26 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     P2 Bombs
 
     0 53BADF50
+    ```
+
+* __Just Cause 3__ (CUSA02747 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 30.04.2018 @ 1.23 AM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Just_Cause_3_(CUSA02747-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/just-cause-3)
+
+    ```
+    Health
+
+    0 50D79EC8
+
+    Primary Assault Rifle Ammo
+
+    0 2F23C6E8
+
+    Grenades
+
+    0 139B06B8
+
+    Rocket Ammo
+
+    0 74D046B8
     ```
 
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
@@ -2625,6 +2657,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Money
 
     0 2003E6BC8 3B9AC9FF
+    ```
+
+* __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
+
+    ```
+    Money
+
+    0 200F744A8
+
+    HP
+
+    0 200F6EFE4
+
+    Skill Points
+
+    0 200F6F1D0
     ```
 
 ## Community
