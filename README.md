@@ -2390,6 +2390,34 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
     ```
 
+* __Shadow of the Beast__ (CUSA03762 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-34#post-91849) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_the_Beast_(CUSA03762-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/shadow-of-the-beast)
+
+    ```
+    Inf Health
+
+    0 5AD9AE70
+
+    Inf Powers
+
+    0 5AD9AE70
+
+    Inf Money / Mana
+
+    0 5B0331B0
+
+    Inf Blood Rage
+
+    0 5AD9AE70
+
+    Inf Time
+
+    0 5AD9AE70
+
+    Max Combo
+
+    0 5AD9AE70
+    ```
+
 * __Tales of Zestiria__ (CUSA02461 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
 
     ```
@@ -2659,20 +2687,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2003E6BC8 3B9AC9FF
     ```
 
-* __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
+* __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-33#post-91679) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
 
     ```
     Money
 
-    0 200F744A8
+    0 2001804A8
 
     HP
 
-    0 200F6EFE4
+    0 20017AFE4
 
-    Skill Points
+    EXP / Skill (points not needed)
 
-    0 200F6F1D0
+    0 20017B018
     ```
 
 ## Community

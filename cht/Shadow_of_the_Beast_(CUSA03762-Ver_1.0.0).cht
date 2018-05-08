@@ -1,0 +1,7 @@
+1.4|eboot.bin|ID:CUSA03762|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@5AD9AE70_3_16E70+AE4|data|4 bytes|100|0|Inf Health|
+simple pointer|pointer|byte|@5AD9AE70_3_16E70+AEC|data|byte|4|0|Inf Powers|
+simple pointer|pointer|4 bytes|@5B0331B0_3_2AF1B0+8+400+150|data|4 bytes|999999999|0|Inf Money Mana|
+simple pointer|pointer|2 bytes|@5AD9AE70_3_16E70+AEA|data|2 bytes|17096|0|Inf Blood Rage|
+simple pointer|pointer|float|@5AD9AE70_3_16E70+B60|data|float|-1|0|Inf Time|
+simple pointer|pointer|2 bytes|@5AD9AE70_3_16E70+A54|data|2 bytes|32767|0|Max Combo|
