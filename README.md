@@ -1289,6 +1289,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 58626F0
     ```
 
+* __inFAMOUS : First Light__ (CUSA00897 - Ver 1.0.4 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92851) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/inFAMOUS_First_Light_(CUSA00897-Ver_1.0.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/infamous-first-light)
+
+    ```
+    Skill Points
+
+    0 7141EDEC
+
+    Melee Finisher
+
+    1 7141EDE8
+
+    Inf Neon Singularity
+
+    1 7141EDF0
+    ```
+
 * __inFAMOUS : Second Son__ (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863) [[Wiki Guide]](https://www.ign.com/wikis/infamous-second-son)
 
     ```
@@ -2642,6 +2658,13 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     0 1007C03710
     ```
+* __World of Final Fantasy__ (CUSA04548 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92472) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/World_of_Final_Fantasy_(CUSA04548-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/world-of-final-fantasy)
+
+    ```
+    Gill (Money)
+
+    0 2029447E8
+    ```
 
 * __Xuan-Yuan Sword : The Gate of Firmament__ (CUSA06423 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91056) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Xuan_Yuan_Sword_(CUSA06423-Ver_1.0.0).cht)
 
@@ -2720,6 +2743,8 @@ Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel to be notifie
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x2729F47611dC42758A2f918668E32f464e5d231B)](https://en.cryptobadges.io/donate/0x2729F47611dC42758A2f918668E32f464e5d231B)
 
 [![Donate with Ripple](https://en.cryptobadges.io/badge/small/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)](https://en.cryptobadges.io/donate/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate%20USD-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3EPELN3KBGBXU&lc=LK&item_name=PS4%20Cheat%20List%20%2d%20Donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
 ## License
 

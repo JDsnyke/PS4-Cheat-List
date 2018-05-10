@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA00897|VER:01.00|FM:455
+data|3|20ADEC|4 bytes|99|0|Skill Points|7141EDEC
+data|3|20ADE8|4 bytes|2|1|Melee Finisher|7141EDE8
+data|3|20ADF0|4 bytes|1101004800|1|Inf Neon Singularity|7141EDF0
