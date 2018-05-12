@@ -7,6 +7,7 @@ List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxh
 Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
 ```
 
+> Tip - clear site cache frequently for best performance!
 
 ## Table of Contents
 
@@ -1300,7 +1301,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     1 7141EDE8
 
-    Inf Neon Singularity
+    Inf Neon Singularity (use value 1101004800 and lock it, then you have inf)
 
     1 7141EDF0
     ```
@@ -2745,6 +2746,8 @@ Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel to be notifie
 [![Donate with Ripple](https://en.cryptobadges.io/badge/small/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)](https://en.cryptobadges.io/donate/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate%20USD-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3EPELN3KBGBXU&lc=LK&item_name=PS4%20Cheat%20List%20%2d%20Donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+
+[![Donate with CPU Power](https://img.shields.io/badge/Donate%20CPU-Hash%20Power-green.svg)](https://psxcheatlist.tk/docs/donate-cpu)
 
 ## License
 
