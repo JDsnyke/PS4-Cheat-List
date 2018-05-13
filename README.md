@@ -1373,6 +1373,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 74D046B8
     ```
 
+* __Killzone : Shadow Fall__ (CUSA00002 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 07.05.2018 @ 12.03 AM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Killzone_Shadow_Fall_(CUSA00002-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/killzone-shadow-fall)
+
+    ```
+    P1 Ammo
+
+    0 8F44F40
+
+    P2 Ammo
+
+    0 75090F40
+    ```
+
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ```
@@ -1431,6 +1443,39 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Coins
 
     0 21C743660
+    ```
+
+* __Metal Gear Solid V : The Phantom Pain__ (CUSA01154 - Ver 1.1.2 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 11.05.2018 @ 12.12 AM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/MGSV_The_Phantom_Pain_(CUSA01154-Ver_1.1.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
+
+    ```
+    P1 Rifle Ammo
+
+    0 72EF7230
+
+    P1 Rifle Suppressor
+
+    0 72EF71F8
+
+    P1 Health
+
+    0 72E1B7A0
+
+    P1 Pistol Ammo
+
+    0 72E3E058
+
+    P1 Pistol Suppressor
+
+    0 72EF71F8
+
+    P1 Grenade
+
+    0 72E3F470
+
+    GMP
+
+    0 72DED538
+    0 72E01A40
     ```
 
 * __Middle Earth: Shadow of Mordor GOTY Edition__ (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85280) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-55#post-85422) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
@@ -2405,6 +2450,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Note : use this Value to Max the Overdrive bar: 1065353216 then you can 'Lock', after you are in overdrive mode you have 'De-lock' to get out or stay in
 
     0 XXXXXX
+    ```
+
+* __Rise of the Tomb Raider : 20 Year Anniversary__ (CUSA05716 - Ver 1.0.6 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 06.05.2018 @ 11.59 PM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Rise_of_the_Tomb_Raider_(CUSA05716-Ver_1.0.6).cht) [[Wiki Guide]](https://www.ign.com/wikis/rise-of-the-tomb-raider)
+
+    ```
+    P1 Skill Points
+
+    0 658E9490
     ```
 
 * __Shadow of the Beast__ (CUSA03762 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-34#post-91849) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_the_Beast_(CUSA03762-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/shadow-of-the-beast)

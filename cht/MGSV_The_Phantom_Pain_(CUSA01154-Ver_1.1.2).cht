@@ -1,0 +1,9 @@
+1.4|eboot.bin|ID:|VER:|FM:455
+simple pointer|pointer|2 bytes|@72EF7230_2_20B230+28+20+460+50+1FA8+1030+0+40+10+150+390+58+8+60+4E|data|2 bytes|210|0|P1 Rifle Ammo|
+simple pointer|pointer|byte|@72EF71F8_2_20B1F8+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+108+158|data|byte|25|0|P1 Rifle Suppressor|
+simple pointer|pointer|float|@72E1B7A0_2_12F7A0+1128+F0+18+AE8+18+78+D8+198+8+8+8+8+8+8+30|data|float|6600|0|P1 Health |
+simple pointer|pointer|2 bytes|@72E3E058_2_152058+0+420+1F8+1C50+1030+0+40+10+150+390+58+8+60+56|data|2 bytes|21|0|P1 Pistol Ammo|
+simple pointer|pointer|byte|@72EF71F8_2_20B1F8+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+108+164|data|byte|25|0|P1 Pistol Suppresor|
+simple pointer|pointer|2 bytes|@72E3F470_2_153470+C30+8+60+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+390+58+8+60+5A|data|2 bytes|6|0|P1 Grenade|
+data|2|101538|4 bytes|497100|0|GMP|72DED538
+simple pointer|pointer|4 bytes|@72E01A40_2_115A40+FFFFFFFFFFFF3680|data|4 bytes|497100|0|P1 GMP|
