@@ -1,0 +1,8 @@
+1.4|kh3d.elf|ID:|VER:|FM:455
+simple pointer|pointer|byte|@67ECB78_3_B78+78+734|data|byte|90|0|P1 Inf HP Sora / Ryku|
+data|3|2444C|4 bytes|133349|0|Money|681044C
+data|3|6BDA0|4 bytes|100396|0|EXP Sora / Ryku|6857DA0
+data|3|1C62C|4 bytes|8000|0|Sora Ability Links|680862C
+data|3|1C52C|4 bytes|9999|0|Ryku Ability Links|680852C
+data|3|24364|4 bytes|1336|0|Droplets Sora|6810364
+data|3|243E0|4 bytes|333|0|Droplets Ryku|68103E0

@@ -1,4 +1,6 @@
 # PS4 Cheat Code / Offset List
+[![GitHub watchers](https://img.shields.io/github/watchers/JDsnyke/PS4-Cheat-List.svg?style=social&label=Watch)](https://github.com/JDsnyke/PS4-Cheat-List/subscription) [![GitHub stars](https://img.shields.io/github/stars/JDsnyke/PS4-Cheat-List.svg?style=social&label=Stars)](https://github.com/JDsnyke/PS4-Cheat-List/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JDsnyke/PS4-Cheat-List.svg?style=social&label=Fork)](https://github.com/JDsnyke/PS4-Cheat-List/fork)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
@@ -681,6 +683,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 6CCA1AC
     ```
 
+* __Dead or Alive : Xtreme 3__ (CUSA01210 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-87#post-94264) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dead_or_Alive_Xtreme_3_(CUSA01210-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dead-or-alive-xtreme-3)
+
+    ```
+    Money
+
+    1 21A48B8
+
+    ????? (needs confirming)
+
+    1 54FF764
+    ```
+
 * __Dead Island : Definitive Edition__ (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/dead-island-definitive-edition-cheat-codes.46586/#post-363244) [[2]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/dead-island)
 
     ```
@@ -769,6 +783,26 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Medical Spray
 
     0 XXXXXX
+    ```
+
+* __Dragonball Xenoverse 2__ (CUSA05088 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragonball_Xenoverse_2_(CUSA05088-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-ball-xenoverse-2)
+
+    ```
+    Zeni
+
+    0 2027691A4
+
+    TP / ZP
+
+    0 2027691A8
+
+    Skill Points
+
+    0 20276C204
+
+    EXP (Set your EXP, for example "99999999", then go in battle. After battle you get the Lvl ups)
+
+    0 20276C200
     ```
 
 * __Dragon Quest Builders__ (CUSA05235 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374686806) [[2]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374695459) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dragon_Quest_Builders_(CUSA05235-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-quest-builders)
@@ -1158,12 +1192,36 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 7D795350
     ```
 
-* __God Eater 2 : Rage Burst__ (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht)
+* __God Eater 2 : Rage Burst__ (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[2]](Update from Discord on 15.05.2018 @ 7.22 PM in #cheats by Weysincha) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht) [[CHT File 1.4.3 R1]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_V2_(CUSA03370-Ver_1.0.0).cht)
 
     ```
+    CHT File 1.2 [1]
+
     Money
 
     0 14919EB90
+    ```
+
+    ```
+    CHT File 1.4.3 R1 [2]
+
+    (Note : in-game update version appears as 1.30)
+
+    Inf Money
+
+    0 12699EB90
+
+    Inf Stamina
+
+    0 126998A04
+
+    Inf HP / LP
+
+    0 1269989FC
+
+    Inf OP
+
+    0 126998A00
     ```
 
 * __God of War 3__ (CUSA01715 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83300) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_of_War_3_(CUSA01715-Ver_1.0.0).cht)
@@ -1385,6 +1443,44 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 75090F40
     ```
 
+* __Killzone : Shadow Fall__ (CUSA00191 - Ver 1.1.4 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 15.05.2018 @ 10.49 PM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Killzone_Shadow_Fall_(CUSA00191-Ver_1.1.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/killzone-shadow-fall)
+
+    ```
+    If you are on a diff CUSA or UPDATE you can find everything here - https://kutt.it/5c2fXy
+
+    Health : 250 Float/Exact value. Then after taking damage, you search for Decreased Value and you should be able to find your results for Health. The value will normally be after taking quick damage, around 140-190.
+
+    (PS I FOUND ALL OF THESE CHEATS AT THE BEGINNING OF THE GAME I SUGGEST U DO THE SAME)
+
+    Ammo Primary / Secondary is a 2 byte search
+
+    Grenades is a 4 byte search
+
+    Health / Adrenalin packs is a 4 byte search
+    ```
+
+    ```
+    Health
+
+    0 / 1 3F56E18
+
+    Health Packs
+
+    1 3F56AF0
+
+    Assault Rifle Ammo
+
+    1 3F56E18
+
+    Pistol Ammo
+
+    1 3F56AF0
+
+    Grenades
+
+    1 3F56AF0
+    ```
+
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ```
@@ -1421,6 +1517,52 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 D583CC
     ```
 
+* __Kingdom Hearts 2.8 : Final Chapter Prologue__ (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Kingdom_Hearts_2-8_Final_Chapter_Prologue_(CUSA05787-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-hd-2-8-final-chapter-prologue)
+
+    ```
+    P1 Inf HP Sora / Ryku
+
+    (Make Sure before you switch character to unlock Inf HP. After you changed character, you can lock it. Not doing this could cause game crashes)
+
+    0 67ECB78
+
+    Money
+
+    (Set Value while you in Menu then go out and back)
+
+    0 681044C
+
+    EXP Sora / Ryku
+
+    (Use this from Pause menu. After you change your EXP, kill some monsters!)
+
+    0 6857DA0
+
+    Sora Ability Links
+
+    (Use same method as EXP)
+
+    0 680862C
+
+    Ryku Ability Links
+
+    (Use same method as EXP)
+
+    0 680852C
+
+    Droplets Sora
+
+    (Set Value while you in Menu then go out and back)
+
+    0 6810364
+
+    Droplets Ryku
+
+    (Set Value while you in Menu then go out and back)
+
+    0 68103E0
+    ```
+
 * __LEGO Batman 3 Beyond Gotham__ (CUSA00580 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-84995) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/LEGO_Batman_3_Beyond_Gotham_(CUSA00580-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-batman-3-beyond-gotham)
 
     ```
@@ -1445,7 +1587,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 21C743660
     ```
 
-* __Metal Gear Solid V : The Phantom Pain__ (CUSA01154 - Ver 1.1.2 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 11.05.2018 @ 12.12 AM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/MGSV_The_Phantom_Pain_(CUSA01154-Ver_1.1.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
+* __Metal Gear Solid V : The Phantom Pain__ (CUSA01154 - Ver 1.1.2 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 11.05.2018 @ 12.12 AM in #cheats by Weysincha) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92851) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/MGSV_The_Phantom_Pain_(CUSA01154-Ver_1.1.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
 
     ```
     P1 Rifle Ammo
@@ -1528,7 +1670,49 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 037688D0
     ```
 
-* __NieR Automata__ (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht)
+* NBA 2K17 (CUSA05040 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-94028) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NBA_2K17_(CUSA05040-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nba-2k17)
+
+    ```
+    Money
+
+    0 3C8F0274
+
+    Max Attributes
+
+    (Important - set the value as "19191919191919191919". Then all attributes should max out)
+
+    0 3CB39542
+    ```
+
+* __Need for Speed : Payback__ (CUSA05986 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-94122) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-93903) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94355) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-94601) [[CHT File - Weysincha]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Need_for_Speed_Payback_Weysincha_(CUSA05986-Ver_1.0.0).cht) [[CHT File - Pretinaverse]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Need_for_Speed_Payback_Pretinaverse_(CUSA05986-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/need-for-speed-payback)
+
+    ```
+    [2] [3] By Weysincha
+
+    P1 Money
+
+    0 42A5BF80
+
+    P1 EXP / Rank
+
+    (Set your Amount of EXP then drift some in the road to get exp. Afterwards you get Rank LVL UP. Max LVL is 50/51)
+
+    0 428FA290
+
+    P1 Tokens
+
+    0 42A5BF80
+    ```
+
+    ```
+    [1] [4] By Pretinaverse
+
+    Money
+
+    0 2FC088B0
+    ```
+
+* __NieR Automata__ (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NieR_Automata_(CUSA04551-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nier-automata)
 
     ```
     Money
@@ -2740,12 +2924,32 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
     ```
 
-* __Yakuza 0__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0/)
+* __Yakuza 0__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
 
     ```
     Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
 
     0 209E8F2B0
+    ```
+
+* __Yakuza 0__ (CUSA05133 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94516) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_0_(CUSA05133-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
+
+    ```
+    Inf Money
+
+    0 20114F028
+
+    Inf HP
+
+    1 201147024
+
+    Inf Gauge
+
+    1 20114702C
+
+    Inf CP
+
+    0 20114F148
     ```
 
 * __Yakuza 6__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)

@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA05986|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@42A5BF80_3_967F80+28+28+10+0+A8+D0+10+10+30+58+20+8+8+38+FFFFFFFFFFFFFFE8|data|4 bytes|90639900|0|P1 Money|
+simple pointer|pointer|4 bytes|@428FA290_3_806290+98+68+20+10+30+0+58+10+50+0+108+10+3C8+48+10+58+28+98+70+8|data|4 bytes|8712281|0|P1 EXP/Rank|
+simple pointer|pointer|4 bytes|@42A5BF80_3_967F80+28+0+10+0+A8+D0+10+0+48+10+28+68+68+0+18|data|4 bytes|19990|0|P1 Tokens|
