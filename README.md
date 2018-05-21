@@ -3,6 +3,8 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://jdsnyke.tk/status)
+
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
 ```
@@ -747,6 +749,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 21AEFC450
     ```
 
+* __Devil May Cry 4 : Special Edition__ (CUSA01708 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 01.05.2018 in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Devil_May_Cry_4_Special_Edition_(CUSA01708-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/devil-may-cry-4)
+
+    ```
+    P1 Nero HP
+
+    0 335AE520
+
+    P1 Red Orbs
+
+    0 335BAF08
+
+    P1 Blue Souls / Orbs
+
+    0 335AE520
+    ```
+
 * __Diablo 3__ (CUSA00433 - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673) [[Wiki Guide]](https://www.ign.com/wikis/diablo-3)
 
     ```
@@ -1481,6 +1499,82 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1 3F56AF0
     ```
 
+* __Kingdom Hearts HD 1.5 & 2.5 Remix : Kingdom Hearts Final Mix__ (CUSA05786 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-91#post-95469) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Kingdom_Hearts_HD_1.5_&_2.5_Remix_Kingdom_Hearts_Final_Mix_(CUSA05786-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-1-5-and-2-5-remix)
+
+    ```
+    Munny (Money)
+
+    0 4A3E66FC
+
+    Items (Part 1)
+
+    0 4A3D077A
+
+    Items (Part 2)
+
+    0 4A3D0807
+
+    Items (Part 3)
+
+    0 4A3D0860
+
+    All Gummi Blocks and Blueprints
+
+    0 4A3DC158
+
+    Gummi Ship HP
+
+    0 49D8B2A4
+
+    Sora Max Stats (Real)
+
+    0 4A26FC4C
+
+    Sora Max Stats (Visual)
+
+    0 4A3CFA0C
+
+    Sora EXP
+
+    0 4A3D0320
+
+    Sora Skill Points
+
+    0 4A3CFAB4
+
+    Donald Max Stats (Real)
+
+    0 4A26FD34
+
+    Donald Max Stats (Visual)
+
+    0 4A3CFAF4
+
+    Donald EXP
+
+    0 4A3D0394
+
+    Donald Skill Points
+
+    0 4A3CFB9C
+
+    Goofy Max Stats (Real)
+
+    0 4A26FE1C
+
+    Goofy Max Stats (Visual)
+
+    0 4A3CFBDC
+
+    Goofy EXP
+
+    0 4A3D0408
+
+    Goofy Skill Points
+
+    0 4A3CFC84
+    ```
+
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ```
@@ -1517,7 +1611,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 D583CC
     ```
 
-* __Kingdom Hearts 2.8 : Final Chapter Prologue__ (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Kingdom_Hearts_2-8_Final_Chapter_Prologue_(CUSA05787-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-hd-2-8-final-chapter-prologue)
+* __Kingdom Hearts 2.8 : Final Chapter Prologue__ (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Kingdom_Hearts_2.8_Final_Chapter_Prologue_(CUSA05787-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-hd-2-8-final-chapter-prologue)
 
     ```
     P1 Inf HP Sora / Ryku
@@ -1660,7 +1754,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 XXXXXX
     ```
 
-* __Mortal Kombat X Standard Edition__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610)
+* __Mortal Kombat X : Standard Edition__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610) [[Wiki Guide]](https://www.ign.com/wikis/mortal-kombat-x)
 
     ```
     No Money Krypt
@@ -1670,7 +1764,17 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 037688D0
     ```
 
-* NBA 2K17 (CUSA05040 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-94028) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NBA_2K17_(CUSA05040-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nba-2k17)
+* __Mortal Kombat XL__ (CUSA03589 - Ver 1.0.4 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-96008) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Mortal_Kombat_XL_(CUSA03589-Ver_1.0.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/mortal-kombat-x)
+
+    ```
+    Krypt Money
+
+    (You need a small bit of money and then buy something first)
+
+    1 301977F24
+    ```
+
+* __NBA 2K17__ (CUSA05040 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-94028) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/NBA_2K17_(CUSA05040-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nba-2k17)
 
     ```
     Money
@@ -2932,24 +3036,40 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 209E8F2B0
     ```
 
-* __Yakuza 0__ (CUSA05133 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94516) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_0_(CUSA05133-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
+* __Yakuza 0__ (CUSA05133 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94516) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-91#post-95423) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_0_(CUSA05133-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
 
     ```
-    Inf Money
+    Inf Money Kiryu
 
     0 20114F028
 
-    Inf HP
+    Inf HP Kiryu
 
-    1 201147024
+    0 201147024
 
-    Inf Gauge
+    Inf Gauge Kiryu
 
-    1 20114702C
+    0 20114702C
 
-    Inf CP
+    Inf CP Kiryu
 
     0 20114F148
+
+    Inf HP Majima
+
+    0 200A77424
+
+    Inf Gauge Majima
+
+    0 200A7742C
+
+    Inf Money Majima
+
+    0 200A7F030
+
+    Inf CP Majima
+
+    0 200A7F150
     ```
 
 * __Yakuza 6__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
@@ -2968,7 +3088,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 2003E6BC8 3B9AC9FF
     ```
 
-* __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-33#post-91679) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
+* __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-33#post-91679) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-95836) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
 
     ```
     Money
@@ -2977,11 +3097,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     HP
 
-    0 20017AFE4
+    1 20017AFE4
 
-    EXP / Skill (points not needed)
+    EXP (Skill points not needed, just set value)
 
-    0 20017B018
+    1 20017B018
+
+    Inf Gauge
+
+    1 200E96FEC
+
+    Inf CP
+
+    0 200E9C538
     ```
 
 ## Community

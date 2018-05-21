@@ -1,5 +1,9 @@
-1.4|eboot.bin|ID:|VER:|FM:455
-data|14|77028|4 bytes|64878205|0|Inf Money|20114F028
-data|14|6F024|4 bytes|75367305|1|Inf HP|201147024
-data|14|6F02C|4 bytes|1185157120|1|Inf Gauge|20114702C
-data|14|77148|4 bytes|99|0|Inf CP|20114F148
+1.4|eboot.bin|ID:CUSA05133|VER:01.00|FM:455
+data|14|77028|4 bytes|979411285|0|Inf Money Kiryu|200A7F028
+data|14|6F024|4 bytes|101581705|0|Inf HP Kiryu |200A77024
+data|14|6F02C|4 bytes|1185157120|0|Inf Gauge Kiryu|200A7702C
+data|14|77148|4 bytes|102|0|Inf CP Kiryu|200A7F148
+data|14|6F424|4 bytes|59844000|0|Inf HP Majima|200A77424
+data|14|6F42C|4 bytes|1187207680|0|Inf Gauge Majima|200A7742C
+data|14|77030|4 bytes|9999999|0|Inf Money Majima|200A7F030
+data|14|77150|4 bytes|999|0|Inf CP Majima|200A7F150

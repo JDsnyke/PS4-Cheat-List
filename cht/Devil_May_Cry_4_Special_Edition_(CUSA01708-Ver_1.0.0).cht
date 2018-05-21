@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA01708|VER:01.00|FM:455
+simple pointer|pointer|4 bytes|@335AE520_2_2520+448+58+20+20+10+38+2A0+578+C8+A08+1430+B88|data|4 bytes|1178304512|1|P1 Nero HP|
+simple pointer|pointer|4 bytes|@335BAF08_2_EF08+10+10+10+10+10+10+10+28+10+38+184|data|4 bytes|600000|0|P1 Red orbs|
+simple pointer|pointer|4 bytes|@335AE520_2_2520+48+10+10+10+10+10+28+10+38+210|data|4 bytes|700000|0|P1 Blue Souls / Orbs |
