@@ -1,9 +1,9 @@
 # PS4 Cheat Code / Offset List
 [![GitHub watchers](https://img.shields.io/github/watchers/JDsnyke/PS4-Cheat-List.svg?style=social&label=Watch)](https://github.com/JDsnyke/PS4-Cheat-List/subscription) [![GitHub stars](https://img.shields.io/github/stars/JDsnyke/PS4-Cheat-List.svg?style=social&label=Stars)](https://github.com/JDsnyke/PS4-Cheat-List/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JDsnyke/PS4-Cheat-List.svg?style=social&label=Fork)](https://github.com/JDsnyke/PS4-Cheat-List/fork)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
-
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://jdsnyke.tk/status)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
@@ -46,6 +46,8 @@ All codes belong to their respective owners. I am merely gathering them here for
 I do not and cannot guarantee the accuracy nor the reliability of either these programs / software nor of these codes / offsets.
 
 I nor the original publishers of these codes are to be blamed for any issues that arise with their use.
+
+By using this site, you agree to the policies detailed [HERE](https://jdsnyke.tk/docs/privacy/).
 
 In other words, __USE AT YOUR OWN RISK__!
 
@@ -936,6 +938,34 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 402DC54B18
     ```
 
+* __Dying Light__ (CUSA02010 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-39#post-96304) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-39#post-96508) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Dying_Light_(CUSA02010-Ver_1.0.0).cht)
+
+    ```
+    Money
+
+    1 20042CF87C
+
+    American 9mm Pistol
+
+    1 4027C8E580
+
+    Fire Crackers
+
+    1 2016192700
+
+    Flare
+
+    1 2016192940
+
+    Lock Pick
+
+    1 20149027A0
+
+    Police or Military Rifle
+
+    1 402626D300
+    ```
+
 * __Far Cry Primal__ (CUSA03309 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Far_Cry_Primal_(CUSA03309-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/far-cry-primal)
 
     ```
@@ -1211,6 +1241,14 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
 * __God Eater 2 : Rage Burst__ (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[2]](Update from Discord on 15.05.2018 @ 7.22 PM in #cheats by Weysincha) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht) [[CHT File 1.4.3 R1]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/God_Eater_2_Rage_Burst_V2_(CUSA03370-Ver_1.0.0).cht)
+
+    ```
+    IMPORTANT NOTE [1] [2]
+
+    THESE CODES ARE CONFIRMED TO NOT WORK CORRECTLY AT THE MOMENT
+
+    THEY WILL HOWEVER, STILL BE AVAILABLE FOR RESEARCH PURPOSES
+    ```
 
     ```
     CHT File 1.2 [1]
@@ -1714,6 +1752,50 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 72E01A40
     ```
 
+* __Metal Gear Solid V : The Phantom Pain Definitive Edition__ (CUSA05597 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-96237) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/MGSV_The_Phantom_Pain_Definitive_Edition_(CUSA05597-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
+
+    ```
+    GMP
+
+    0 554355C8
+
+    RES Fuel
+
+    0 55443A54
+
+    RES Biological
+
+    0 55443A58
+
+    RES Common
+
+    0 55443A5C
+
+    RES Minor
+
+    0 55443A60
+
+    RES Precious
+
+    0 55443A64
+
+    PLANT Wormwood
+
+    0 55443A68
+
+    PLANT Blackcarrot
+
+    0 55443A6C
+
+    PLANT Haoma
+
+    0 55443A84
+
+    PLANT Tarragon
+
+    0 55443A74
+    ```
+
 * __Middle Earth: Shadow of Mordor GOTY Edition__ (CUSA02152 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-377993228) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85280) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-55#post-85422) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Shadow_of_Mordor_GOTY_(CUSA02152-Ver 1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/middle-earth-shadow-of-mordor)
 
     ```
@@ -1951,7 +2033,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 23A43E0
     ```
 
-* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[10]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-31#post-89831) [[11]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-90505) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
+* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[10]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-31#post-89831) [[11]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-90505) [[12]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-40#post-97195) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
 
     ```
     Note : apparently these codes work for both CUSA06638 and CUSA05877 respectively [8]
@@ -2377,6 +2459,483 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     Change Slot 12 Persona [8] [9]
 
     0 XXXXXX
+
+    ******
+    CHT FILE V3 Update
+
+    PLEASE READ THE NOTES BEFORE PROCEEDING WITH THE FOLLOWING CHEATS BELOW
+
+    Note : Once you change the stats of one stat (St, Ma, En, Ag, Lu), the one below it becomes zero, just change that to your desired value, rinse and repeat.
+
+    Note : Each Skill has a different code, and the list has been posted below.
+
+    Note : If you want to edit the other personas, just persona change to them, exit out of menu, and come back.
+
+    Note : Make sure not to skip levels, it's best to increment the level one by one just to be safe, personally for me, setting a rank from 1 to 10 crashes the game.
+
+    1st Persona 1st Skill [12]
+
+    0 5174F770
+
+    1st Persona 2nd Skill [12]
+
+    0 5174F772
+
+    1st Persona 3rd Skill [12]
+
+    0 5174F774
+
+    1st Persona 4th Skill [12]
+
+    0 5174F776
+
+    1st Persona 5th Skill [12]
+
+    0 5174F7783
+
+    1st Persona 6th Skill [12]
+
+    0 5174F77A
+
+    1st Persona 7th Skill [12]
+
+    0 5174F77C
+
+    1st Persona 8th Skill [12]
+
+    0 5174F77E
+
+    1st Persona Strength [12]
+
+    0 5174F780
+
+    1st Persona Magic [12]
+
+    0 5174F781
+
+    1st Persona Endurance [12]
+
+    0 5174F782
+
+    1st Persona Agility [12]
+
+    0 5174F783
+
+    1st Persona Luck [12]
+
+    0 5174F784
+
+    Ryuji Persona Str [12]
+
+    0 5174FA20
+
+    Ryuji Persona Ma [12]
+
+    0 5174FA21
+
+    Ryuji Persona En [12]
+
+    0 5174FA22
+
+    Ryuji Persona Ag [12]
+
+    0 5174FA23
+
+    Ryuji Persona Lu [12]
+
+    0 5174FA24
+
+    Ryuji Persona 1st Skill [12]
+
+    0 5174FA10
+
+    Ryuji Persona 2nd Skill [12]
+
+    0 5174FA12
+
+    Ryuji Persona 3rd Skill [12]
+
+    0 5174FA14
+
+    Ryuji Persona 4th Skill [12]
+
+    0 5174FA16
+
+    Ryuji Persona 5th Skill [12]
+
+    0 5174FA18
+
+    Ryuji Persona 7th Skill [12]
+
+    0 5174FA1C
+
+    Ryuji Persona 6th Skill [12]
+
+    0 5174FA1A
+
+    Ryuji Persona 8th Skill [12]
+
+    0 5174FA1E
+
+    Morgana Persona St [12]
+
+    0 5174FCC0
+
+    Morgana Persona Ma [12]
+
+    0 5174FCC1
+
+    Morgana Persona En [12]
+
+    0 5174FCC2
+
+    Morgana Persona Ag [12]
+
+    0 5174FCC3
+
+    Morgana Persona Lu [12]
+
+    0 5174FCC4
+
+    Morgana Persona 1st Skill [12]
+
+    0 5174FCB0
+
+    Morgana Persona 2nd Skill [12]
+
+    0 5174FCB2
+
+    Morgana Persona 3rd Skill [12]
+
+    0 5174FCB4
+
+    Morgana Persona 4th Skill [12]
+
+    0 5174FCB6
+
+    Morgana Persona 5th Skill [12]
+
+    0 5174FCB8
+
+    Morgana Persona 6th Skill [12]
+
+    0 5174FCBA
+
+    Morgana Persona 7th Skill [12]
+
+    0 5174FCBC
+
+    Morgana Persona 8th Skill [12]
+
+    0 5174FCBE
+
+    Ann Persona St [12]
+
+    0 5174FF60
+
+    Ann Persona Ma [12]
+
+    0 5174FF61
+
+    Ann Persona En [12]
+
+    0 5174FF62
+
+    Ann Persona Ag [12]
+
+    0 5174FF63
+
+    Ann Persona Lu [12]
+
+    0 5174FF64
+
+    Ann Persona 1st Skill [12]
+
+    0 5174FF50
+
+    Ann Persona 2nd Skill [12]
+
+    0 5174FF52
+
+    Ann Persona 3rd Skill [12]
+
+    0 5174FF54
+
+    Ann Persona 4th Skill [12]
+
+    0 5174FF56
+
+    Ann Persona 5th Skill [12]
+
+    0 5174FF58
+
+    Ann Persona 6th Skill [12]
+
+    0 5174FF5A
+
+    Ann Persona 7th Skill [12]
+
+    0 5174FF5C
+
+    Ann Persona 8th Skill [12]
+
+    0 5174FF5E
+
+    Yusuke Persona St [12]
+
+    0 51750200
+
+    Yusuke Persona Ma [12]
+
+    0 51750201
+
+    Yusuke Persona En [12]
+
+    0 51750202
+
+    Yusuke Persona Ag [12]
+
+    0 51750203
+
+    Yusuke Persona Lu [12]
+
+    0 51750204
+
+    Yusuke Persona 1st Skill [12]
+
+    0 517501F0
+
+    Yusuke Persona 2nd Skill [12]
+
+    0 517501F2
+
+    Yusuke Persona 3rd Skill [12]
+
+    0 517501F4
+
+    Yusuke Persona 4th Skill [12]
+
+    0 517501F6
+
+    Yusuke Persona 5th Skill [12]
+
+    0 517501F8
+
+    Yusuke Persona 6th Skill [12]
+
+    0 517501FA
+
+    Yusuke Persona 7th Skill [12]
+
+    0 517501FC
+
+    Yusuke Persona 8th Skill [12]
+
+    0 517501FE
+
+    Makoto Persona St [12]
+
+    0 517504A0
+
+    Makoto Persona Ma [12]
+
+    0 517504A1
+
+    Makoto Persona En [12]
+
+    0 517504A2
+
+    Makoto Persona Ag [12]
+
+    0 517504A3
+
+    Makoto Persona Lu [12]
+
+    0 517504A4
+
+    Makoto Persona 1st Skill [12]
+
+    0 51750490
+
+    Makoto Persona 2nd Skill [12]
+
+    0 51750492
+
+    Makoto Persona 3rd Skill [12]
+
+    0 51750494
+
+    Makoto Persona 4th Skill [12]
+
+    0 51750496
+
+    Makoto Persona 5th Skill [12]
+
+    0 51750498
+
+    Makoto Persona 6th Skill [12]
+
+    0 5175049A
+
+    Makoto Persona 7th Skill [12]
+
+    0 5175049C
+
+    Makoto Persona 8th Skill [12]
+
+    0 5175049E
+
+    Haru Persona St [12]
+
+    0 51750740
+
+    Haru Persona Ma [12]
+
+    0 51750741
+
+    Haru Persona En [12]
+
+    0 51750742
+
+    Haru Persona Ag [12]
+
+    0 51750743
+
+    Haru Persona Lu [12]
+
+    0 51750744
+
+    Haru Persona 1st Skill [12]
+
+    0 51750730
+
+    Haru Persona 2nd Skill [12]
+
+    0 51750732
+
+    Haru Persona 3rd Skill [12]
+
+    0 51750734
+
+    Haru Persona 4th Skill [12]
+
+    0 51750736
+
+    Haru Persona 5th Skill [12]
+
+    0 51750738
+
+    Haru Persona 6th Skill [12]
+
+    0 5175073A
+
+    Haru Persona 7th Skill [12]
+
+    0 5175073C
+
+    Haru Persona 8th Skill [12]
+
+    0 5175073E
+
+    Futaba Persona St [12]
+
+    0 517509E0
+
+    Futaba Persona Ma [12]
+
+    0 517509E1
+
+    Futaba Persona En [12]
+
+    0 517509E2
+
+    Futaba Persona Ag [12]
+
+    0 517509E3
+
+    Futaba Persona Lu [12]
+
+    0 517509E4
+
+    Chariot Rank [12]
+
+    0 51761BC0
+
+    Fool Rank [12]
+
+    0 51761BD0
+
+    Lovers Rank [12]
+
+    0 51761BE0
+
+    Magician Rank [12]
+
+    0 51761BF0
+
+    Death Rank [12]
+
+    0 51761C00
+
+    Hierophant Rank [12]
+
+    0 51761C10
+
+    Moon Rank [12]
+
+    0 51761C20
+
+    Sun Rank [12]
+
+    0 51761C30
+
+    Strength Rank [12]
+
+    0 51761C40
+
+    Temperance Rank [12]
+
+    0 51761C50
+
+    Justice Rank [12]
+
+    0 51761C60
+
+    Emperor Rank [12]
+
+    0 51761C70
+
+    Devil Rank [12]
+
+    0 51761C80
+
+    Priestess Rank [12]
+
+    0 51761C90
+
+    Fortune Rank [12]
+
+    0 51761CA0
+
+    Judge Rank [12]
+
+    0 51761CB0
+
+    Hanged Man Rank [12]
+
+    0 51761CC0
+
+    Star Rank [12]
+
+    0 51761CD0
+
+    Hermit Rank [12]
+
+    0 51761CE0
+
+    Tower Rank [12]
+
+    0 51761CF0
     ```
 
     ```
@@ -2623,6 +3182,733 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     1D01 = Matador
     1E01 = Pale Rider
     1F01 = Horus
+    ```
+
+    ```
+    Change Skill Values for CHT File V3 [12]
+
+    0:Blank
+    10:Agi
+    11:Agilao
+    12:Agidyne
+    13:Maragi
+    14:Maragion
+    15:Maragidyne
+    20:Bufu
+    21:Bufula
+    22:Bufudyne
+    23:Mabufu
+    24:Mabufula
+    25:Mabufudyne
+    30:Garu
+    31:Garula
+    32:Garudyne
+    33:Magatu
+    34:Magarula
+    35:Magarudyne
+    40:Zio
+    41:Zionga
+    42:Ziodyne
+    43:Mazio
+    44:Mazionga
+    45:MazioDyne
+    50:Hama
+    51:Hamaon
+    52:Mahama
+    53:Mahamaon
+    54:Kouha
+    55:Kouga
+    56:Kougaon
+    57:Makouha
+    58:Makouga
+    59:Makougaon
+    60:Mudo
+    61:Mudoon
+    62:Mamudo
+    63:Mamudoon
+    64:Eiha
+    65:Eiga
+    66:Eigaon
+    67:Maeiha
+    68:Maeiga
+    69:Maeigaon
+    70:Megido
+    71:Megidola
+    72:Megidolaon
+    73:Frei
+    74:Freila
+    75:Freidyne
+    76:Mafrei
+    77:Mafreila
+    78:Mafreidyne
+    80:Dazzler
+    81:Nocturnal Flash
+    82:Pulinpa
+    83:Tentarafoo
+    84:Evil Touch
+    85:Evil Smile
+    86:Makajama
+    87:Makajamaon
+    88:Famine's Breath
+    89:Famine's Scream
+    90:Dormina
+    91:Lullaby
+    92:Taunt
+    93:Wage War
+    94:Ominous Words
+    95:Abysmal Surge
+    96:Marin Karin
+    97:Brain Jack
+    98:Trapped Rat
+    100:Self-destruct (Medium)
+    101:Self-destruct (Medium)
+    102:Self-destruct (Heavy)
+    103:Life Drain
+    104:Spirit Drain
+    105:Life Leech
+    106:Spirit Leech
+    107:Spirit Drain (Blank)
+    110:Foul Breath
+    111:Stagnant Air
+    112:Reverse Rub
+    113:Ghastly Wail
+    120:Inferno
+    121:Blazing Hell
+    122:Low Burn
+    123:Mid Burn
+    124:High Burn
+    125:Low Freeze
+    126:Mid Freeze
+    127:High Freeze
+    128:Low Shock
+    129:Mid Shock
+    130:Diamond Dust
+    131:Ice Age
+    132:High Shock
+    133:Low Dizzy
+    134:Mid Dizzy
+    135:High Dizzy
+    136:Low Confuse
+    137:Mid Confuse
+    138:High Confuse
+    139:Low Fear
+    140:Panta Rhei
+    141:Vacuum Wave
+    142:Mid Fear
+    143:High Fear
+    144:Low Forget
+    145:Mid Forget
+    146:High Forget
+    147:Low Brainwash
+    148:Mid Brainwash
+    149:High Brainwash
+    150:Thunder Reign
+    151:Wild Thunder
+    152:Low Sleep
+    153:Mid Sleep
+    154:High Sleep
+    155:Low Rage
+    156:Mid Rage
+    157:High Rage
+    158:Low Despair
+    159:Mid Despair
+    160:Divine Judgment
+    161:Samsara
+    162:High Despair
+    163:Low All Ail
+    164:Mid All Ail
+    165:High All Ail
+    170:Demonic Decree
+    171:Die For Me!
+    176:Atomic Flare
+    177:Cosmic Flare
+    180:Black Viper
+    181:Morning Star
+    190:Psi
+    191:Psio
+    192:Psiodyne
+    193:Mapsi
+    194:Mapsio
+    195:Mapsiodyne
+    197:Psycho Force
+    198:Psycho Blast
+    200:Lunge
+    201:Assault Dive
+    202:Megaton Raid
+    203:God's Hand
+    204:Lunge (Blank)
+    205:Lucky Punch
+    206:Miracle Punch
+    210:Cleave
+    211:Giant Slice
+    212:Brave Blade
+    213:Sword Dance
+    215:Hassou Tobi
+    216:Ayamur
+    220:Cornered Fang
+    221:Rising Slash
+    222:Deadly Fury
+    224:Snap
+    225:Triple Down
+    226:One-shot Kill
+    227:Riot Gun
+    230:Vajra Blast
+    231:Vorpal Blade
+    235:Vicious Strike
+    236:Heat Wave
+    237:Gigantomachia
+    241:Rampage
+    242:Swift Strike
+    243:Deathbound
+    244:Agneyastra
+    247:Rising Slash (Enemy Only)
+    248:Deadly Fury (Enemy Only)
+    250:Double Fangs
+    253:Tempest Slash
+    254:Myriad Slashes
+    260:Sledgehammer
+    261:Skull Cracker
+    262:Terror Claw
+    263:Headbutt
+    264:Stomach Blow
+    265:Dream Needle
+    266:Hysterical Slap
+    267:Negative Pile
+    268:Brain Shake
+    270:Flash Bomb
+    271:Mind Slice
+    272:Bloodbath
+    273:Memory Blow
+    274:Insastiable Strike
+    275:Dormin Rush
+    276:Oni-Kagura
+    277:Bad Beat
+    278:Brain Buster
+    280:Handgun (Blank)
+    281:Shotgun (Blank)
+    282:Slingshot (Blank)
+    283:Machine Gun (Blank)
+    284:Assault Rifle (Blank)
+    285:Revolver (Blank)
+    286:Grenade Launcher (Blank)
+    287:Laser Gun (Blank)
+    300:Dia
+    301:Diarama
+    302:Diarahan
+    305:Media
+    306:Mediarama
+    307:Mediarahan
+    310:Recarm
+    311:Samarecarm
+    312:Recarmdra
+    315:Amrita Drop
+    316:Amrita Shower
+    318:Salvation
+    325:Patra
+    327:Energy Shower
+    328:Energy Drop
+    329:Baisudi
+    330:Me Patra
+    331:Mabaisudi
+    335:Tarukaja
+    336:Rakukaja
+    337:Sukukaja
+    338:Heat Riser
+    340:Matarukaja
+    341:Marakukaja
+    342:Masukukaja
+    343:Thermopylae
+    345:Tarunda
+    346:Rakunda
+    347:Sukunda
+    348:Debilitate
+    350:Matarunda
+    351:Marakunda
+    352:Masukunda
+    355:Dekunda
+    356:Dekaja
+    360:Charge
+    361:Concentrate
+    365:Rebellion
+    366:Revolution
+    370:Tetrakarn
+    371:Makarakarn
+    372:Tetraja
+    375:Tetra Break
+    376:Makara Break
+    380:Fire Wall
+    381:Ice Wall
+    382:Elec Wall
+    383:Wind Wall
+    385:Fire Break
+    386:Ice Break
+    387:Wind Break
+    388:Elec Break
+    390:Trafuri
+    391:Traesto
+    393:Nuke Wall
+    394:Psy Wall
+    395:Nuke Break
+    396:Psy Break
+    400:All-out Lv1
+    401:All-out Lv2
+    402:All-out Lv3
+    403:Emergency Escape (Blank)
+    405:Down Shot (Blank)
+    406:Summon
+    407:Call for Backup (Blank)
+    408:Outlaw Attack (Blank)
+    409:Barrage (Blank)
+    410:Follow Crush (Blank)
+    411:Follow Claw (Blank)
+    412:Follow Whip (Blank)
+    413:Follow Blade (Blank)
+    414:Follow Knuckle (Blank)
+    415:Follow Axe (Blank)
+    416:Follow Saber (Blank)
+    417:Dispose Item
+    418:Heal Enemy
+    419:Death (Despair)
+    420:Ally1 Follow-Up
+    421:Ally2 Follow-Up
+    422:Ally3 Follow-Up
+    423:Ally4 Follow-Up
+    424:Ally5 Follow-Up
+    425:Ally6 Follow-Up
+    426:Ally7 Follow-Up
+    427:Power Up Enemy
+    428:Power Up Enemy
+    429:Power Up Enemy
+    430:Steal Info
+    431:Sup Matarukaja
+    432:Sup Marakukaja
+    433:Sup Masukukaja
+    434:Sup All Kaja
+    435:Sup Charge
+    436:Sup HP +30 Percent
+    437:Sup SP +10 Percent
+    438:Sup Escape Route
+    439:Sup Third Eye
+    440:Subrecover HP
+    441:Subrecover SP
+    442:Analysis
+    443:Deep Analysis
+    444:Full Analysis
+    445:All-Out Attack
+    446:Dust Flurry
+    447:Tongue Whip
+    448:Whip Strike
+    449:Lustful Slurp
+    450:Libido Boost
+    451:Golden Knife
+    452:Lick
+    453:Gold Medal Spike
+    454:Volleyball Assault
+    455:Maelstrom
+    456:Flame Dance
+    457:Silent Snowscape
+    458:THunderclap
+    459:Maeiga
+    460:Hunger All
+    461:Ocula Vulcan
+    462:Missile Party
+    463:Fear Gas
+    464:Super VIP Form
+    465:March of the Piggy
+    466:Sphinx Swipe
+    467:Wing Blast
+    468:Rapid Ascent
+    469:Sphinx Dive
+    470:Dreadful Scream
+    471:Bite
+    472:Restore
+    473:The Artist's Grace
+    474:Work Order
+    475:Sacrifice Order
+    476:Selfless Devotion
+    477:Penalty
+    478:Coin Attack
+    479:Severing Slash
+    480:Gatling Gun
+    481:Berserker Dance
+    482:Roulette
+    483:Roulette
+    484:Roulette
+    485:Roulette
+    486:Roulette
+    487:Roulette
+    488:beast King's Wrath
+    489:Hunting Stance
+    490:Arm of Destruction
+    491:Gryphon's Breath
+    492:Royal Wing Beam
+    493:Cannon Fire
+    494:Cannon Barrage
+    495:Unholy Convergence
+    496:Pyramid Blast
+    497:Tyrant's Fist
+    498:Tyrant's Glare
+    499:Tyrant's Wave
+    500:Fig Seed
+    501:Medicine
+    502:Ointment
+    503:Antibiotic Gel
+    504:Life Stone
+    505:Bead
+    506:Value Medicine
+    507:Medical Kit
+    508:Maka Leaf
+    509:Bead Chain
+    510:Soul Drop
+    511:Snuff Soul
+    512:Chewing Soul
+    513:Soul Food
+    514:Revival Bead
+    515:Blam of Life
+    516:Royal Jelly
+    517:Organci Herb
+    518:Disclose
+    519:Tranquilizer
+    520:Kopi Luwak
+    521:Goho-M
+    522:Vanish Ball
+    523:Soma
+    524:Amrita Soda
+    525:Hiranya
+    526:Muscle Drink
+    527:Odd Morsel
+    528:Rancid Gravy
+    529:Plume of Dusk
+    530:Magic Mirror
+    531:Physical Mirror
+    532:Universe Ring
+    533:Sleipnir
+    534:Obsidian Mirror
+    535:Purifying Water
+    536:Purifying Salt
+    537:Firecracker
+    538:San-zun Tama
+    539:Ice Cube
+    540:Dry ice
+    541:Pinwheel
+    542:Yashichi
+    543:Ball Lightning
+    544:Tesla Coil
+    545:Smart Bomb
+    546:Segami Rice
+    547:Curse Paper
+    548:Flame Magatama
+    549:Wind Magatama
+    550:Freeze Magatama
+    551:Bolt Magatama
+    552:Homunculus
+    553:Removal Potion
+    554:Kouga Ball
+    555:Makouha Ball
+    556:Eiga Ball
+    557:Maeiga Ball
+    558:Psio Ball
+    559:Mapsi Ball
+    560:Freila Ball
+    561:Mafrei Ball
+    562:Nuke Magatama
+    563:Psy Magatama
+    564:Bless Magatama
+    565:Curse Magatama
+    566:Cooking
+    567:Snack
+    568:Shoes 1
+    569:Shoes 2
+    570:Shoes 3
+    571:Juice Bar 1
+    572:Juice Bar 2
+    573:Juice Bar 3
+    574:Juice Bar 4
+    575:Energy Drink 1
+    576:Energy Drink 2
+    577:Energy Drink 3
+    578:Soda 1
+    579:Soda 2
+    580:Soda 3
+    581:Soda 4
+    582:Ration 1
+    583:Ration 2
+    584:Ration 3
+    585:Drug Store 1
+    586:Drug Store 2
+    587:Drug Store 3
+    588:Drug Store 4
+    589:Drug Store 5
+    590:Drug Store 6
+    591:Drug Store 7
+    592:Drug Store 8
+    593:Drug Store 9
+    594:Drug Store 10
+    595:Drug Store 11
+    596:Drug Store 12
+    597:Coffee 1
+    598:Coffee 2
+    600:Twins Down Attack
+    601:Caro Rod
+    602:Caro Attack
+    603:Megidolaon (Blank)
+    604:Rays of Control
+    605:Rays of Control
+    606:Rays of Control
+    607:Rays of Control
+    608:Arrow of Light
+    609:Diffraction Arrow
+    610:Light Edge
+    611:Gathering Light
+    612:Eternal Light
+    613:Holy Change
+    614:Distortion Wave -
+    615:Tough Law
+    616:Frail Law
+    617:New Creation
+    618:Distortion Surge
+    619:Arrow of Light
+    620:Manifest Sword
+    621:Manifest Gun
+    622:Manifest Bell
+    623:Sword of Judgement
+    624:Capital Punishment
+    625:Manifest Book
+    626:Distorted Lust
+    627:Gospel
+    628:Distorted Wrath
+    629:Distorted Vanity
+    630:Song of Salvation
+    631:Wrath of God
+    632:Distorted Gluttony
+    633:Distorted Envy
+    634:Song of Placaton
+    635:Divine Apex
+    636:Rays of Control
+    637:Distorted Avarice
+    638:Will of the People
+    639:Rays of Control
+    640:Moral Support
+    641:Active Support
+    642:Mental Hack
+    643:Emergency Shift
+    644:Final Guard
+    645:Position Hack
+    646:High Analyze
+    647:Treasure Skimmer
+    648:Subrecover HP EX
+    649:Subrecover SP EX
+    654:Big Bang Order
+    655:Roulette Time
+    656:Trip-Upper
+    657:Lust Sphere
+    658:Down Shot 2
+    659:Down Shot 3
+    660:Down Shot 4
+    661:Electro Attack
+    662:Sinful Shell
+    663:Follow Black
+    665:Madara-Megido
+    666:Curry Raku
+    667:Enemy Benefit
+    668:Diarahan
+    669:Curry Sukuu
+    670:Decoy Ball
+    671:Super Decoy Ball
+    672:Metabolic Wave
+    673:Laevateinn
+    674:Desperation
+    675:Call of Chaos
+    676:Big Bang CHallenge
+    677:Grail Light 2
+    678:Megidola
+    679:Rage Transmission
+    680:Hundred Slaps
+    681:Distorted Pride
+    682:Divine Punishment
+    683:Will of the People
+    684:Wind Cutter
+    685:Shoot Up
+    686:Executive Punch
+    687:Megidolaon
+    688:Vorpal Blade
+    689:Megidolaon
+    690:Big Bang Burger
+    691:Earth Burger
+    692:Mars Burger
+    693:Moon Burger
+    694:Saturn Burger
+    695:Justine Attack
+    696:Caroline Attack
+    697:Curry Makara
+    698:Curry Tetra
+    699:Curry Endure
+    700:Curry Charge
+    701:Curry Concentrate
+    702:Curry Heat Riser
+    704:Cadenza
+    705:Cross Slash
+    706:Door of Hades
+    707:Magatsu Mandala
+    708:Shining Arrows
+    709:Beast Weaver
+    710:Titanomachia
+    711:Abyssal Wings
+    712:Oratario
+    801:Counterstrike
+    802:High Counter
+    805:Endure
+    806:Enduring Soul
+    809:Survival Trick
+    810:Dodge Fire
+    811:Evade Fire
+    812:Dodge Ice
+    813:Evade Ice
+    814:Dodge Wind
+    815:Evade Wind
+    816:Dodge Elec
+    817:Evade Elec
+    818:Dodge Phys
+    819:Evade Phys
+    820:Fire Boost
+    821:Fire Amp
+    822:Ice Boost
+    823:Ice Amp
+    824:Wind Boost
+    825:Wind Amp
+    826:Elec Boost
+    827:Elec Amp
+    828:Angelic Grace
+    829:Divine Grace
+    830:Regenerate 1
+    831:Regenerate 2
+    832:Regenerate 3
+    833:Dodge Bless
+    834:Dodge Curse
+    835:Invigorate 1
+    836:Invigorate 2
+    837:Invigorate 3
+    838:Evade Bless
+    839:Evade Curse
+    840:Attack Master
+    841:Auto-Mataru
+    843:Defense Master
+    844:Auto-Maraku
+    846:Speed Master
+    847:Auto-Masuku
+    850:Fast Heal
+    851:Insta-Heal
+    852:Arms Master
+    853:Spell Master
+    855:Sharp Student
+    856:Apt Pupil
+    857:Ali Dance
+    858:Firm Stance
+    860:Life Aid
+    861:Victory Cry
+    862:Growth 1
+    863:Growth 2
+    864:Growth 3
+    865:Unshaken Will
+    867:Baton Pass
+    868:Soul Touch
+    869:Kakoi Kuzushi
+    870:Resist Fire
+    871:Null Fire
+    872:Repel Fire
+    873:Drain Fire
+    875:Resist Ice
+    876:Null Ice
+    877:Repel Ice
+    878:Drain Ice
+    880:Resist Wind
+    881:Null Wind
+    882:Repel Wind
+    883:Drain Wind
+    885:Resist Elec
+    886:Null Elec
+    887:Repel Elec
+    888:Drain Elec
+    890:Resist Bless
+    891:Null Bless
+    892:Repel Bless
+    893:Drain Bless
+    895:Resist Curse
+    897:Repel Curse
+    898:Drain Curse
+    900:Resist Phys
+    901:Null Phys
+    902:Repel Phys
+    903:Drain Phys
+    905:Ailment Boost
+    906:Hama Boost
+    907:Mudo Boost
+    910:Dizzy Boost
+    911:Confuse Boost
+    912:Fear Boost
+    913:Forget Boost
+    914:Sleep Boost
+    915:Rage Boost
+    916:Despair Boost
+    918:Brainwash Boost
+    920:Resist Dizzy
+    921:Resist Confuse
+    922:Resist Fear
+    923:Resist Forget
+    924:Resist Sleep
+    925:Resist Rage
+    926:Resist Despair
+    928:Resist Brainwash
+    930:Null Dizzy
+    931:Null Confuse
+    932:Null Fear
+    933:Null Forget
+    934:Null Sleep
+    935:Null Rage
+    936:Null Despair
+    938:Null Brainwash
+    940:Burn Boost
+    941:Freeze Boost
+    942:Shock Boost
+    944:Fortified Moxy
+    945:Adverse Resolve
+    946:Last Stand
+    947:Heat Up
+    949:Touch n' Go
+    950:Climate Decorum
+    951:Ambient Aid
+    953:Snipe
+    954:Cripple
+    955:Trigger Happy
+    956:Resist Nuke
+    957:Null Nuke
+    958:Repel Nuke
+    959:Drain Nuke
+    961:Resist Psy
+    962:Null Psy
+    963:Repel Psy
+    964:Drain Psy
+    966:Nuke Boost
+    967:Nuke Amp
+    969:Psy Boost
+    970:Psy Amp
+    972:Dodge Nuke
+    973:Evade Nuke
+    975:Dodge Psy
+    976:Evade Psy
+    978:Bless Boost
+    979:Bless Amp
+    981:Curse Boost
+    982:Curse Amp
+    984:Magic Ability
+    985:Fortify Spirit
+    986:Almighty Boost
+    987:Almight Amp
+    988:Zenith Defense
+    989:Soul Chain
+    990:Vanity Copy
+    991:Gluttonous Snuff
+    992:Gatling Gun
     ```
 
 * __Republique__ (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87574) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)

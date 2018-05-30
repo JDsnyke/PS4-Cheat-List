@@ -69,3 +69,119 @@ data|3|338E6|hex||0|Change Slot 9 Persona|4C4EF8E6
 data|3|33916|hex||0|Change Slot 10 Persona|4C4EF916
 data|3|33946|hex||0|Change Slot 11 Persona|4C4EF946
 data|3|33976|hex||0|Change Slot 12 Persona|4C4EF976
+data|3|33770|2 bytes|14|0|1st Persona 1st Skill|5174F770
+data|3|33772|2 bytes|840|0|1st Persona 2nd Skill|5174F772
+data|3|33774|2 bytes|843|0|1st Persona 3rd Skill|5174F774
+data|3|33776|2 bytes|0|0|1st Persona 4th Skill|5174F776
+data|3|33778|2 bytes|0|0|1st Persona 5th Skill|5174F778
+data|3|3377A|2 bytes|70|0|1st Persona 6th Skill|5174F77A
+data|3|3377C|2 bytes|77|0|1st Persona 7th Skill|5174F77C
+data|3|3377E|2 bytes|194|0|1st Persona 8th Skill|5174F77E
+data|3|33780|byte|68|0|1st Persona Strength|5174F780
+data|3|33781|byte|52|0|1st Persona Magic|5174F781
+data|3|33782|byte|21|0|1st Persona Endurance|5174F782
+data|3|33783|byte|48|0|1st Persona Agility|5174F783
+data|3|33784|byte|41|0|1st Persona Luck|5174F784
+data|3|33A20|byte|31|0|Ryuji Persona Str|5174FA20
+data|3|33A21|byte|22|0|Ryuji Persona Ma|5174FA21
+data|3|33A22|byte|35|0|Ryuji Persona En|5174FA22
+data|3|33A23|byte|20|0|Ryuji Persona Ag|5174FA23
+data|3|33A24|byte|39|0|Ryuji Persona Lu|5174FA24
+data|3|33A10|2 bytes|26|0|Ryuji Persona 1st Skill|5174FA10
+data|3|33A12|2 bytes|41|0|Ryuji Persona 2nd Skill|5174FA12
+data|3|33A14|2 bytes|201|0|Ryuji Persona 3rd Skill|5174FA14
+data|3|33A16|2 bytes|335|0|Ryuji Persona 4th Skill|5174FA16
+data|3|33A18|2 bytes|945|0|Ryuji Persona 5th Skill|5174FA18
+data|3|33A1C|2 bytes|815|0|Ryuji Persona 7th Skill|5174FA1C
+data|3|33A1A|2 bytes|242|0|Ryuji Persona 6th Skill|5174FA1A
+data|3|33A1E|2 bytes|44|0|Ryuji Persona 8th Skill|5174FA1E
+data|3|33CC0|byte|29|0|Morgana Persona St|5174FCC0
+data|3|33CC1|byte|32|0|Morgana Persona Ma|5174FCC1
+data|3|33CC2|byte|23|0|Morgana Persona En|5174FCC2
+data|3|33CC3|byte|31|0|Morgana Persona Ag|5174FCC3
+data|3|33CC4|byte|30|0|Morgana Persona Lu|5174FCC4
+data|3|33CB0|2 bytes|31|0|Morgana Persona 1st Skill|5174FCB0
+data|3|33CB2|2 bytes|311|0|Morgana Persona 2nd Skill|5174FCB2
+data|3|33CB4|2 bytes|306|0|Morgana Persona 3rd Skill|5174FCB4
+data|3|33CB6|2 bytes|34|0|Morgana Persona 4th Skill|5174FCB6
+data|3|33CB8|2 bytes|206|0|Morgana Persona 5th Skill|5174FCB8
+data|3|33CBA|2 bytes|33|0|Morgana Persona 6th Skill|5174FCBA
+data|3|33CBC|2 bytes|330|0|Morgana Persona 7th Skill|5174FCBC
+data|3|33CBE|2 bytes|824|0|Morgana Persona 8th Skill|5174FCBE
+data|3|33F60|byte|26|0|Ann Persona St|5174FF60
+data|3|33F61|byte|37|0|Ann Persona Ma|5174FF61
+data|3|33F62|byte|27|0|Ann Persona En|5174FF62
+data|3|33F63|byte|27|0|Ann Persona Ag|5174FF63
+data|3|33F64|byte|29|0|Ann Persona Lu|5174FF64
+data|3|33F50|2 bytes|350|0|Ann Persona 1st Skill|5174FF50
+data|3|33F52|2 bytes|301|0|Ann Persona 2nd Skill|5174FF52
+data|3|33F54|2 bytes|83|0|Ann Persona 3rd Skill|5174FF54
+data|3|33F56|2 bytes|813|0|Ann Persona 4th Skill|5174FF56
+data|3|33F58|2 bytes|14|0|Ann Persona 5th Skill|5174FF58
+data|3|33F5A|2 bytes|820|0|Ann Persona 6th Skill|5174FF5A
+data|3|33F5C|2 bytes|12|0|Ann Persona 7th Skill|5174FF5C
+data|3|33F5E|2 bytes|385|0|Ann Persona 8th Skill|5174FF5E
+data|3|34200|byte|37|0|Yusuke Persona St|51750200
+data|3|34201|byte|26|0|Yusuke Persona Ma|51750201
+data|3|34202|byte|31|0|Yusuke Persona En|51750202
+data|3|34203|byte|29|0|Yusuke Persona Ag|51750203
+data|3|34204|byte|22|0|Yusuke Persona Lu|51750204
+data|3|341F0|2 bytes|21|0|Yusuke Persona 1st Skill|517501F0
+data|3|341F2|2 bytes|846|0|Yusuke Persona 2nd Skill|517501F2
+data|3|341F4|2 bytes|337|0|Yusuke Persona 3rd Skill|517501F4
+data|3|341F6|2 bytes|253|0|Yusuke Persona 4th Skill|517501F6
+data|3|341F8|2 bytes|24|0|Yusuke Persona 5th Skill|517501F8
+data|3|341FA|2 bytes|811|0|Yusuke Persona 6th Skill|517501FA
+data|3|341FC|2 bytes|236|0|Yusuke Persona 7th Skill|517501FC
+data|3|341FE|2 bytes|271|0|Yusuke Persona 8th Skill|517501FE
+data|3|344A0|byte|30|0|Makoto Persona St|517504A0
+data|3|344A1|byte|31|0|Makoto Persona Ma|517504A1
+data|3|344A2|byte|29|0|Makoto Persona En|517504A2
+data|3|344A3|byte|31|0|Makoto Persona Ag|517504A3
+data|3|344A4|byte|24|0|Makoto Persona Lu|517504A4
+data|3|34490|2 bytes|355|0|Makoto Persona 1st Skill|51750490
+data|3|34492|2 bytes|77|0|Makoto Persona 2nd Skill|51750492
+data|3|34494|2 bytes|843|0|Makoto Persona 3rd Skill|51750494
+data|3|34496|2 bytes|306|0|Makoto Persona 4th Skill|51750496
+data|3|34498|2 bytes|966|0|Makoto Persona 5th Skill|51750498
+data|3|3449A|2 bytes|976|0|Makoto Persona 6th Skill|5175049A
+data|3|3449C|2 bytes|327|0|Makoto Persona 7th Skill|5175049C
+data|3|3449E|2 bytes|270|0|Makoto Persona 8th Skill|5175049E
+data|3|34740|byte|30|0|Haru Persona St|51750740
+data|3|34741|byte|28|0|Haru Persona Ma|51750741
+data|3|34742|byte|25|0|Haru Persona En|51750742
+data|3|34743|byte|25|0|Haru Persona Ag|51750743
+data|3|34744|byte|22|0|Haru Persona Lu|51750744
+data|3|34730|2 bytes|191|0|Haru Persona 1st Skill|51750730
+data|3|34732|2 bytes|194|0|Haru Persona 2nd Skill|51750732
+data|3|34734|2 bytes|225|0|Haru Persona 3rd Skill|51750734
+data|3|34736|2 bytes|315|0|Haru Persona 4th Skill|51750736
+data|3|34738|2 bytes|850|0|Haru Persona 5th Skill|51750738
+data|3|3473A|2 bytes|396|0|Haru Persona 6th Skill|5175073A
+data|3|3473C|2 bytes|370|0|Haru Persona 7th Skill|5175073C
+data|3|3473E|2 bytes|0|0|Haru Persona 8th Skill|5175073E
+data|3|349E0|byte|24|0|Futaba Persona St|517509E0
+data|3|349E1|byte|33|0|Futaba Persona Ma|517509E1
+data|3|349E2|byte|28|0|Futaba Persona En|517509E2
+data|3|349E3|byte|30|0|Futaba Persona Ag|517509E3
+data|3|349E4|byte|49|0|Futaba Persona Lu|517509E4
+data|3|45BC0|byte|10|0|Chariot Rank|51761BC0
+data|3|45BD0|byte|8|0|Fool Rank|51761BD0
+data|3|45BE0|byte|10|0|Lovers Rank|51761BE0
+data|3|45BF0|byte|8|0|Magician Rank|51761BF0
+data|3|45C00|byte|10|0|Death Rank|51761C00
+data|3|45C10|byte|6|0|Hierophant Rank|51761C10
+data|3|45C20|byte|7|0|Moon Rank|51761C20
+data|3|45C30|byte|10|0|Sun Rank|51761C30
+data|3|45C40|byte|10|0|Strength Rank|51761C40
+data|3|45C50|byte|10|0|Temperance Rank|51761C50
+data|3|45C60|byte|3|0|Justice Rank|51761C60
+data|3|45C70|byte|10|0|Emperor Rank|51761C70
+data|3|45C80|byte|10|0|Devil Rank|51761C80
+data|3|45C90|byte|10|0|Priestess Rank|51761C90
+data|3|45CA0|byte|10|0|Fortune Rank|51761CA0
+data|3|45CB0|byte|10|0|Judge Rank|51761CB0
+data|3|45CC0|byte|10|0|Hanged Man Rank|51761CC0
+data|3|45CD0|byte|10|0|Star Rank|51761CD0
+data|3|45CE0|byte|10|0|Hermit Rank|51761CE0
+data|3|45CF0|byte|1|0|Tower Rank|51761CF0

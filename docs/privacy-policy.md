@@ -1,55 +1,67 @@
-# Privacy Policy
+# Privacy Policy of PS4 Cheat List
 
-Privacy matters but it can be confusing. This page explains our approach to privacy on 'PS4 Cheat List' and how it affects you.
+Effective from 25th May 2018
 
-## Short version
+PS4 Cheat List operates the https://www.psxcheatlist.tk website, which provides the SERVICE.
 
-* We collect anonymous statistics about your visit, like which of our pages you viewed.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the PS4 Cheat List website.
 
-* Some 3rd parties like Facebook and Twitter may know you visited this website, if you use their services. We can’t control them but we don’t believe this knowledge poses any threat to you.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-* If you sign up with us we take great care to keep your information safe and we’ll never share it with others without your express permission.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://www.psxcheatlist.tk, unless otherwise defined in this Privacy Policy.
 
-* We never share your data with 3rd parties except to help us deliver our own services.
+## Information Collection and Use
 
-These are just the key points. If you need details, keep reading.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-## Measuring our visitors
+## Log Data
 
-We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site.
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
+## Cookies
 
-You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out if you wish](https://tools.google.com/dlpage/gaoptout).
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.
 
-## Facebook, Twitter and other social networks
+Our website uses these "cookies" to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
 
-These services provide social buttons and similar features which we use on our website – such as the “Like” and “Tweet” buttons.
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
+* Infolinks - https://www.infolinks.com/privacy-policy
 
-Social networks therefore could know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
+* Propeller Ads - https://propellerads.com/privacy
+
+## Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+* To facilitate our Service;
+
+* To provide the Service on our behalf;
+
+* To perform Service-related services; or
+
+* To assist us in analyzing how our Service is used.
+
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ## Security
 
-PS4 Cheat List takes many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-* Use of SSL encryption for sensitive data
+## Links to Other Sites
 
-* Hardware stored in secured datacenters behind firewalls
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-* All access to information restricted by password and/or secure key
+## Children’s Privacy
 
-* Restrictions to what information can be accessed via any location
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-Whilst we take great care to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
+## Changes to This Privacy Policy
 
-Of course you are responsible for keeping your password and user details confidential. Nobody at PS4 Cheat List will ever ask you for your password, so please don’t trust anybody asking you for it.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-## Updates to this policy
+## Contact Us
 
-We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-## Any questions?
-
-If you have any questions about this privacy policy or your personal data, please contact me on [Slack](https://psxcheatlist-slack.herokuapp.com), open a [Github](https://github.com/JDsnyke/PS4-Cheat-List/issues) issue or mention me using ```@Shurikan117``` on [psxhax](https://www.psxhax.com)
+<!--This privacy policy was created with the GDPR Generator : https://gdprprivacypolicy.net-->
