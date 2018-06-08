@@ -1,4 +1,4 @@
-Infolinks.com, 3092342 , DIRECT 
+Infolinks.com, 3092342 , DIRECT
 appnexus.com, 3251, RESELLER
 openx.com, 118151, RESELLER, 6a698e2ec38604c6
 Pubmatic.com, 60809,RESELLER,5d62403b186f2ace
@@ -23,3 +23,18 @@ openx.com, 539154393, RESELLER
 rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16904, RESELLER, 0bfd66d529a55807
 deepintent.com, 100004190, RESELLER, 4a5487c769369a8c
+pubmatic.com, 156872, RESELLER, 5d62403b186f2ace
+taboola.com, 1139936,RESELLER,c228e6794e811952
+taboola.com, 1135488,RESELLER,c228e6794e811952
+beachfront.com, 4243, RESELLER, e2541279e8e2ca4d
+beachfront.com, 4243, DIRECT, e2541279e8e2ca4d
+aol.com, 24849, RESELLER
+aol.com, 20515, RESELLER
+adtech.com, 11347, RESELLER
+adtech.com, 4710, RESELLER
+vi.ai, 913453223927387, RESELLER
+spotxchange.com, 74964, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74964, RESELLER, 7842df1d2fe2db34
+smartadserver.com, 2776,RESELLER
+pubmatic.com, 156830, RESELLER
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807
