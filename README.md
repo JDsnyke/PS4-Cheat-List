@@ -65,11 +65,9 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to Jailbreak your 5.05 PS4 : [HERE](https://paste2.org/AM3JWaU3) or [VIDEO](https://www.youtube.com/watch?v=PwC_jsnYUGs)
 
-* Where to get FPKG's :
+* Where to get FPKG's : [PSXHAX](https://www.psxhax.com/threads/ps4-pkg-repo.3722/) , [REDDIT](https://www.reddit.com/r/PkgLinks/) , [DOWNLOADGAMEPS3](https://downloadgameps3.com/) , [PS4BACKUPS](http://ps4backups.blogspot.ca/)
 
-Note - We do __not__ condone piracy, support the original devs and proceed at your own risk!
-
-[PSXHAX](https://www.psxhax.com/threads/ps4-pkg-repo.3722/) [REDDIT](https://www.reddit.com/r/PkgLinks/) [DOWNLOADGAMEPS3](https://downloadgameps3.com/) [PS4BACKUPS](http://ps4backups.blogspot.ca/)
+> Note - We do __not__ condone piracy, support the original devs and proceed at your own risk!
 
 * How to change your avatar / profile pic on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=_8YEaihW3dI)
 
