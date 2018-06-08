@@ -1,0 +1,3 @@
+1.4|eboot.bin|ID:CUSA07708|VER:01.00|FM:505
+simple pointer|pointer|float|@523E5C8_3_F765C8+7A0+148+0+8F0+10+10+8+64|data|float|150|0|Health|
+simple pointer|pointer|4 bytes|@4424C90_3_15CC90+10+10+10+10+10+40+60+6C|data|4 bytes|1496250|0|Money|

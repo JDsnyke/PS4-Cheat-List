@@ -22,7 +22,7 @@ Browser settings also allow you to choose whether or not to accept cookies or li
 
 You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout or downloading the Google Analytics Opt-out Browser Add-on.
 
-You may also opt out or change your behavioral advertising cookie preferences by visiting the opt-out page for the Digital Advertising Alliance (U.S. residents and those not in the EU or Canada), the European Interactive Digital Advertising Alliance (EU residents), or the Digital Advertising Alliance of Canada (Canadian residents).
+You may also opt out or change your behavioral advertising cookie preferences by visiting the opt-out page for the [Digital Advertising Alliance](https://optout.aboutads.info/) (U.S. residents and those not in the EU or Canada), the [European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/) (EU residents), or the [Digital Advertising Alliance of Canada](https://youradchoices.ca/choices/) (Canadian residents).
 
 You can stop all collection of information via our mobile applications by uninstalling them. Also, you may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device usually available in the "Settings" section or referring to the instructions provided by your mobile device’s manufacturer.
 

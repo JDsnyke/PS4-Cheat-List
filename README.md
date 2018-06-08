@@ -1,7 +1,7 @@
 # PS4 Cheat Code / Offset List
 [![GitHub watchers](https://img.shields.io/github/watchers/JDsnyke/PS4-Cheat-List.svg?style=social&label=Watch)](https://github.com/JDsnyke/PS4-Cheat-List/subscription) [![GitHub stars](https://img.shields.io/github/stars/JDsnyke/PS4-Cheat-List.svg?style=social&label=Stars)](https://github.com/JDsnyke/PS4-Cheat-List/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JDsnyke/PS4-Cheat-List.svg?style=social&label=Fork)](https://github.com/JDsnyke/PS4-Cheat-List/fork)
 
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://jdsnyke.tk/status)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://status.psxcheatlist.tk)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
@@ -47,7 +47,7 @@ I do not and cannot guarantee the accuracy nor the reliability of either these p
 
 I nor the original publishers of these codes are to be blamed for any issues that arise with their use.
 
-By using this site, you agree to the policies detailed [HERE](https://jdsnyke.tk/docs/privacy/).
+By using this site, you agree to all policies detailed [HERE](https://jdsnyke.tk/docs/privacy/).
 
 In other words, __USE AT YOUR OWN RISK__!
 
@@ -59,7 +59,17 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 ## Guides / Tutorials
 
-* How to jailbreak your PS4 : [HERE](https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/) and [HERE](https://www.youtube.com/watch?v=-JEeyT-zH64)
+* How to jailbreak your 4.05 / 4.55 PS4 : [HERE](https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/) and [HERE](https://www.youtube.com/watch?v=-JEeyT-zH64)
+
+* How to update your PS4 to firmware 5.05 from 4.05 or 4.55 : [HERE](https://paste2.org/LvX3fPX5)
+
+* How to Jailbreak your 5.05 PS4 : [HERE](https://paste2.org/AM3JWaU3) or [VIDEO](https://www.youtube.com/watch?v=PwC_jsnYUGs)
+
+* Where to get FPKG's :
+
+Note - We do __not__ condone piracy, support the original devs and proceed at your own risk!
+
+[PSXHAX](https://www.psxhax.com/threads/ps4-pkg-repo.3722/) [REDDIT](https://www.reddit.com/r/PkgLinks/) [DOWNLOADGAMEPS3](https://downloadgameps3.com/) [PS4BACKUPS](http://ps4backups.blogspot.ca/)
 
 * How to change your avatar / profile pic on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=_8YEaihW3dI)
 
@@ -71,13 +81,13 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 
 * How to install game updates (disc only) on a jailbroken PS4 : [HERE](https://www.youtube.com/watch?v=-6HzmOes8mw)
 
-* How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg)
+* How to find game offsets / cheats for PS4 : [HERE](https://www.youtube.com/watch?v=GFOSc-bVbyg) and [HERE](https://www.youtube.com/watch?v=n_iXDX21csg)
 
 * How to use PS4 Toolbox by DeathRGH : [HERE](https://pastebin.com/vtViM2Hj)
 
 ## Program / Tool Links
 
-* PS4Cheater : [GITHUB](https://github.com/hurrican6/PS4_Cheater/releases) or [THREAD](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/)
+* PS4Cheater : [GITHUB](https://github.com/hurrican6/PS4_Cheater/releases) or [THREAD](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) and [UPDATED FORK](https://github.com/ChendoChap/PS4_Cheater/releases)
 
 * NetCheatPS4 : [GITHUB](https://github.com/BISOON/netCheatAPI-for-PS4) or [THREAD](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/)
 
@@ -88,6 +98,10 @@ Also huge thread found [here](http://www.maxconsole.com/forums/ps4-game-cheat-co
 * PS4 Toolbox by DeathRGH : [1.1.0.0](https://cdn.discordapp.com/attachments/430007650760261695/436716511596642305/PS4_Toolbox_by_DeathRGH_v1.1.0.0_exclusive_test_version.rar)
 
 * NetCheat PS4RPC by iCyb3r : [GITHUB](https://github.com/iCyb3r/NetCheat-PS4RPC) or [THREAD](https://www.psxhax.com/threads/netcheat-ps4rpc-jkpatch-rpc-with-ps4-netcheat-by-icyb3r.5144/)
+
+* TylerMod's PS4 Trainer : [1.0.9.17 ](https://www.dropbox.com/s/emapote539rj1yu/PS4%20Trainer%20by%20TylerMods.exe?dl=1)
+
+* PS4 Lazy Cheater for 4.55 by Shiningami (works with CHT files from this repo directly!) : [HERE](https://www18.zippyshare.com/v/47tW6bpO/file.html)
 
 ## Cheat Usage and Template
 
@@ -155,77 +169,77 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Akiba's Trip : Undead & Undressed__ (CUSA01166 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-79#post-91104) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Akibas_Trip_Undead_&_Undressed_(CUSA01166-Ver_1.0.0).cht) [[Wiki Guide]](http://www.ign.com/wikis/akibas-trip-undead-undressed)
 
     ```
-    Money
+    ## Money
 
-    0 ABCD60
+    2 34D60 (4 bytes) 0 ABCD60
 
-    EXP
+    ## EXP
 
-    0 AB1E4C
+    2 29E4C (4 bytes) 0 AB1E4C
 
-    Attack
+    ## Attack
 
-    0 AB1E44
+    2 29E44 (4 bytes) 0 AB1E44
 
-    Defense
+    ## Defense
 
-    0 AB1E48
+    2 29E48 (4 bytes) 0 AB1E48
 
-    Unison Strip Gauge
+    ## Unison Strip Gauge
 
-    0 AB2B7C
+    2 2AB7C (4 bytes) 0 AB2B7C
     ```
 
 * __Atelier Sophie : The Alchemist of the Mysterious Book__ (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.2/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
     ```
-    Money
+    ## Money
 
-    0 629BE3A0
+    3 9E3A0 (4 bytes) 0 629BE3A0
 
-    Vouchers
+    ## Vouchers
 
-    0 629CD248
+    3 AD248 (4 bytes) 0 629CD248
 
-    Sophie Alchemy Max XP
+    ## Sophie Alchemy Max XP
 
-    0 629BC6B0
+    3 9C6B0 (4 bytes) 0 629BC6B0
 
-    Sophie Max All
+    ## Sophie Max All
 
-    0 629BE3C8
+    3 9E3C8 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BE3C8
 
-    Monika Max All
+    ## Monika Max All
 
-    0 629BEB68
+    3 9EB68 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BEB68
 
-    Oskar Max All
+    ## Oskar Max All
 
-    0 629BEF38
+    3 9EF38 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BEF38
 
-    Julio Max All
+    ## Julio Max All
 
-    0 629BF308
+    3 9F308 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BF308
 
-    Corneria Max All
+    ## Corneria Max All
 
-    0 629BFAA8
+    3 9FAA8 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BFAA8
 
-    Leon Max All
+    ## Leon Max All
 
-    0 629C0248
+    3 A0248 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629C0248
 
-    Harol Max All
+    ## Harol Max All
 
-    0 629BFE78
+    3 9FE78 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BFE78
 
-    Fritz Max All
+    ## Fritz Max All
 
-    0 629BF6D8
+    3 9F6D8 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BF6D8
 
-    Plachta Max All
+    ## Plachta Max All
 
-    0 629BE798
+    3 9E798 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BE798
     ```
 
 * __Batman Arkham Knight__ (CUSA00135 - Ver 1.1.4 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-9#post-88698) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Batman_Arkham_Knight_(CUSA00135-Ver_1.1.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/batman-arkham-knight)
@@ -237,20 +251,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    P1 Root W
+    ## P1 Root W
 
-    0 7F780760
+    pointer (4 bytes) @7F780760_2_A5C760+10+618+38+2A8+2A8+38+58+A0+608+3F8 0
 
-    P1 Inf Hp
+    ## P1 Inf Hp
 
-    0 7F4157B8
+    pointer (4 bytes) @7F4157B8_2_6F17B8+80+58+70+13A0+45C 0
     ```
 
 * __Bloodborne__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65721) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-13#post-65949
 ) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
-    Blood Echo [1]
+    ## Blood Echo [1]
 
     0 2082674C4
     0 208A674C4
@@ -258,7 +272,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    Blood Echo [2]
+    ## Blood Echo [2]
 
     0 207C0C08C
     0 2082674E4
@@ -269,104 +283,121 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 311F197F0
     ```
 
-* __Bloodborne__ (CUSA00207 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86499) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86645) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Bloodborne_(CUSA00207-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
+* __Bloodborne__ (CUSA00207 - Ver 1.0.2 and 1.0.9 - Firm 4.55 and 5.05 - PS4Cheater 1.4 and PS4Cheater 1.4.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86499) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86645) [[3]](Update from Discord on 06.06.2018 @ 10.32 AM in #cheats by tujai) [[CHT File 4.55]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Bloodborne_(CUSA00207-Ver_1.0.2).cht) [[CHT File 5.05]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/Bloodborne_(CUSA00207-Ver_1.0.9).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
-    Inf Health
+    ## Inf Health
 
-    0 32A6B510
+    pointer (4 bytes) @32A6B510_2_20F510+28+28+A0+158+C0+0+3B0+20+F8 0
 
-    Inf Energy
+    ## Inf Energy
 
-    0 32A5C610
+    pointer (4 bytes) @32A5C610_2_200610+90+20+1700+C0+10+128+C0+0+3B0+20+134 0
 
-    Inf Souls
+    ## Inf Souls
 
-    0 32B4ABE0
+    pointer (4 bytes) @32B4ABE0_2_2EEBE0+0+20+8+B8+8+8+120+8+3D0+FFFFFFFFFFFFFEC4 0
+    ```
+
+    ```
+    Version 1.0.9 - Firm 5.05 [3]
+
+    ## Inf Echoes
+
+    17 C674D4 (4 bytes) 1 2082674D4
     ```
 
 * __Bloodborne Game of the Year Edition__ (CUSA03173 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73944) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-24#post-86954) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/Bloodborne_GOTY_(CUSA03173-Ver_1.0.0).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Bloodborne_GOTY_V2_(CUSA03173-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/bloodborne)
 
     ```
-    Blood Echo
+    ## Blood Echo [1]
 
     0 2082674C4
     ```
 
     ```
+    [CHT File 1.2]
+
+    ## Blood Echo
+
+    17 C674C4 (4 bytes) 0
+    ```
+
+    ```
     Note : works with EP9000-CUSA03173_00-BLOODBORNE0000EU-A0100-V0100 according to Vampirexx [CHT File 1.4]
 
-    Inf Health [2]
+    ## Inf Health [2]
 
-    0 5E8BB8F0
+    pointer (4 bytes) @5E8BB8F0_2_20F8F0+0+C0+0+0+C0+28+8+3B0+20+F8 0
 
-    Inf Energy [2]
+    ## Inf Energy [2]
 
-    0 5E8AA068
+    pointer (4 bytes) @5E8AA068_2_1FE068+100+60+0+A0+108+C0+0+3B0+20+138 0
 
-    Inf Souls [2]
+    ## Inf Souls [2]
 
-    0 5E99AE20
+    pointer (4 bytes) @5E99AE20_2_2EEE20+0+110+10+D0+70+A8+8+120+8+94 0
 
-    Inf Intuition Points [2]
+    ## Inf Intuition Points [2]
 
-    0 5E8030D0
+    pointer (2 bytes) @5E8030D0_2_1570D0+100+148+0+10+C0+8+50+10+68+84 0
 
-    Inf Bullets [2]
+    ## Inf Bullets [2]
 
-    0 5E812038
+    pointer (2 bytes) @5E812038_2_166038+1C0+18+B8+30+10+38+8+18+218+D8 0
 
-    Inf Knives [2]
+    ## Inf Knives [2]
 
-    0 5E8030D0
+    pointer (2 bytes) @5E8030D0_2_1570D0+110+60+4A0+50+3D0+8+18+218+1D8 0
 
-    Inf Items Molotov [2]
+    ## Inf Items Molotov [2]
 
-    0 5E8AA7A0
+    pointer (2 bytes) @5E8AA7A0_2_1FE7A0+178+C0+0+68+30+8+18+218+108 0
 
-    Inf Blood Stone Sliver [2]
+    ## Inf Blood Stone Sliver [2]
 
-    0 5E8030D0
+    pointer (4 bytes) @5E8030D0_2_1570D0+38+10+68+5A0+148+218+128 0
     ```
 
-* __Call of Duty : Black Ops 3__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-black-ops-3)
+* __Call of Duty : Black Ops 3__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - Offsets) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-8#post-83477) [[3]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80110) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-black-ops-3)
 
     ```
-    Player State
+    ## Player State
 
     0 21A8164
+    0 83E3014 (no aslr) [2]
 
-    Index
+    ## Index
 
     0 17010
 
-    Freeze (0x01 - frozen) (0x00 - unfrozen)
+    ## Freeze (0x01 - frozen) (0x00 - unfrozen)
 
     0 21A8167
 
-    Flag (0x04 - default) (0x05 - godmode) (0x06 - spectate) (0x07 - spectate w/ godmode)
+    ## Flag (0x04 - default) (0x05 - godmode) (0x06 - spectate) (0x07 - spectate w/ godmode)
 
     0 21A8180
 
-    Location X, Y, Z
+    ## Location X, Y, Z
 
     0 21A8190
 
-    Killstreak 1, 2 and 3
+    ## Killstreak 1, 2 and 3
 
     0 21A87AC
     0 21A87B0
     0 21A87B4
 
-    Primary Ammo Reserve
+    ## Primary Ammo Reserve
 
     0 21A87B8
 
-    Secondary Ammo Reserve
+    ## Secondary Ammo Reserve
 
     0 21A87BC
 
-    Ammo 1, 2, 3, 4, 5 and 6
+    ## Ammo 1, 2, 3, 4, 5 and 6
 
     0 21A87F4
     0 21A87F8
@@ -375,244 +406,484 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 21A8804
     0 21A8808
 
-    UAV (0x00 - default) (0x02 - scramble uav)
+    ## UAV (0x00 - default) (0x02 - scramble uav)
 
     0 21A88E4
 
-    Vision (0x00 - default) (0x80 - thermal)
+    ## Vision (0x00 - default) (0x80 - thermal)
 
     0 21A88E9
 
-    Body State (0x00 - default) (0x01 - cloak) (0x02 - hologram)
+    ## Body State (0x00 - default) (0x01 - cloak) (0x02 - hologram)
 
     0 21A88F9
 
-    Name
+    ## Name
 
     0 21BED64
 
-    Zombies Primary Ammo Reserve
+    ## Zombies Primary Ammo Reserve
 
     0 21A87AC
 
-    Zombies Secondary Ammo Reserve
+    ## Zombies Secondary Ammo Reserve
 
     0 21A87B4
 
-    Zombies Ammo
+    ## Zombies Ammo
 
     0 21A87E8
 
-    Zombies Points
+    ## Zombies Points
 
     0 21BEE14
     ```
 
-* __Call of Duty : Ghosts__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-ghosts)
+    ```
+    [3]
+
+    BO3_MP_1_00_playerState = 0x21A8164 - 0x400000,
+    //BO3_MP_1_18_playerState = 0x82AF7F4 - 0x400000,
+
+    BO3_playerstate = BO3_MP_1_00_playerState,
+
+    ## MP
+    BO3_MP_fpsEnable = 0x9D37A3 - 0x400000, //fps || 90 90 90 90 90 90
+    BO3_MP_fpsString = 0x17199D8 - 0x400000, //fps string
+
+    BO3_MP_clientIndex = 0x17010,
+
+    BO3_MP_client_freeze = BO3_playerstate + 0x03, //(0x0F - frozen) || (0x00 - unfrozen)
+    BO3_MP_client_stateFlag = BO3_playerstate + 0x1C, //(0x04 - default) || (0x05 - godmode) || (0x06 - spectate) || (0x07 - spectate w/ godmode)
+    BO3_MP_client_x = BO3_playerstate + 0x2C,
+    BO3_MP_client_y = BO3_playerstate + 0x30,
+    BO3_MP_client_z = BO3_playerstate + 0x34,
+    BO3_MP_client_killstreak1 = BO3_playerstate + 0x648, //0x01 || 0x00
+    BO3_MP_client_killstreak2 = BO3_playerstate + 0x64C, //0x01 || 0x00
+    BO3_MP_client_killstreak3 = BO3_playerstate + 0x650, //0x01 || 0x00
+    BO3_MP_client_ammoRes1 = BO3_playerstate + 0x654,
+    BO3_MP_client_ammoRes2 = BO3_playerstate + 0x658,
+    BO3_MP_client_ammo = BO3_playerstate + 0x690,
+    BO3_MP_client_uav = BO3_playerstate + 0x780, //(0x00 - default) || (0x02 - scramble uav)
+    BO3_MP_client_vision = BO3_playerstate + 0x785, //(0x00 - default) || (0x80 - thermal)
+    BO3_MP_client_body = BO3_playerstate + 0x795, //(0x00 - default) || (0x01 - cloak) || (0x02 - hologram)
+    BO3_MP_client_name = BO3_playerstate + 0x16C00, //max 31
+
+    ## ZM
+    BO3_ZM_client_ammoRes1 = BO3_playerstate + 0x648,
+    BO3_ZM_client_ammoRes2 = BO3_playerstate + 0x650,
+    BO3_ZM_client_ammoRes3 = BO3_playerstate + 0x654,
+    BO3_ZM_client_ammo = BO3_playerstate + 0x684,
+    BO3_ZM_client_weapon1 = BO3_playerstate + 0x3A4,
+    BO3_ZM_client_weapon2 = BO3_playerstate + 0x404,
+    BO3_ZM_client_weapon3 = BO3_playerstate + 0x434,
+    BO3_ZM_client_points = BO3_playerstate + 0x16CB0,
+    ```
+
+* __Call of Duty : Black Ops 3__ (CUSA02624 - Ver 1.2.3 - Firm 4.55 - PS4Cheater 1.4) [[1]](Update from Discord on 27.05.2018 @ 8.46 AM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/COD_Black_Ops_3_(CUSA02624-Ver_1.2.3).cht) [[Wiki Guide]]()
 
     ```
-    FPS (80, 78, 10, 01)
+    ## Starter Pistol Ammo
+
+    3 6A9F698 (2 bytes) 0 36EDB698
+
+    ## Money
+
+    3 6AB5EB4 (4 bytes) 0 36EF1EB4
+
+    ## Zombie / Nightmare / Dead Ops Health
+
+    3 68272D8 (4 bytes) 1 36C632D8
+
+    ## Mark 2 Raygun Ammo
+
+    3 6A9F6A0 (2 bytes) 0 36EDB6A0
+
+    ## Gursh Device
+
+    3 6A9F6A4 (2 bytes) 0 36EDB6A4
+
+    ## BRM Ammo
+
+    3 6A9F6A0 (2 bytes) 0 36EDB6A0
+
+    ## Thunder Gun Ammo
+
+    3 6A9F6A0 (2 bytes) 0 36EDB6A0
+
+    ## Fake Round Skip (FOR SHOW)
+
+    3 64BE92C (4 bytes) 0 368FA92C
+
+    ## Nightmare Primary Ammo
+
+    3 6A9F69C (2 bytes) 0 36EDB69C
+
+    ## Nightmare Grenades
+
+    3 6A9F694 (4 bytes) 0 36EDB694
+
+    ## Nightmare Frag Grenades
+
+    3 6A9F698 (4 bytes) 0 36EDB698
+    ```
+
+* __Call of Duty : Ghosts__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - Offsets) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80110) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-ghosts)
+
+    ```
+    ## FPS (80, 78, 10, 01)
 
     0 81B09A
 
-    FPS String
+    ## FPS String
 
     0 BDEDE5
 
-    Name
+    ## Name
 
     0 1F0F29C
 
-    Primary Weapon
+    ## Primary Weapon
 
     0 1F0C26C
 
-    Primary Ammo - Clip
+    ## Primary Ammo - Clip
 
     0 1F0C454
 
-    Primary Ammo - Stock
+    ## Primary Ammo - Stock
 
     0 1F0C3D4
 
-    Secondary Ammo - Clip
+    ## Secondary Ammo - Clip
 
     0 1F0C460
 
-    Secondary Ammo - Akimbo Clip
+    ## Secondary Ammo - Akimbo Clip
 
     0 1F0C464
 
-    Grenade Ammo
+    ## Grenade Ammo
 
     0 1F0C43C
 
-    Tactical Ammo
+    ## Tactical Ammo
 
     0 1F0C448
     ```
 
-* __Call of Duty : Infinite Warfare__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-infinite-warfare)
+    ```
+    [2]
+
+    ## G_
+    Ghosts_MP_1_00_G_SetModel = 0x700360,
+    Ghosts_MP_1_00_G_Spawn = 0x701650,
+    Ghosts_MP_1_00_G_SetOrigin = 0x701E90,
+    Ghosts_MP_1_00_G_InitializeAmmo = 0x6C2DE0,
+    Ghosts_MP_1_00_G_GetWeaponIndexForName = 0x704B80,
+    Ghosts_MP_1_00_G_GivePlayerWeapon = 0x704890,
+    Ghosts_MP_1_00_G_TakePlayerWeapon = 0x705650,
+
+    ## SV_
+    Ghosts_MP_1_00_SV_GameSendServerCommand = 0x7B1FF0,
+    Ghosts_MP_1_00_SV_SetConfigstring = 0x7B3210,
+
+    Ghosts_MP_1_00_Cbuf_AddText = 0x736800,
+    Ghosts_MP_1_00_SP_script_model = 0x6F7D70,
+    Ghosts_MP_1_00_Add_Ammo = 0x6C2990,
+
+    ## fps
+    Ghosts_MP_1_00_fpsEnable = 0x81B09A - 0x400000, //fps || 80 78 10 01
+    Ghosts_MP_1_00_fpsString = 0xBDEDE5 - 0x400000, //fps string
+
+    ## gEntity
+
+    Ghosts_MP_1_00_entityIndex = 0x2F0,
+    Ghosts_MP_1_00_gEntity = 0x1D38A50 - 0x400000,
+    Ghosts_MP_1_00_entityHealth = Ghosts_MP_1_00_gEntity + 0x1DC,
+
+    ## playerState_t
+
+    Ghosts_MP_1_00_clientIndex = 0x3A00,
+    Ghosts_MP_1_00_playerstate = 0x1F0BF80 - 0x400000,
+
+    Ghosts_MP_1_00_client_freeze = Ghosts_MP_1_00_playerstate + 0x03, //(0x0F - frozen) || (0x00 - unfrozen)
+    Ghosts_MP_1_00_client_redBoxes = Ghosts_MP_1_00_playerstate + 0x10, //(0x10 - red boxes) || (0x08 - thermal) || (0x18 - both) || (0x00 - default)
+    Ghosts_MP_1_00_client_x = Ghosts_MP_1_00_playerstate + 0x1C,
+    Ghosts_MP_1_00_client_y = Ghosts_MP_1_00_playerstate + 0x20,
+    Ghosts_MP_1_00_client_z = Ghosts_MP_1_00_playerstate + 0x24,
+    Ghosts_MP_1_00_client_weapon1 = Ghosts_MP_1_00_playerstate + 0x2EC,
+    Ghosts_MP_1_00_client_ammoRes1 = Ghosts_MP_1_00_playerstate + 0x454,
+    Ghosts_MP_1_00_client_ammoRes2 = Ghosts_MP_1_00_playerstate + 0x45C,
+    Ghosts_MP_1_00_client_ammoGrenade = Ghosts_MP_1_00_playerstate + 0x4BC,
+    Ghosts_MP_1_00_client_ammoTactical = Ghosts_MP_1_00_playerstate + 0x4C8,
+    Ghosts_MP_1_00_client_ammo1 = Ghosts_MP_1_00_playerstate + 0x4D4,
+    Ghosts_MP_1_00_client_ammo2 = Ghosts_MP_1_00_playerstate + 0x4E0,
+    Ghosts_MP_1_00_client_ammo3 = Ghosts_MP_1_00_playerstate + 0x4E4,
+    Ghosts_MP_1_00_client_name = Ghosts_MP_1_00_playerstate + 0x339C, //max 31
+    Ghosts_MP_1_00_client_mFlag = Ghosts_MP_1_00_playerstate + 0x3618, //(0x00 - default) || (0x01 - noclip) || (0x02 - ufo) || (0x04 - freeze) //4BD4
+    Ghosts_MP_1_00_client_button = Ghosts_MP_1_00_playerstate + 0x362C,
+    ```
+
+* __Call of Duty : Infinite Warfare__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - Offsets) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80110) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-infinite-warfare)
 
     ```
-    Player State
+    ## Player State
 
     0 3D3E540
 
-    Index
+    ## Index
 
     0 6CC8
 
-    Location X, Y, Z
+    ## Location X, Y, Z
 
     0 3D3E560
 
-    Name
+    ## Name
 
     0 3D430FC
 
-    Radar (0x00 - scramble uav) (0x02 - default)
+    ## Radar (0x00 - scramble uav) (0x02 - default)
 
     0 3D431B4
 
-    Primary Reserve Ammo
+    ## Primary Reserve Ammo
 
     0 3D3EDEC
 
-    Secondary Reserve Ammo
+    ## Secondary Reserve Ammo
 
     0 3D3EE04
 
-    Ammo 1, 2 and 3
+    ## Ammo 1, 2 and 3
 
     0 3D3EF54
     0 3D3EF78
     0 3D3F008
 
-    Zombies Reserve Ammo 1 and 2
+    ## Zombies Reserve Ammo 1 and 2
 
     0 3D3EE04
     0 3D3EE4C
 
-    Zombies Ammo 1 and 2
+    ## Zombies Ammo 1 and 2
 
     0 3D3EF78
     0 3D3EFC0
     ```
 
-* __Call of Duty : Modern Warfare Remastered__ (CUSAXXXXX - Ver 1.0.7 - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-62317) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-4-modern-warfare/Remaster)
+    ```
+    [2]
+
+    ## MP
+
+    IW_MP_1_00_clientIndex = 0x6CC8,
+    IW_MP_1_00_playerstate = 0x3D3E540 - 0x400000,
+
+    IW_MP_1_00_client_x = IW_MP_1_00_playerstate + 0x20,
+    IW_MP_1_00_client_y = IW_MP_1_00_playerstate + 0x24,
+    IW_MP_1_00_client_z = IW_MP_1_00_playerstate + 0x28,
+    IW_MP_1_00_client_ammoRes1 = IW_MP_1_00_playerstate + 0x8AC,
+    IW_MP_1_00_client_ammoRes2 = IW_MP_1_00_playerstate + 0x8C4,
+    IW_MP_1_00_client_ammo1 = IW_MP_1_00_playerstate + 0xA14,
+    IW_MP_1_00_client_ammo2 = IW_MP_1_00_playerstate + 0xA38,
+    IW_MP_1_00_client_name = IW_MP_1_00_playerstate + 0x4BBC, //max 31
+    IW_MP_1_00_client_uav = IW_MP_1_00_playerstate + 0x4C74, //(0x00 - scramble uav) || (0x02 - default)
+
+    ## ZM
+
+    IW_ZM_1_00_client_ammoRes1 = IW_MP_1_00_playerstate + 0x8C4,
+    IW_ZM_1_00_client_ammoRes2 = IW_MP_1_00_playerstate + 0x90C,
+    IW_ZM_1_00_client_ammo1 = IW_MP_1_00_playerstate + 0xA38,
+    IW_ZM_1_00_client_ammo2 = IW_MP_1_00_playerstate + 0xA80,
+    ```
+
+* __Call of Duty : Modern Warfare Remastered__ (CUSAXXXXX - Ver 1.0.7 - Firm X.XX - Offsets) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-62317) [[Wiki Guide]](https://www.ign.com/wikis/call-of-duty-4-modern-warfare/Remaster)
 
     ```
-    Name
+    ## Name
 
     0 7347322
 
-    Scoreboard Score, Kills, Deaths and Assists - 0x2 Bytes (FF FF = 65535)
+    ## Scoreboard Score, Kills, Deaths and Assists - 0x2 Bytes (FF FF = 65535)
 
     0 73473CE
     0 73473D0
     0 73473D2
     0 73473D4
 
-    Ammo - 0x3 Bytes (FF FF FF = Infinite)
+    ## Ammo - 0x3 Bytes (FF FF FF = Infinite)
 
-    Primary Ammo Clip
+    ## Primary Ammo Clip
 
     0 7342E28
 
-    Primary Ammo Reserve
+    ## Primary Ammo Reserve
 
     0 7342D5C
 
-    Secondary Ammo Clip
+    ## Secondary Ammo Clip
 
     0 7342DF8
 
-    Secondary Ammo Reserve
+    ## Secondary Ammo Reserve
 
     0 7342D44
 
-    Grenade Ammo
+    ## Grenade Ammo
 
     0 7342E10
 
-    Tactical Ammo
+    ## Tactical Ammo
 
     0 7342E40
 
-    Grenade Launcher Attachment (uses Tactical Ammo)
+    ## Grenade Launcher Attachment (uses Tactical Ammo)
 
     0 7342E58
 
-    Perk Ammo
+    ## Perk Ammo
 
     0 7342E58
+    ```
+
+* __Call of Duty : World War 2__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - Offsets) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-11#post-112258)
+
+    ```
+    WW2_MP_1_11_clientIndex = 0x6180
+
+    WW2_MP_1_11_playerState = 0xC9C8318 - 0x400000
+
+    WW2_MP_1_11_client_freeze = WW2_MP_1_11_playerState + 0x03
+
+    WW2_MP_1_11_client_disableFriction = WW2_MP_1_11_playerState + 0x09 //0x01 || 0x00
+
+    WW2_MP_1_11_client_disableLook = WW2_MP_1_11_playerState + 0x0A //0x01 || 0x00
+
+    WW2_MP_1_11_client_disableMovement = WW2_MP_1_11_playerState + 0x0C //0x01 || 0x00
+
+    WW2_MP_1_11_client_disableWeapon = WW2_MP_1_11_playerState + 0x0D //0x01 || 0x00
+
+    WW2_MP_1_11_client_weaponFlag = WW2_MP_1_11_playerState + 0x12 //(0x00 - default) || (0x01 - laser) || (0x20 - disable weapons)
+
+    WW2_MP_1_11_client_fofFlag = WW2_MP_1_11_playerState + 0x14 //(0x02 - third person) || (0x10 - red boxes)
+
+    WW2_MP_1_11_client_x = WW2_MP_1_11_playerState + 0x2C
+
+    WW2_MP_1_11_client_y = WW2_MP_1_11_playerState + 0x30
+
+    WW2_MP_1_11_client_z = WW2_MP_1_11_playerState + 0x34
+
+    WW2_MP_1_11_client_ammoRes1 = WW2_MP_1_11_playerState + 0x594
+
+    WW2_MP_1_11_client_ammoRes2 = WW2_MP_1_11_playerState + 0x5BC
+
+    WW2_MP_1_11_client_ammo1 = WW2_MP_1_11_playerState + 0x6C0
+
+    WW2_MP_1_11_client_ammo2 = WW2_MP_1_11_playerState + 0x6D8
+
+    WW2_MP_1_11_client_ammo3 = WW2_MP_1_11_playerState + 0x6F0
+
+    WW2_MP_1_11_client_fov = WW2_MP_1_11_playerState + 0x57BC
+
+    WW2_MP_1_11_client_teamFlag = WW2_MP_1_11_playerState + 0x595C
+
+    WW2_MP_1_11_client_name = WW2_MP_1_11_playerState + 0x59A6
+
+    WW2_MP_1_11_client_tracers = WW2_MP_1_11_playerState + 0x59D1 //0x01 || 0x00
+
+    WW2_ZM_1_11_client_ammoRes1 = WW2_MP_1_11_playerState + 0x5A8
+
+    WW2_ZM_1_11_client_ammoRes2 = WW2_MP_1_11_playerState + 0x5E4
+
+    WW2_ZM_1_11_client_ammoRes3 = WW2_MP_1_11_playerState + 0x5F8
+
+    WW2_ZM_1_11_client_ammo1 = WW2_MP_1_11_playerState + 0x6C0
+
+    WW2_ZM_1_11_client_ammo2 = WW2_MP_1_11_playerState + 0x6D8
+
+    WW2_ZM_1_11_client_ammo3 = WW2_MP_1_11_playerState + 0x708
+
+    WW2_ZM_1_11_client_ammo4 = WW2_MP_1_11_playerState + 0x720
+
+    WW2_ZM_1_11_client_ammo5 = WW2_MP_1_11_playerState + 0x738
+
+    WW2_ZM_1_11_client_points = WW2_MP_1_11_playerState + 0x5A94
+
+    WW2_MP_1_11_entityIndex = 0x418
+
+    WW2_MP_1_11_gEntity = 0xC628A10 - 0x400000
+
+    WW2_MP_1_11_entityHealth = WW2_MP_1_11_gEntity + 0x2DC
     ```
 
 * __Crash Bandicoot N Sane Trilogy__ (CUSA07399 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 & 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-18#post-71778) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/Crash_Bandicoot_N_Sane_Trilogy_(CUSA07399-Ver_1.0.0).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Crash_Bandicoot_N_Sane_Trilogy_V2_(CUSA07399-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/crash-bandicoot-remasters)
 
     ```
-    Apples [1]
+    ## Apples [1] [CHT File 1.2]
 
-    0 2587CD9A0
+    25 7CD9A0 (4 bytes) 0
 
-    Boxes [2] [CHT File 1.4]
+    ## Apples [2] [CHT File 1.4]
 
-    0 XXXXXX
+    pointer (4 bytes) @2597CCBD8_32_7CCBD8+10 1
 
-    Address's are not available (currently), please use cht file instead.
+    ## Boxes [2] [CHT File 1.4]
+
+    pointer (4 bytes) @2597CCCA0_32_7CCCA0+10 1
     ```
 
 * __Darksiders Warmaster Edition__ (CUSA05347 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87675) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Darksiders_Warmaster_Edition_(CUSA05347-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/darksiders)
 
     ```
-    Inf Health
+    ## Inf Health
 
-    0 224439F0
+    pointer (float) @224439F0_3_11B9F0+8+88+184 0
 
-    Inf Souls
+    ## Inf Souls
 
-    0 2232C108
+    pointer (float) @2232C108_3_4108+28+200 0
 
-    Inf Horse Charges
+    ## Inf Horse Charges
 
-    0 226E5530
+    pointer (2 bytes) @226E5530_3_3BD530+28+30+65C 0
     ```
 
 * __Dark Souls 2 - Scholar of the First Sin__ (CUSA01589 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-68#post-88271) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88320) [[CHT file]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Dark_Souls_2_(CUSA01589-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-2)
 
     ```
-    Inf Health
+    ## Inf Health
 
-    0 3DF8D560
+    pointer (4 bytes) @3DF8D560_2_1560+1BA0+98+28+0+100+10+10+8+18 0
 
-    Max Inf Souls
+    ## Max Inf Souls
 
-    0 3DF8F0F0
+    pointer (4 bytes) @3DF8F0F0_2_30F0+D0+100+10+10+8+298+8+D0+EC 0
 
-    Inf Energy
+    ## Inf Energy
 
-    0 3E18FBD0
+    pointer (2 bytes) @3E18FBD0_2_203BD0+E0+100+100+10+10+8+66 0
 
-    Inf Durability Weapons
+    ## Inf Durability Weapons
 
-    0 3DF8F0F0
+    pointer (float) @3DF8F0F0_2_30F0+D0+100+10+10+8+230+28+16C 0
 
-    Inf Durability Shields
+    ## Inf Durability Shields
 
-    0 3E18FBD0
+    pointer (float) @3E18FBD0_2_203BD0+E0+100+100+10+10+8+230+28+94 0
 
-    Inf Titanium
+    ## Inf Titanium
 
-    0 3DF8F0F0
+    pointer (2 bytes) @3DF8F0F0_2_30F0+A8+10+C0+D0+78+30+28+8+48 0
 
-    Inf Items
+    ## Inf Items
 
-    0 3DF8F510
+    pointer (2 bytes) @3DF8F510_2_3510+4E8+60+28+130+118+20 0
 
-    Inf Arrows
+    ## Inf Arrows
 
-    0 3DF8FA18
+    pointer (2 bytes) @3DF8FA18_2_3A18+60+28+130+128+8+8+8+8+FFFFFFFFFFFFFFF8 0
     ```
 
 * __Dark Souls 3 - Fire Fades Edition__ (CUSA07439 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3 and 1.4) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-78521) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-8#post-78146) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86084) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-23#post-86282) [[CHT File 1.3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.3/Dark_Souls_3_FFE_(CUSA07439-Ver_X.X.X).cht) [[CHT File 1.4]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Dark_Souls_3_FFE_V2_(CUSA07439-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
@@ -620,89 +891,126 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     Game Ver - 1.11 to 1.30 [[?]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-60#post-86082)
 
-    Inf Health [3] [4]
+    ## Inf Health [3] [4]
 
     0 1F26CB50
 
-    Inf Souls [3] [4]
+    ## Inf Souls [3] [4]
 
     0 1F243DE8
 
-    Inf Energy [4]
+    ## Inf Energy [4]
 
     0 1F26CB50
 
-    Inf Bombs [4]
+    ## Inf Bombs [4]
 
     0 1F2F7AC0
 
-    Inf Durability Uchigatana [4]
+    ## Inf Durability Uchigatana [4]
 
     0 1F2B0B30
     ```
 
     ```
-    Souls
+    [CHT File 1.3]
 
-    0 203AF9D1C
-    0 203DA9B34
+    > [1] and [2] correspond to the above mention reference links
 
-    Ember
+    ## Souls
+
+    21 6F9D1C (4 bytes) 0 [2]
+    21 9A9B34 (4 bytes) 0 [2]
+    21 9A9B38 (4 bytes) 0 [2]
+
+    0 203AF9D1C [1]
+    0 203DA9B34 [1]
+
+    ## Ember
 
     0 203DAA568
 
-    Estus Flask
+    ## Estus Flask
 
-    0 203AFA73C
-    0 203DAA4E8
+    21 9AA4E8 (4 bytes) [2]
 
-    Estus Shard
+    0 203AFA73C [1]
+    0 203DAA4E8 [1]
 
-    0 203DAA728
+    ## Estus Shard
 
-    Undead Bone Shard
+    21 9AA728 (4 bytes) 0 [2]
 
-    0 203DAAB38
+    0 203DAA728 [1]
 
-    Titanite (reinforce materials)
+    ## Large Titanite Shard
 
-    0 203DAA628
-    0 203DAAE78
-    0 203DAAFC8
-    0 203DAB828
-    0 203DAB838
-    0 203DABA18
+    21 9AAFC8 (4 bytes) 0 [2]
+
+    ## Titanite Shard
+
+    21 9AA628 (4 bytes) 0 [2]
+
+    ## Titanite Scale
+
+    21 9AAE78 (4 bytes) 0 [2]
+
+    ## Titanite Chunk
+
+    21 9AB828 (4 bytes) 0 [2]
+
+    ## Twinkling Titanite
+
+    21 9AB838 (4 bytes) 0 [2]
+
+    ## Undead Bone
+
+    21 9AAB38 (4 bytes) 0 [2]
+
+    ## Undead Bone Shard
+
+    0 203DAAB38 [1]
+
+    ## Titanite (reinforce materials)
+
+    0 203DAA628 [1]
+    0 203DAAE78 [1]
+    0 203DAAFC8 [1]
+    0 203DAB828 [1]
+    0 203DAB838 [1]
+    0 203DABA18 [1]
     ```
 
 * __Dark Souls 3 - Game of the Year__ (CUSAXXXXX - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-2#post-73360) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.2/Dark_Souls_3_(CUSAXXXXX-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dark-souls-3)
 
     ```
-    Souls
+    ## Souls
 
-    1 9A9B34
-    1 3E17670
-    1 3E1A8EC
-    1 3E1A8F0
-    1 6CCA1A8
-    1 6CCA1AC
+    21 6F9D1C (4 bytes) 1
+    21 9A9B34 (4 bytes) 1
+    24 3E17670 (4 bytes) 1
+    24 3E1A8EC (4 bytes) 1
+    24 3E1A8F0 (4 bytes) 1
+    24 6CCA1A8 (4 bytes) 1
+    24 6CCA1AC (4 bytes) 1
     ```
 
 * __Dead or Alive : Xtreme 3__ (CUSA01210 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-87#post-94264) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.2/Dead_or_Alive_Xtreme_3_(CUSA01210-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dead-or-alive-xtreme-3)
 
     ```
-    Money
+    ## Money
 
-    1 21A48B8
+    19 21A48B8 (4 bytes) 1
 
-    ????? (needs confirming)
+    ## ????? (needs confirming)
 
-    1 54FF764
+    19 54FF764 (4 bytes) 1
     ```
 
 * __Dead Island : Definitive Edition__ (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/dead-island-definitive-edition-cheat-codes.46586/#post-363244) [[2]](https://playstationhax.xyz/forums/topic/4414-dead-island-definitive-edition-ps4-cheater-455-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/dead-island)
 
     ```
-    Cash
+    ## Cash
 
     0 401F882DF8
     ```
@@ -710,35 +1018,36 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Dead Island : Definitive Edition__ (CUSA03291 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-66#post-88082) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Dead_Island_Definitive_Edition_(CUSA03291-Ver_1.0.3).cht) [[Wiki Guide]](https://www.ign.com/wikis/dead-island)
 
     ```
-    Flashlight
+    ## Flashlight
 
-    1 5BC4F708
+    pointer (2 bytes) @5BC4F708_3_B708+198+870+62 1
 
-    Money
+    ## Money
 
-    1 5BC4F730
+    pointer (2 bytes) @5BC4F730_3_B730+18+0+B58 1
 
-    Stamina
+    ## Stamina
 
-    1 5BC4F738
+    pointer (2 bytes) @5BC4F738_3_B738+10+0+D52 1
+    pointer (2 bytes) @5BC4F738_3_B738+10+0+D46 1
     ```
 
 * __Deadpool : The Game__ (CUSA03528 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 30.04.2018 @ 7.47 PM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Deadpool_(CUSA03528-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/deadpool-the-game)
 
     ```
-    Health
+    ## Health
 
-    1 7BC49EC8
+    pointer (float) @7BC49EC8_3_131EC8+20+60+78+60+C0+1A0 1
 
-    DP Points
+    ## DP Points
 
-    0 600E9EB8
+    pointer (float) @600E9EB8_3_131EB8+58+288+6F8+88+6C4 1E+08 0
     ```
 
 * __Dead Rising 1 HD Remake__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/dead-rising-1-hd-remake-cheat-codes.46552/) [[2]](https://playstationhax.xyz/forums/topic/4379-dead-rising-1-hd-remake-ps4-cheater-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/dead-rising)
 
     ```
-    PP
+    ## PP
 
     0 21E28928C
     ```
@@ -746,7 +1055,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Devil May Cry : Definitive Edition__ (CUSA01013 - Ver 1.0.0 - Firm 4.55 - PS4 Trainer Utility) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82860) [[Wiki Guide]](https://www.ign.com/wikis/dmc-devil-may-cry)
 
     ```
-    Red Orbs
+    ## Red Orbs
 
     0 21AEFC450
     ```
@@ -754,23 +1063,23 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Devil May Cry 4 : Special Edition__ (CUSA01708 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 01.05.2018 in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Devil_May_Cry_4_Special_Edition_(CUSA01708-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/devil-may-cry-4)
 
     ```
-    P1 Nero HP
+    ## P1 Nero HP
 
-    0 335AE520
+    pointer (4 bytes) @335AE520_2_2520+448+58+20+20+10+38+2A0+578+C8+A08+1430+B88 1
 
-    P1 Red Orbs
+    ## P1 Red Orbs
 
-    0 335BAF08
+    pointer (4 bytes) @335BAF08_2_EF08+10+10+10+10+10+10+10+28+10+38+184 0
 
-    P1 Blue Souls / Orbs
+    ## P1 Blue Souls / Orbs
 
-    0 335AE520
+    pointer (4 bytes) @335AE520_2_2520+48+10+10+10+10+10+28+10+38+210 0
     ```
 
 * __Diablo 3__ (CUSA00433 - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-64673) [[Wiki Guide]](https://www.ign.com/wikis/diablo-3)
 
     ```
-    Gold (address changes on restart)
+    ## Gold (address changes on restart)
 
     0 20C71D3CC
     ```
@@ -778,161 +1087,159 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Digimon Cyber Sleuth__ (CUSA02966 - Ver 1.0.0 - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83365) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85469) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.4/Digimon_Cyber_Sleuth_(CUSA02966-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/digimon-story-cyber-sleuth/)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## 20k XP
 
-    20k XP
+    pointer (4 bytes) @2339BC090_214_C090+554 0
 
-    0 XXXXXX
+    ## Money
 
-    Money
+    pointer (4 bytes) @200B22430_14_A430+48 0
 
-    0 XXXXXX
+    ## Memory Up
 
-    Memory Up
+    pointer (2 bytes) @6A1596C8_3_16C8+20+94 0
 
-    0 XXXXXX
+    ## HP Capsule B
 
-    HP Capsule B
+    pointer (4 bytes) @233EFC090_214_C090+14 0
 
-    0 XXXXXX
+    ## HP Spray C
 
-    HP Spray C
+    pointer (4 bytes) @238D6CB60_683_5CB60+54 0
 
-    0 XXXXXX
+    ## Medical Spray
 
-    Medical Spray
-
-    0 XXXXXX
+    pointer (2 bytes) @742BA320_3_82320+20+40+F0+228+450+10+10+10FFFFFFFFFFFFD9F4 0
     ```
 
 * __Dragonball Xenoverse 2__ (CUSA05088 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Dragonball_Xenoverse_2_(CUSA05088-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-ball-xenoverse-2)
 
     ```
-    Zeni
+    ## Zeni
 
-    0 2027691A4
+    23 19691A4 (4 bytes) 0 2027691A4
 
-    TP / ZP
+    ## TP / ZP
 
-    0 2027691A8
+    23 19691A8 (4 bytes) 0 2027691A8
 
-    Skill Points
+    ## Skill Points
 
-    0 20276C204
+    23 196C204 (4 bytes) 0 20276C204
 
-    EXP (Set your EXP, for example "99999999", then go in battle. After battle you get the Lvl ups)
+    ## EXP (Set your EXP, for example "99999999", then go in battle. After battle you get the Lvl ups)
 
-    0 20276C200
+    23 196C200 (4 bytes) 0 20276C200
     ```
 
 * __Dragon Quest Builders__ (CUSA05235 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374686806) [[2]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-374695459) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.3/Dragon_Quest_Builders_(CUSA05235-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-quest-builders)
 
     ```
-    Infinite HP
+    ## Infinite HP
 
-    1 21129A198
+    17 3A6198 (2 bytes) 1 21129A198
 
-    Always Max Hunger
+    ## Always Max Hunger
 
-    1 21129A19C
+    17 3A619C (2 bytes) 1 21129A19C
 
-    Set Days Elapsed To 1 (Part 1)
+    ## Set Days Elapsed To 1 (Part 1)
 
-    0 21129A194
+    17 3A6194 (2 bytes) 0 21129A194
 
-    Set Days Elapsed To 1 (Part 2)
+    ## Set Days Elapsed To 1 (Part 2)
 
-    0 21129A1A4
+    17 3A61A4 (2 bytes) 0 21129A1A4
 
-    Set Attack Value
+    ## Set Attack Value
 
-    1 2112AD870
+    17 3B9870 (2 bytes) 1 2112AD870
 
-    Set Defense Value
+    ## Set Defense Value
 
-    1 2112AD872
+    17 3B9872 (2 bytes) 1 2112AD872
 
-    Infinite Item 1
+    ## Infinite Item 1
 
-    1 2112B2902
+    17 3BE902 (2 bytes) 1 2112B2902
 
-    Infinite Item 2
+    ## Infinite Item 2
 
-    1 2112B2906
+    17 3BE906 (2 bytes) 1 2112B2906
 
-    Infinite Item 3
+    ## Infinite Item 3
 
-    1 2112B290A
+    17 3BE90A (2 bytes) 1 2112B290A
 
-    Infinite Item 4
+    ## Infinite Item 4
 
-    1 2112B290E
+    17 3BE90E (2 bytes) 1 2112B290E
 
-    Infinite Item 5
+    ## Infinite Item 5
 
-    1 2112B2912
+    17 3BE912 (2 bytes) 1 2112B2912
 
-    Infinite Item 6
+    ## Infinite Item 6
 
-    1 2112B2916
+    17 3BE916 (2 bytes) 1 2112B2916
 
-    Infinite Item 7
+    ## Infinite Item 7
 
-    1 2112B291A
+    17 3BE91A (2 bytes) 1 2112B291A
 
-    Infinite Item 8
+    ## Infinite Item 8
 
-    1 2112B291E
+    17 3BE91E (2 bytes) 1 2112B291E
 
-    Put Best Sword in Slot 15
+    ## Put Best Sword in Slot 15
 
-    0 2112B2974
+    17 3BE974 (4 bytes) 0 2112B2974
 
-    Put Best Hammer in Slot 16
+    ## Put Best Hammer in Slot 16
 
-    0 2112B2978
+    17 3BE978 (4 bytes) 0 2112B2978
     ```
 
 * __Dragon Quest Heroes__ (CUSA02769 - Ver X.X.X - Firm X.XX - PS4Cheater 1.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-6#post-74099) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.2/Dragon_Quest_Heroes_(CUSA02769-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/dragon-quest-heroes/)
 
     ```
-    Money
+    ## Money
 
-    0 1FFB40
+     22 1FFB40 (4 bytes) 0
 
-    Minimedals
+    ## Minimedals
 
-    0 1FFB44
+    22 1FFB44 (4 bytes) 0
 
-    Aila Max EXP
+    ## Aila Max EXP
 
-    0 1F45C8
+    22 1F45C8 (4 bytes) 0
 
-    Aurora Max EXP
+    ## Aurora Max EXP
 
-    0 1F4424
+    22 1F4424 (4 bytes) 0
 
-    Luceus Max EXP
+    ## Luceus Max EXP
 
-    0 1F44B0
+    22 1F44B0 (4 bytes) 0
 
-    Alena Max EXP
+    ## Alena Max EXP
 
-    0 1F4654
+    22 1F4654 (4 bytes) 0
 
-    Doric Max EXP
+    ## Doric Max EXP
 
-    0 1F4654
+    22 1F453C (4 bytes) 0
 
-    Kiryl Max EXP
+    ## Kiryl Max EXP
 
-    0 1F46E0
+    22 1F46E0 (4 bytes) 0
     ```
 
 * __Dying Light__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - ?) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83326) [[Wiki Guide]](https://www.ign.com/wikis/dying-light)
 
     ```
-    Health
+    ## Health
 
     0 402DC54B14
     0 402DC54B18
@@ -941,51 +1248,51 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Dying Light__ (CUSA02010 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-39#post-96304) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-39#post-96508) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Dying_Light_(CUSA02010-Ver_1.0.0).cht)
 
     ```
-    Money
+    ## Money
 
-    1 20042CF87C
+    237 42CF87C (4 bytes) 1 20042CF87C
 
-    American 9mm Pistol
+    ## American 9mm Pistol
 
-    1 4027C8E580
+    245 7C8E580 (4 bytes) 1 4027C8E580
 
-    Fire Crackers
+    ## Fire Crackers
 
-    1 2016192700
+    239 6192700 (4 bytes) 1 2016192700
 
-    Flare
+    ## Flare
 
-    1 2016192940
+    239 6192940 (4 bytes) 1 2016192940
 
-    Lock Pick
+    ## Lock Pick
 
-    1 20149027A0
+    239 49027A0 (4 bytes) 1 20149027A0
 
-    Police or Military Rifle
+    ## Police or Military Rifle
 
-    1 402626D300
+    245 626D300 (4 bytes) 1 402626D300
     ```
 
 * __Far Cry Primal__ (CUSA03309 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Far_Cry_Primal_(CUSA03309-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/far-cry-primal)
 
     ```
-    Health
+    ## Health
 
-    0 5DA8B088
+    pointer (float) @5DA8B088_3_8F088+40+10+8+40+10+0+28+8+28+20+0+18 0
 
-    Arrows
+    ## Arrows
 
-    0 5DACD9D8
+    pointer (2 bytes) @5DACD9D8_3_D19D8+70+108+18+40+100+50+A0+10+300+10+80+10+8+30+48+FFFFFFFFFFFFFF30 0
 
-    Skill Points
+    ## Skill Points
 
-    0 44AF8508
+    pointer (4 bytes) @44AF8508_3_9C508+18+0+38+18+0+5C 0
     ```
 
 * __FIFA 15__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548) [[Wiki Guide]](https://www.ign.com/wikis/fifa-15)
 
     ```
-    Money
+    ## Money
 
     0 50030671D0 3B9AC9FF
     ```
@@ -993,93 +1300,95 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Final Fantasy Type-0 HD__ (CUSA00937 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-9#post-88698) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Final_Fantasy_Type_0_HD_(CUSA00937-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-type-0)
 
     ```
-    P1 First Chara / ODIN HP
+    ## P1 First Chara / ODIN HP
 
-    0 142D0FA8
+    pointer (4 bytes) @142D0FA8_2_3A4FA8+7C8+0+1AF0+878 0
 
-    P1 First Chara / ODIN MP
+    ## P1 First Chara / ODIN MP
 
-    0 142D0FA8
+    pointer (4 bytes) @142D0FA8_2_3A4FA8+7C8+0+1AF0+884 0
 
-    P1 Second Chara HP
+    ## P1 Second Chara HP
 
-    0 144F9FA8
+    pointer (4 bytes) @144F9FA8_2_5CDFA8+10+7C8+0+1B60+878 0
 
-    P1 Second Chara MP
+    ## P1 Second Chara MP
 
-    0 14144E90
+    pointer (4 bytes) @14144E90_2_218E90+180+7C8+0+1B60+884 0
 
-    P1 Third Chara HP
+    ## P1 Third Chara HP
 
-    0 144F9FA8
+    pointer (4 bytes) @144F9FA8_2_5CDFA8+10+7C8+0+1B28+878 0
 
-    P1 Third Chara MP
+    ## P1 Third Chara MP
 
-    0 144F9FA8
+    pointer (4 bytes) @144F9FA8_2_5CDFA8+10+7C8+0+1B28+884 0
 
-    Gil
+    ## Gil
 
-    0 1420BBF4
+    2 2DFBF4 (4 bytes) 0 1420BBF4
 
-    Ace AP
+    ## Ace AP
 
-    0 14212374
+    2 2E6374 (4 bytes) 0 14212374
 
-    Trey AP
+    ## Trey AP
 
-    0 142127B4
+    2 2E67B4 (4 bytes) 0 142127B4
 
-    Cater AP
+    ## Cater AP
 
-    0 142129D4
+    2 2E69D4 (4 bytes) 0 142129D4
 
-    Cinque AP
+    ## Cinque AP
 
-    0 14212BF4
+    2 2E6BF4 (4 bytes) 0 14212BF4
 
-    Sice AP
+    ## Sice AP
 
-    0 14212E14
+    2 2E6E14 (4 bytes) 0 14212E14
 
-    Seven AP
+    ## Seven AP
 
-    0 14213034
+    2 2E7034 (4 bytes) 0 14213034
 
-    Eight AP
+    ## Eight AP
 
-    0 14213254
+    2 2E7254 (4 bytes) 0 14213254
 
-    Nine AP
+    ## Nine AP
 
-    0 14213474
+    2 2E7474 (4 bytes) 0 14213474
 
-    Jack AP
+    ## Jack AP
 
-    0 14213694
+    2 2E7694 (4 bytes) 0 14213694
 
-    Queen AP
+    ## Queen AP
 
-    0 142138B4
+    2 2E78B4 (4 bytes) 0 142138B4
 
-    King AP
+    ## King AP
 
-    0 14213AD4
+    2 2E7AD4 (4 bytes) 0 14213AD4
 
-    Machina AP
+    ## Machina AP
 
-    0 14213CF4
+    2 2E7CF4 (4 bytes) 0 14213CF4
 
-    Rem AP
+    ## Rem AP
 
-    VP
+    2 2E7F14 (4 bytes) 0 14213F14
 
-    0 1420BBF8
+    ## VP
+
+    2 2DFBF8 (4 bytes) 0 1420BBF8
     ```
 
 * __Final Fantasy XII__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/ff-xii-zodiac-cheat-codes.46554/) [[2]](https://playstationhax.xyz/forums/topic/4377-ff-xii-zodiac-ps4-cheater-405-cheat-codes/) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-xii)
 
     ```
-    Vaan EXP
+    ## Vaan EXP
 
     0 66B384D4 (high probability of being the address to watch out for)
     0 66E999E0
@@ -1088,18 +1397,18 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     0 22EEB98FF
     0 22EEB99FF
 
-    Vaan Health
+    ## Vaan Health
 
     0 66B384D8
     0 66E99A00
     0 66E9C370
     0 68954B10
 
-    Gil (not static)
+    ## Gil (not static)
 
     0 6B707E4C
 
-    Potions
+    ## Potions
 
     0 66B3CA88
     ```
@@ -1107,137 +1416,136 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Final Fantasy XV__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - PS4Cheater 1.2 [1] and NetCheatPS4 [2]) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-17#post-71001) [[2]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-10#post-63601) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.2/Final_Fantasy_XV_(CUSAXXXXX-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-15)
 
     ```
-    Money [2]
+    ## Money [2]
 
     0 50030671D0
 
-    Infinite Ability Points [2]
+    ## Infinite Ability Points [2]
 
     0 50030671DC
 
-    All Characters Max Exp [2]
+    ## All Characters Max Exp [2]
 
     0 5002EC06C0
     0 5002ECB7C0
     0 5002ED68C0
     0 5002EE19C0
 
-    Items (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Items (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 310620C
-    0 3106214
-    0 310621C
-    0 3106224
-    0 310622C
-    0 3106234
-    0 310623C
-    0 3106244
-    0 310624C
-    0 3106254
+    6547 310620C (4 bytes) 0
+    6547 310621C (4 bytes) 0
+    6547 3106224 (4 bytes) 0
+    6547 310622C (4 bytes) 0
+    6547 3106234 (4 bytes) 0
+    6547 310623C (4 bytes) 0
+    6547 3106244 (4 bytes) 0
+    6547 310624C (4 bytes) 0
+    6547 3106254 (4 bytes) 0
 
-    Ingredients (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Ingredients (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 3106C0C
-    0 3106C14
-    0 3106C1C
-    0 3106C24
-    0 3106C2C
-    0 3106C34
-    0 3106C3C
-    0 3106C44
-    0 3106C4C
-    0 3106C65
+    6547 3106C0C (4 bytes) 0
+    6547 3106C14 (4 bytes) 0
+    6547 3106C1C (4 bytes) 0
+    6547 3106C24 (4 bytes) 0
+    6547 3106C2C (4 bytes) 0
+    6547 3106C34 (4 bytes) 0
+    6547 3106C3C (4 bytes) 0
+    6547 3106C44 (4 bytes) 0
+    6547 3106C4C (4 bytes) 0
+    6547 3106C65 (4 bytes) 0
 
-    Treasures (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Treasures (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 3107414
-    0 310741C
-    0 3107424
-    0 310742C
-    0 3107434
-    0 310743C
-    0 3107444
-    0 310744C
-    0 3107454
-    0 310745C
+    6547 3107414 (4 bytes) 0
+    6547 310741C (4 bytes) 0
+    6547 3107424 (4 bytes) 0
+    6547 310742C (4 bytes) 0
+    6547 3107434 (4 bytes) 0
+    6547 310743C (4 bytes) 0
+    6547 3107444 (4 bytes) 0
+    6547 310744C (4 bytes) 0
+    6547 3107454 (4 bytes) 0
+    6547 310745C (4 bytes) 0
 
-    Auto Parts (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Auto Parts (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 3107C0C
-    0 3107C14
-    0 3107C1C
-    0 3107C24
-    0 3107C2C
-    0 3107C34
-    0 3107C3C
-    0 3107C44
-    0 3107C4C
-    0 3107C54
+    6547 3107C0C (4 bytes) 0
+    6547 3107C14 (4 bytes) 0
+    6547 3107C1C (4 bytes) 0
+    6547 3107C24 (4 bytes) 0
+    6547 3107C2C (4 bytes) 0
+    6547 3107C34 (4 bytes) 0
+    6547 3107C3C (4 bytes) 0
+    6547 3107C44 (4 bytes) 0
+    6547 3107C4C (4 bytes) 0
+    6547 3107C54 (4 bytes) 0
 
-    Leisure Goods (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Leisure Goods (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 310840C
-    0 3108414
-    0 310841C
-    0 3108424
-    0 310842C
-    0 3108434
-    0 310843C
-    0 3108444
-    0 310844C
-    0 3108454
+    6547 310840C (4 bytes) 0
+    6547 3108414 (4 bytes) 0
+    6547 310841C (4 bytes) 0
+    6547 3108424 (4 bytes) 0
+    6547 310842C (4 bytes) 0
+    6547 3108434 (4 bytes) 0
+    6547 310843C (4 bytes) 0
+    6547 3108444 (4 bytes) 0
+    6547 310844C (4 bytes) 0
+    6547 3108454 (4 bytes) 0
 
-    Key Items (In Location Order - 1, 2, 3 ... 10) [1]
+    ## Key Items (In Location Order - 1, 2, 3 ... 10) [1]
 
-    0 310640C
-    0 3106414
-    0 310641C
-    0 3106424
-    0 310642C
-    0 3106434
-    0 310643C
-    0 3106444
-    0 310644C
-    0 3106454
+    6547 310640C (4 bytes) 0
+    6547 3106414 (4 bytes) 0
+    6547 310641C (4 bytes) 0
+    6547 3106424 (4 bytes) 0
+    6547 310642C (4 bytes) 0
+    6547 3106434 (4 bytes) 0
+    6547 310643C (4 bytes) 0
+    6547 3106444 (4 bytes) 0
+    6547 310644C (4 bytes) 0
+    6547 3106454 (4 bytes) 0
     ```
 
 * __Final Fantasy XV__ (CUSA01615 - Ver 1.0.2 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-62#post-86779) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Final_Fantasy_XV_(CUSA01615-Ver_1.0.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-15)
 
     ```
-    Noctis Health
+    ## Noctis Health
 
-    0 7C04E090
+    pointer (4 bytes) @7C04E090_3_56090+10+278+8+3E8+2D8+10+18+1F8+180 0
 
-    MP
+    ## MP
 
-    0 62D59C00
-    0 62D59C80
+    pointer (4 bytes) @62D59C00_3_35DC00+4D0+10+278+8+3E8+2D8+10+18+1F8+1D0 0
+    pointer (4 bytes) @62D59C80_3_35DC80+4D0+10+278+8+3E8+2D8+10+18+1F8+1D0 0
 
-    XP
+    ## XP
 
-    1 728AEB18
+    pointer (4 bytes) @728AEB18_3_78AB18+20+8+8+8+50+1C8+10+6B0 1
     ```
 
 * __Fl4tout : Total Insanity__ (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.3/Fl4tout_Total_Insanity_(CUSA07458-Ver_1.0.3).cht)
 
     ```
-    Cash
+    ## Cash
 
-    0 301D1D1C8
+    136 291C8 (4 bytes) 0 301D1D1C8
     ```
 
 * __Ghostbusters__ (CUSA04312 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Ghostbusters_(CUSA04312-Ver_1.0.0).cht)
 
     ```
-    Health
+    ## Health
 
-    0 7D795350
-    0 7D795350
-    1 7D795350
+    pointer (float) @7D795350_3_2FD350+FC8+1150+20+5D8+6C 0
+    pointer (float) @7D795350_3_2FD350+FC8+1150+A8+5D8+6C 1
+    pointer (float) @7D795350_3_2FD350+FC8+1150+A8+5D8+6C 0
 
-    Points
+    ## Points
 
-    0 7D795350
+    pointer (float) @7D795350_3_2FD350+FC8+1150+20+B54 0
     ```
 
 * __God Eater 2 : Rage Burst__ (CUSA03370 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-2#post-72994) [[2]](Update from Discord on 15.05.2018 @ 7.22 PM in #cheats by Weysincha) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/God_Eater_2_Rage_Burst_(CUSA03370-Ver_1.0.0).cht) [[CHT File 1.4.3 R1]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/God_Eater_2_Rage_Burst_V2_(CUSA03370-Ver_1.0.0).cht)
@@ -1253,9 +1561,9 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     CHT File 1.2 [1]
 
-    Money
+    ## Money
 
-    0 14919EB90
+    53 19EB90 (4 bytes) 0 14919EB90
     ```
 
     ```
@@ -1263,49 +1571,300 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     (Note : in-game update version appears as 1.30)
 
-    Inf Money
+    ## Inf Money
 
-    0 12699EB90
+    29 19EB90 (4 bytes) 0 12699EB90
 
-    Inf Stamina
+    ## Inf Stamina
 
-    0 126998A04
+    29 198A04 (4 bytes) 0 126998A04
 
-    Inf HP / LP
+    ## Inf HP / LP
 
-    0 1269989FC
+    29 1989FC (4 bytes) 0 1269989FC
 
-    Inf OP
+    ## Inf OP
 
-    0 126998A00
+    29 198A00 (4 bytes) 0 126998A00
     ```
 
 * __God of War 3__ (CUSA01715 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-47#post-83300) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/God_of_War_3_(CUSA01715-Ver_1.0.0).cht)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## Life
 
-    Life
+    pointer (float) @22A2D9BC0_21_18D9BC0+1CC 1
 
-    0 XXXXXX
+    ## Souls
 
-    Souls
+    pointer (float) @22A2D4D38_21_18D4D38+1E8 1
 
-    0 XXXXXX
+    ## Magic
 
-    Magic
+    pointer (float) @22A2D4D38_21_18D4D38+1D0 1
 
-    0 XXXXXX
+    ## Arrow
 
-    Special Sword
+    pointer (float) @22A2D4D38_21_18D4D38+1D4 1
 
-    0 XXXXXX
+    ## Special Sword
+
+    pointer (float) @22A2D4D38_21_18D4D38+1D8 1
+    ```
+
+* __God of War 4__ (CUSA07410 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-41#post-111990) [[2]](Update from Discord on 05.06.2018 @ 9.49 PM in #cheats by Sassy) [[3]](Update from Discord on 06.06.2018 @ 12.45 AM in #cheats by SLYXR) [[4]](Update from Discord on 06.06.2018 @ 2.17 PM in #cheats by Swear) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/God_of_War_4_(CUSA07410-Ver_1.0.0).cht) [[CHT File - Italian Fix]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/God_of_War_4_Italian_Fix_(CUSA07410-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/god-of-war-2018)
+
+    ```
+    CHT File
+
+    ## Health [2]
+
+    364 5473C8 (float) 1 1146B473C8
+
+    ## Rage [3]
+
+    363 547428 (float) 0 1146B47428
+
+    ## Soft Svartalfheim Steel
+
+    335 2FBE3E0 (4bytes) 0 10831BE3E0
+
+    ## Fog Echoes
+
+    335 2FBF060 (4bytes) 0 10831BF060
+
+    ## Hacksilver
+
+    335 2FBDAA0 (4bytes) 0 10831BDAA0
+
+    ## XP
+
+    335 2FBD8E0 (4bytes) 010831BD8E0
+
+    ## Cold Mist of Nilfhelm
+
+    335 2FBE720 (4bytes) 0 10831BE720
+
+    ## Frost Flame
+
+    335 2FBE4A0 (4bytes) 0 10831BE4A0
+
+    ##  Nielfhelm Recumbent
+
+    335 2FBF0A0 (4bytes) 0 10831BF0A0
+
+    ## Ivalddis Rusty Armor
+
+    335 2FBF160 (4bytes) 0 10831BF160
+
+    ## Dunst Mesh
+
+    335 2FBF0E0 (4bytes) 0 10831BF0E0
+
+    ## Ashes - Asenfluch
+
+    335 2FBF120 (4bytes) 0 10831BF120
+
+    ## Overlapping Resurrection Stone
+
+    335 2FC18A0 (4bytes) 0 10831C18A0
+
+    ## Surviving Resurrection Stone
+
+    335 2FC18A0 (4bytes) 0 10831C18A0
+
+    ## Chaos Flame
+
+    335 2FBE5E0 (4bytes) 0 10831BE5E0
+
+    ## Smoldering Embers
+
+    335 2FBEE20 (4bytes) 0 10831BEE20
+
+    ## Aegis Gold
+
+    335 2FBDE20 (4bytes) 0 10831BDE20
+
+    ## Solid Steel
+
+    335 2FBE420 (4bytes) 0 10831BE420
+
+    ## World Serpent Scale Fragment
+
+    335 2FBE7E0 (4bytes) 0 10831BE7E0
+
+    ## Crest of Flame [2]
+
+    340 2FBEE60 (4 bytes) 0 10831BEE60
+
+    ## Greater Crest of Flame [2]
+
+    340 2FBEEA0 4 bytes 0 10831BEEA0
+
+    ## Corrupted Remnant [3]
+
+    339 2FC1760 (4 bytes) 0 10831C1760
+
+    ## Apples [3]
+
+    339 2FC1F60 (4 bytes) 0 10831C1F60
+
+    ## Mist Archor [3]
+
+    339 2FBF1A0 (4 bytes) 0 10831BF1A0
+
+    ## Dust Of Realms [3]
+
+    339 2FBE7A0 (4 bytes) 0 10831BE7A0
+
+    ## Perfect Asgard Steel [3]
+
+    339 2FBEC20 (4 bytes) 0 10831BEC20
+
+    ## Asgard Steel [3]
+
+    339 2FBE9A0 (4 bytes) 0 10831BE9A0
+
+    ## Strength [3]
+
+    363 54BD14 (float) 0 1146B4BD14
+    363 551BF4 (float) 0 1146B51BF4
+
+    ## Defense [3]
+
+    363 551BFC (float) 0 1146B51BFC
+    363 54BD1C (float) 0 1146B4BD1C
+
+    ## Vitality [3]
+
+    363 551C00 (float) 0 1146B51C00
+    363 54BD20 (float) 0 1146B4BD20
+
+    ## Runic [3]
+
+    363 54BD18 (float) 0 1146B4BD18
+    363 551BF8 (float) 0 1146B51BF8
+
+    ## Luck [3]
+
+    363 551C04 (float) 0 1146B51C04
+    363 54BD24 (float) 0 1146B4BD24
+    ```
+
+    ```
+    CHT File Italian Fix [4]
+
+    ## Vita [4]
+
+    359 5473C8 (float) 1 1146B473C8
+
+    ## RAGE [4]
+
+    359 547428 (float 1 1146B47428
+
+    ## Health [4]
+
+    366 1473C8 (float) 0 11487473C8
+
+    ## Rage [4]
+
+    366 147428 (float) 0 1148747428
+
+    ## XP [4]
+
+    335 2FBD8E0 (4 bytes) 0 10831BD8E0
+
+    ## Hacksilver [4]
+
+    335 2FBDAA0 (4 bytes) 0 10831BDAA0
+
+    ## Strength [4]
+
+    365 14BD14 (float) 0 114854BD14
+
+    365 151BF4 (float) 0 1148551BF4
+
+    ## Defense [4]
+
+    365 151BFC (float) 0 1148551BFC
+
+    365 14BD1C (float) 0 114854BD1C
+
+    ## Vitality [4]
+
+    365 151C00 (float) 0 1148551C00
+
+    365 14BD20 (float) 0 114854BD20
+
+    ## Runic [4]
+
+    365 14BD18 (float) 0 114854BD18
+
+    365 151BF8 (float) 0 1148551BF8
+
+    ## Luck [4]
+
+    365 151C04 (float) 0 1148551C04
+
+    365 14BD24 (float) 0 114854BD24
+
+    ## Corrupted Remnant [4]
+
+    335 2FC1760 (4 bytes) 0 10831C1760
+
+    ## Aegir's Gold [4]
+
+    335 2FBDE20 (4 bytes) 0 10831BDE20
+
+    ## Frozen Flame [4]
+
+    335 2FBE4A0 (4 bytes) 0 10831BE4A0
+
+    ## Apples [4]
+
+    335 2FC1F60 (4 bytes) 0 10831C1F60
+
+    ## Soft Svarta [4]
+
+    335 2FBE3E0 (4 bytes) 0 10831BE3E0
+
+    ## Apples [4]
+
+    335 2FC1F60 (4 bytes) 0 10831C1F60
+
+    ## Mist Echo [4]
+
+    335 2FBF060 (4 bytes) 0 10831BF060
+
+    ## Haze wave [4]
+
+    335 2FBF0E0 (4 bytes) 0 10831BF0E0
+
+    ## Smouldering Ember [4]
+
+    335 2FBEE20 (4 bytes) 0 10831BEE20
+
+    ## Niflheim Alloy [4]
+
+    335 2FBF0A0 (4 bytes) 0 10831BF0A0
+
+    ## Greater Crest of Flame [4]
+
+    335 2FBEEA0 (4 bytes) 0 10831BEEA0
+
+    ## Aesirbane [4]
+
+    335 2FBF120 (4 bytes) 0 10831BF120
+
+    ## Crest of Flame [4]
+
+    335 2FBEE60 (4 bytes) 0 10831BEE60
     ```
 
 * __Gravity Rush__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-12#post-64486)
 
     ```
-    Gems
+    ## Gems
 
     0 264522937
     ```
@@ -1313,21 +1872,19 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Gravity Rush__ (CUSA01113 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-12#post-82472) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Gravity_Rush_(CUSA01113-Ver_1.0.0).cht)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## Gems
 
-    Gems
+    pointer (4 bytes) @20300A790_19_240A790+40 1
 
-    0 XXXXXX
+    ## Life
 
-    Life
-
-    0 XXXXXX
+    pointer (4 bytes) @2087E6020_19_7BE6020+50 1
     ```
 
 * __Gravity Rush 2__ (CUSA03694 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58385)
 
     ```
-    Gems
+    ## Gems
 
     0 01E7A2AC
     0 01E7A2B0
@@ -1336,16 +1893,16 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Horizon Zero Dawn__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-9#post-65171) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-11#post-65434) [[Wiki Guide]](https://www.ign.com/wikis/horizon-zero-dawn/)
 
     ```
-    Arrows [1]
+    ## Arrows [1]
 
     0 F5CF09E84
 
-    Metal Pieces [1]
+    ## Metal Pieces [1]
 
     0 24CEDAF84
     0 25CF2D9B4
 
-    Skills [2]
+    ## Skills [2]
 
     0 200E9E81F
     0 200EA0ECB
@@ -1359,75 +1916,75 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     Note : have at least 1 of the item in your inventory first
 
-    Test Health
+    ## Test Health
 
-    0 5867750
+    pointer (float) @5867750_3_30B3750+48+48+0+58+10+20+38+4C0+64 0
 
-    Shards
+    ## Shards
 
-    0 58626F0
+    pointer (4 bytes) @58626F0_3_30AE6F0+F0+2C8+28+0+198+28+0+1F8+8+8E4 0
 
-    Hunter Arrows
+    ## Hunter Arrows
 
-    0 5900AE0
+    pointer (2 bytes) @5900AE0_3_314CAE0+70+1B8+230+8+28+10+60+54 0
 
-    Harvest Arrows
+    ## Harvest Arrows
 
-    0 586C138
+    pointer (2 bytes) @586C138_3_30B8138+50+0+8+88+150+230+8+78+54 0
 
-    Precision Arrows
+    ## Precision Arrows
 
-    0 586C138
+    pointer (2 bytes) @586C138_3_30B8138+50+0+8+190+230+8+50+18+54 0
 
-    Tear Blast Arrows
+    ## Tear Blast Arrows
 
-    0 586C138
+    pointer (2 bytes) @586C138_3_30B8138+50+0+8+88+280+1A0+1E0+78+54 0
 
-    Fire Arrows
+    ## Fire Arrows
 
-    0 5900AE0
+    pointer (2 bytes) @5900AE0_3_314CAE0+28+28+A0+28+70+8+30+88+38+54 0
 
-    Blast Trap
+    ## Blast Trap
 
-    0 5900AE0
+    pointer (4 bytes) @5900AE0_3_314CAE0+58+28+B0+28+30+208+50+8+7F8+54 0
 
-    Detonating Blast Trap
+    ## Detonating Blast Trap
 
-    0 586C138
+    pointer (4 bytes) @586C138_3_30B8138+50+0+8+88+190+228+10+20+60+54 0
 
-    Shock Trap
+    ## Shock Trap
 
-    0 586C138
+    pointer (4 bytes) @586C138_3_30B8138+50+0+8+88+F8+228+10+50+0+FFFFFFFFFFFFFFF4 0
 
-    Shock Wire
+    ## Shock Wire
 
-    0 58626F0
+    pointer (2 bytes) @58626F0_3_30AE6F0+F0+230+28+0+1F8+8+858+54 0
     ```
 
 * __inFAMOUS : First Light__ (CUSA00897 - Ver 1.0.4 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92851) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/inFAMOUS_First_Light_(CUSA00897-Ver_1.0.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/infamous-first-light)
 
     ```
-    Skill Points
+    ## Skill Points
 
-    0 7141EDEC
+    3 20ADEC (4 bytes) 0 7141EDEC
 
-    Melee Finisher
+    ## Melee Finisher
 
-    1 7141EDE8
+    3 20ADE8 (4 bytes) 1 7141EDE8
 
-    Inf Neon Singularity (use value 1101004800 and lock it, then you have inf)
+    ## Inf Neon Singularity (use value 1101004800 and lock it, then you have inf)
 
-    1 7141EDF0
+    3 20ADF0 (4 bytes) 1 7141EDF0
     ```
 
 * __inFAMOUS : Second Son__ (CUSA00004 - Ver 1.0.0 - Firm 4.05 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-81863) [[Wiki Guide]](https://www.ign.com/wikis/infamous-second-son)
 
     ```
-    Shards
+    ## Shards
 
     0 21A36DD8
 
-    Bombs
+    ## Bombs
 
     0 27216DD4
     ```
@@ -1454,49 +2011,49 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    P1 Karma Exp / Rank
+    ## P1 Karma Exp / Rank
 
-    0 53BADF50
+    pointer (4 bytes) @53BADF50_1_D5F50+C0 0
 
-    P1 Shards
+    ## P1 Shards
 
-    0 53D2B7A8
+    pointer (4 bytes) @53D2B7A8_3_1137A8+80+E0 0
 
-    P2 Bombs
+    ## P2 Bombs
 
-    0 53BADF50
+    pointer (4 bytes) @53BADF50_1_D5F50+DC 0
     ```
 
 * __Just Cause 3__ (CUSA02747 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 30.04.2018 @ 1.23 AM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Just_Cause_3_(CUSA02747-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/just-cause-3)
 
     ```
-    Health
+    ## Health
 
-    0 50D79EC8
+    pointer (float) @50D79EC8_3_59EC8+A8+20+10+28+88+10+E0+40 0
 
-    Primary Assault Rifle Ammo
+    ## Primary Assault Rifle Ammo
 
-    0 2F23C6E8
+    pointer (2 bytes) @2F23C6E8_3_1386E8+E0+1F0+18+0+140+0+1C8+98+D8 0
 
-    Grenades
+    ## Grenades
 
-    0 139B06B8
+    pointer (4 bytes) @139B06B8_3_1386B8+58+50+110+10+E8+0+648+F0+B58+1C4 1
 
-    Rocket Ammo
+    ## Rocket Ammo
 
-    0 74D046B8
+    pointer (4 bytes) @74D046B8_3_1386B8+58+50+110+10+E8+0+648+F0+B58+1BC 0
     ```
 
 * __Killzone : Shadow Fall__ (CUSA00002 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 07.05.2018 @ 12.03 AM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Killzone_Shadow_Fall_(CUSA00002-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/killzone-shadow-fall)
 
     ```
-    P1 Ammo
+    ## P1 Ammo
 
-    0 8F44F40
+    pointer (4 bytes) @8F44F40_2_23D8F40+C0+8+48+0+210+8+50+0+210+38+18+10+0+50+18 0
 
-    P2 Ammo
+    ## P2 Ammo
 
-    0 75090F40
+    pointer (4 bytes) @75090F40_2_23D8F40+C0+8+48+0+210+8+50+0+210+38+18+10+0+50+18 0
     ```
 
 * __Killzone : Shadow Fall__ (CUSA00191 - Ver 1.1.4 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](Update from Discord on 15.05.2018 @ 10.49 PM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Killzone_Shadow_Fall_(CUSA00191-Ver_1.1.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/killzone-shadow-fall)
@@ -1516,115 +2073,115 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    Health
+    ## Health
 
-    0 / 1 3F56E18
+    pointer (float) @3F56E18_2_2412E18+68+70+28+0+1C0+20+158+20+98+80 0 / 1
 
-    Health Packs
+    ## Health Packs
 
-    1 3F56AF0
+    pointer (4 bytes) @3F56AF0_2_2412AF0+50+D0+490+30+50+0+228 1
 
-    Assault Rifle Ammo
+    ## Assault Rifle Ammo
 
-    1 3F56E18
+    pointer (2 bytes) @3F56E18_2_2412E18+68+C0+118+48+28+1B0+8+0+50+1C 1
 
-    Pistol Ammo
+    ## Pistol Ammo
 
-    1 3F56AF0
+    pointer (2 bytes) @3F56AF0_2_2412AF0+50+70+4F0+28+258+8+18+0+50+1C 1
 
-    Grenades
+    ## Grenades
 
-    1 3F56AF0
+    pointer (4 bytes) @3F56AF0_2_2412AF0+B8+1710+50+0+210+8+18+0+50+1C 1
     ```
 
 * __Kingdom Hearts HD 1.5 & 2.5 Remix : Kingdom Hearts Final Mix__ (CUSA05786 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-91#post-95469) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Kingdom_Hearts_HD_1.5_&_2.5_Remix_Kingdom_Hearts_Final_Mix_(CUSA05786-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-1-5-and-2-5-remix)
 
     ```
-    Munny (Money)
+    ## Munny (Money)
 
-    0 4A3E66FC
+    3 267A6FC (4 bytes) 0 4A3E66FC
 
-    Items (Part 1)
+    ## Items (Part 1)
 
-    0 4A3D077A
+    3 266477A (hex) 50505050005050505050505050505050 0 4A3D077A
 
-    Items (Part 2)
+    ## Items (Part 2)
 
-    0 4A3D0807
+    3 2664807 (hex) 505050 0 4A3D0807
 
-    Items (Part 3)
+    ## Items (Part 3)
 
-    0 4A3D0860
+    3 2664860 (hex) 50005050505050505050505050505050505050505050505050 0 4A3D0860
 
-    All Gummi Blocks and Blueprints
+    ## All Gummi Blocks and Blueprints
 
-    0 4A3DC158
+    3 2670158 (hex) 505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050500101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010100000000000000000050505050505050505050505050505050 0 4A3DC158
 
-    Gummi Ship HP
+    ## Gummi Ship HP
 
-    0 49D8B2A4
+    3 201F2A4 (4 bytes) 0 49D8B2A4
 
-    Sora Max Stats (Real)
+    ## Sora Max Stats (Real)
 
-    0 4A26FC4C
+    3 2503C4C (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A26FC4C
 
-    Sora Max Stats (Visual)
+    ## Sora Max Stats (Visual)
 
-    0 4A3CFA0C
+    3 2663A0C (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A3CFA0C
 
-    Sora EXP
+    ## Sora EXP
 
-    0 4A3D0320
+    3 2664320 (4 bytes) 0 4A3D0320
 
-    Sora Skill Points
+    ## Sora Skill Points
 
-    0 4A3CFAB4
+    3 2663AB4 (4 bytes) 0 4A3CFAB4
 
-    Donald Max Stats (Real)
+    ## Donald Max Stats (Real)
 
-    0 4A26FD34
+    3 2503D34 (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A26FD34
 
-    Donald Max Stats (Visual)
+    ## Donald Max Stats (Visual)
 
-    0 4A3CFAF4
+    3 2663AF4 (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A3CFAF4
 
-    Donald EXP
+    ## Donald EXP
 
-    0 4A3D0394
+    3 2664394 (4 bytes) 0 4A3D0394
 
-    Donald Skill Points
+    ## Donald Skill Points
 
-    0 4A3CFB9C
+    3 2663B9C (4 bytes) 0 4A3CFB9C
 
-    Goofy Max Stats (Real)
+    ## Goofy Max Stats (Real)
 
-    0 4A26FE1C
+    3 2503E1C (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A26FE1C
 
-    Goofy Max Stats (Visual)
+    ## Goofy Max Stats (Visual)
 
-    0 4A3CFBDC
+    3 2663BDC (hex) E7030000E7030000E7030000E7030000E7030000E7030000 0 4A3CFBDC
 
-    Goofy EXP
+    ## Goofy EXP
 
-    0 4A3D0408
+    3 2664408 (4 bytes) 0 4A3D0408
 
-    Goofy Skill Points
+    ## Goofy Skill Points
 
-    0 4A3CFC84
+    3 2663C84 (4 bytes) 0 4A3CFC84
     ```
 
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46553/) [[2]](https://playstationhax.xyz/forums/topic/4378-kingdom-hearts-28-ps4-cheater-405-cheat-codes/)
 
     ```
-    Sora Munny
+    ## Sora Munny
 
     0 2F65C44C
 
-    Sora EXP
+    ## Sora EXP
 
     0 2F6A3DA0
 
-    Meow Wow EXP
+    ## Meow Wow EXP
 
     0 2F654524
     ```
@@ -1632,222 +2189,220 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Kingdom Hearts 2.8__ (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/kingdom-hearts-2-8-cheat-codes.46585/) [[2]](https://playstationhax.xyz/forums/topic/4415-kingdom-hearts-28-ps4-cheater-455-cheat-codes/) [[3]](https://github.com/Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/Kingdom_Hearts_2.8_(CUSA05787-Ver_1.0.0).cht)
 
     ```
-    Sora Munny (Set the Values when you in the Option Menu)
+    ## Sora Munny (Set the Values when you in the Option Menu)
 
-    0 D5844C
+    3 2444C (4 bytes) 0 D5844C
 
-    Ability Links
+    ## Ability Links
 
-    0 D5052C
+    3 1C52C (4 bytes) 0 D5052C
 
-    Main Character EXP - Sora
+    ## Main Character EXP - Sora
 
-    0 D9FDA0
+    3 6BDA0 (4 bytes) 0 D9FDA0
 
-    Main Character EXP - Ryku
+    ## Main Character EXP - Ryku
 
-    0 D583CC
+    3 243CC (4 bytes) 0 D583CC
     ```
 
 * __Kingdom Hearts 2.8 : Final Chapter Prologue__ (CUSA05787 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-85#post-94100) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Kingdom_Hearts_2.8_Final_Chapter_Prologue_(CUSA05787-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/kingdom-hearts-hd-2-8-final-chapter-prologue)
 
     ```
-    P1 Inf HP Sora / Ryku
+    ## P1 Inf HP Sora / Ryku
 
     (Make Sure before you switch character to unlock Inf HP. After you changed character, you can lock it. Not doing this could cause game crashes)
 
-    0 67ECB78
+    pointer (byte) @67ECB78_3_B78+78+734 0
 
-    Money
+    ## Money
 
     (Set Value while you in Menu then go out and back)
 
-    0 681044C
+    3 2444C (4 bytes) 0 681044C
 
-    EXP Sora / Ryku
+    ## EXP Sora / Ryku
 
     (Use this from Pause menu. After you change your EXP, kill some monsters!)
 
-    0 6857DA0
+    3 6BDA0 (4 bytes) 0 6857DA0
 
-    Sora Ability Links
-
-    (Use same method as EXP)
-
-    0 680862C
-
-    Ryku Ability Links
+    ## Sora Ability Links
 
     (Use same method as EXP)
 
-    0 680852C
+    3 1C62C (4 bytes) 0 680862C
 
-    Droplets Sora
+    ## Ryku Ability Links
+
+    (Use same method as EXP)
+
+    3 1C52C (4 bytes) 0 680852C
+
+    ## Droplets Sora
 
     (Set Value while you in Menu then go out and back)
 
-    0 6810364
+    3 24364 (4 bytes) 0 6810364
 
-    Droplets Ryku
+    ## Droplets Ryku
 
     (Set Value while you in Menu then go out and back)
 
-    0 68103E0
+    3 243E0 (4 bytes) 0 68103E0
     ```
 
 * __Last of Us : Remastered__ (CUSA00556 - Ver 1.0.0 and 1.0.8 - Firm 4.55 - PS4Cheater 1.4 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88401) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-30#post-89447) [[3]](Update from Discord on 27.04.2018 @ 9.48 PM) [[CHT File Update 1.0.0]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.0).cht) [[CHT File Update 1.0.8]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Last_of_Us_Remastered_(CUSA00556-Ver_1.0.8).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-last-of-us)
 
     ```
-    Inf Health [1]
+    ## Inf Health [1]
 
-    0 6836A530
+    pointer (4 bytes) @6836A530_2_2530+0+3A8+30 0
 
-    Inf Ammo [1]
+    ## Inf Ammo [1]
 
-    0 683E4768
+    pointer (4 bytes) @683E4768_2_7C768+118+10+0+378+0+1F8+1C0+20C 0
     ```
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## Debug Menu [2] [CHT File Update 1.0.8]
 
-    Debug Menu [2] [CHT File Update 1.0.8]
+    0 40B3 (hex) 80B9872E0000000F8503120000C681812E000001EB04F6110000488D 0 444640B3
 
-    0 444640B3
+    ## Inf Health [2] [CHT File Update 1.0.8]
 
-    Inf Health [2] [CHT File Update 1.0.8]
+    pointer (4 bytes) @45FC0480_3_60C480+88+0+48+48+48+60+258+3E8+30 0
 
-    0 XXXXXX
+    ## Inf Medikits [2] [CHT File Update 1.0.8]
 
-    Inf Medikits [2] [CHT File Update 1.0.8]
+    pointer (2 bytes) @45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+2FC 0
 
-    0 XXXXXX
+    ## Inf Knives [2] [CHT File Update 1.0.8]
 
-    Inf Knives [2] [CHT File Update 1.0.8]
+    pointer (2 bytes) @45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+300 0
 
-    0 XXXXXX
+    ## Inf Upgrade Pills [2] [CHT File Update 1.0.8]
 
-    Inf Upgrade Pills [2] [CHT File Update 1.0.8]
+    pointer (2 bytes) @45FC0508_3_60C508+8+8+8+8+8+20+258+11C0+334 0
 
-    0 XXXXXX
+    ## Inf Molotovs-Bricks-Smoke [2] [3] [CHT File Update 1.0.8]
 
-    Inf Molotovs-Bricks-Smoke [2] [3] [CHT File Update 1.0.8]
+    pointer (byte) @45FC04C8_3_60C4C8+8+8+8+8+8+8+20+258+10F8+FFFFFFFFFFFFFDEE 0
 
-    0 XXXXXX
+    ## Inf Ammo [2] [CHT File Update 1.0.8]
 
-    Inf Ammo [2] [CHT File Update 1.0.8]
+    pointer (byte) @45BC9B00_3_215B00+58+0+75C 0
 
-    0 XXXXXX
+    ## Inf Materials [3] [CHT File Update 1.0.8]
 
-    Inf Materials [3] [CHT File Update 1.0.8]
+    pointer (2 bytes) @45FC04C8_3_60C4C8+8+8+8+8+8+8+20+258+11C0+332 0
 
-    0 XXXXXX
+    ## Inf Spiky Bombs [3] [CHT File Update 1.0.8]
 
-    Inf Spiky Bombs [3] [CHT File Update 1.0.8]
+    pointer (byte) @45FC06A0_3_60C6A0+258+11C0+304 0
 
-    0 XXXXXX
+    ## Inf Money [3] [CHT File Update 1.0.8]
 
-    Inf Money [3] [CHT File Update 1.0.8]
-
-    0 XXXXXX
+    pointer (4 bytes) @459C5BB8_3_11BB8+10+10+1A0 0
     ```
 
 * __LEGO Batman 3 Beyond Gotham__ (CUSA00580 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-84995) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/LEGO_Batman_3_Beyond_Gotham_(CUSA00580-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-batman-3-beyond-gotham)
 
     ```
-    Coins
+    ## Coins
 
-    1 230647BE8
+    21 7E47BE8 (4 bytes) 1 230647BE8
     ```
 
 * __LEGO Marvel Super Heroes__ (CUSA00044 - Ver X.X.X - Firm X.XX - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-53#post-84751) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/Unknown-Firm/PS4Cheater-1.4/LEGO_Marvel_Super_Heroes_(CUSA00044-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-marvel-super-heroes)
 
     ```
-    Coins
+    ## Coins
 
-    0 23039D820
+    22 7F9D820 (4 bytes) 0 23039D820
     ```
 
 * __LEGO Star Wars The Force Awakens__ (CUSA03397 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85043) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/LEGO_Star_Wars_The_Force_Awakens_(CUSA03397-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/lego-star-wars-the-force-awakens/)
 
     ```
-    Coins
+    ## Coins
 
-    0 21C743660
+    23 3B43660 (4 byte) 0 21C743660
     ```
 
 * __Metal Gear Solid V : The Phantom Pain__ (CUSA01154 - Ver 1.1.2 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 11.05.2018 @ 12.12 AM in #cheats by Weysincha) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92851) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/MGSV_The_Phantom_Pain_(CUSA01154-Ver_1.1.2).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
 
     ```
-    P1 Rifle Ammo
+    ## P1 Rifle Ammo
 
-    0 72EF7230
+    pointer (2 bytes) @72EF7230_2_20B230+28+20+460+50+1FA8+1030+0+40+10+150+390+58+8+60+4E 0
 
-    P1 Rifle Suppressor
+    ## P1 Rifle Suppressor
 
-    0 72EF71F8
+    pointer (byte) @72EF71F8_2_20B1F8+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+108+158 0
 
-    P1 Health
+    ## P1 Health
 
-    0 72E1B7A0
+    pointer (float) @72E1B7A0_2_12F7A0+1128+F0+18+AE8+18+78+D8+198+8+8+8+8+8+8+30 0
 
-    P1 Pistol Ammo
+    ## P1 Pistol Ammo
 
-    0 72E3E058
+    pointe (2 bytes) @72E3E058_2_152058+0+420+1F8+1C50+1030+0+40+10+150+390+58+8+60+56 0
 
-    P1 Pistol Suppressor
+    ## P1 Pistol Suppressor
 
-    0 72EF71F8
+    pointer (byte) @72EF71F8_2_20B1F8+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+108+164 0
 
-    P1 Grenade
+    ## P1 Grenade
 
-    0 72E3F470
+    pointer (2 bytes) @72E3F470_2_153470+C30+8+60+38+0+18+0+420+1F8+1C50+1030+0+40+10+150+390+58+8+60+5A 0
 
-    GMP
+    ## GMP
 
-    0 72DED538
-    0 72E01A40
+    2 101538 (4 bytes) 0
+    pointer (4 bytes) @72E01A40_2_115A40+FFFFFFFFFFFF3680 0
     ```
 
 * __Metal Gear Solid V : The Phantom Pain Definitive Edition__ (CUSA05597 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-96237) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/MGSV_The_Phantom_Pain_Definitive_Edition_(CUSA05597-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/metal-gear-solid-5-the-phantom-pain)
 
     ```
-    GMP
+    ## GMP
 
     0 554355C8
 
-    RES Fuel
+    ## RES Fuel
 
     0 55443A54
 
-    RES Biological
+    ## RES Biological
 
     0 55443A58
 
-    RES Common
+    ## RES Common
 
     0 55443A5C
 
-    RES Minor
+    ## RES Minor
 
     0 55443A60
 
-    RES Precious
+    ## RES Precious
 
     0 55443A64
 
-    PLANT Wormwood
+    ## PLANT Wormwood
 
     0 55443A68
 
-    PLANT Blackcarrot
+    ## PLANT Blackcarrot
 
     0 55443A6C
 
-    PLANT Haoma
+    ## PLANT Haoma
 
     0 55443A84
 
-    PLANT Tarragon
+    ## PLANT Tarragon
 
     0 55443A74
     ```
@@ -1861,41 +2416,57 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## Attribute Points / Currency (Set your amount, kill 1, go back to Main Menu, reload your save)
 
-    Attribute Points / Currency (Set your amount, kill 1, go back to Main Menu, reload your save)
+    pointer (4 bytes) @49BDE570_2_10A570+30+48+198 0
 
-    0 XXXXXX
+    ## Exp (Go to Pause Menu, set your exp, go out from Pause Menu then back in)
 
-    Exp (Go to Pause Menu, set your exp, go out from Pause Menu then back in)
+    pointer (4 bytes) @49BD3E18_2_FFE18+30+0+30+68+0+0+0+88+28+28+20+80+3C 0
 
-    0 XXXXXX
+    ## Skill Points (Set your amount, kill 1, go back to Main Menu, reload your save)
 
-    Skill Points (Set your amount, kill 1, go back to Main Menu, reload your save)
+    pointer (4 bytes) @49BDE570_2_10A570+30+48+1D8 0
 
-    0 XXXXXX
+    ## Tier Points (Go to Pause Menu, set your exp go out from Pause Menu then back in)
 
-    Tier Points (Go to Pause Menu, set your exp go out from Pause Menu then back in)
+    pointer (4 bytes) @49AA8900_1_154900+38+30+28+68+0+0+0+88+28+20+28+88+44 0
 
-    0 XXXXXX
+    ## Inf Arrows
 
-    Inf Arrows
+    pointer (4 bytes) @49BDE508_2_10A508+0+0+8+28+0+40 0
 
-    0 XXXXXX
+    ## Inf Focus
 
-    Inf Focus
+    pointer (4 bytes) @49BD46C8_2_1006C8+0+0+8+28+0+44 0
 
-    0 XXXXXX
+    ## Inf HP
 
-    Inf HP
+    pointer (float) @49BD5AD0_2_101AD0+0+100+0+0+10+E0+20+40+8+24 0
+    pointer (float) @49BD3E58_2_FFE58+8+8+28+28+E0+20+40+8+24 0
+    pointer (float) @49BD3E50_2_FFE50+8+38+18+28+E0+20+40+8+24 0
+    pointer (float) @49BD3E58_2_FFE58+8+8+38+18+28+E0+20+40+8+24 0
+    pointer (float) @49BD67F0_2_1027F0+10+30+50+8+20+E8+20+40+8+24 0
+    pointer (float) @49BD67F0_2_1027F0+10+30+50+8+20+E8+20+40+8+24 0
+    pointer (float) @49BD5AD0_2_101AD0+0+100+0+0+38+E8+20+40+8+24 0
+    ```
 
-    0 XXXXXX
+* __Monster Hunter World__ (CUSA07708 - Ver 1.0.1 - Firm 5.05 - PS4Cheater 1.4.4) [[1]](Update from Discord on 05.06.2018 @ 10.07 AM in #cheats by PS4 Guru) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/Monster_Hunter_World_(CUSA07708-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/monster-hunter-world)
+
+    ```
+    ## Health
+
+    pointer (float) @523E5C8_3_F765C8+7A0+148+0+8F0+10+10+8+64 0
+
+    ## Money
+
+    pointer (4 bytes) @4424C90_3_15CC90+10+10+10+10+10+40+60+6C 0
     ```
 
 * __Mortal Kombat X : Standard Edition__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-12#post-65610) [[Wiki Guide]](https://www.ign.com/wikis/mortal-kombat-x)
 
     ```
-    No Money Krypt
+    ## No Money Krypt
 
     0 037688A4
     0 037688A8
@@ -1905,25 +2476,25 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Mortal Kombat XL__ (CUSA03589 - Ver 1.0.4 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-96008) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Mortal_Kombat_XL_(CUSA03589-Ver_1.0.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/mortal-kombat-x)
 
     ```
-    Krypt Money
+    ## Krypt Money
 
     (You need a small bit of money and then buy something first)
 
-    1 301977F24
+    44 4177F24 (4 bytes) 1 301977F24
     ```
 
 * __NBA 2K17__ (CUSA05040 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-94028) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/NBA_2K17_(CUSA05040-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nba-2k17)
 
     ```
-    Money
+    ## Money
 
-    0 3C8F0274
+    3 5350274 (4 bytes) 0 3C8F0274
 
-    Max Attributes
+    ## Max Attributes
 
     (Important - set the value as "19191919191919191919". Then all attributes should max out)
 
-    0 3CB39542
+    3 5599542 (hex) 0 3CB39542
     ```
 
 * __Need for Speed : Payback__ (CUSA05986 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-94122) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-93903) [[3]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94355) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-94601) [[CHT File - Weysincha]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Need_for_Speed_Payback_Weysincha_(CUSA05986-Ver_1.0.0).cht) [[CHT File - Pretinaverse]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Need_for_Speed_Payback_Pretinaverse_(CUSA05986-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/need-for-speed-payback)
@@ -1931,260 +2502,260 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     [2] [3] By Weysincha
 
-    P1 Money
+    ## P1 Money
 
-    0 42A5BF80
+    pointer (4 bytes) @42A5BF80_3_967F80+28+28+10+0+A8+D0+10+10+30+58+20+8+8+38+FFFFFFFFFFFFFFE8 0
 
-    P1 EXP / Rank
+    ## P1 EXP / Rank
 
     (Set your Amount of EXP then drift some in the road to get exp. Afterwards you get Rank LVL UP. Max LVL is 50/51)
 
-    0 428FA290
+    pointer (4 bytes) @428FA290_3_806290+98+68+20+10+30+0+58+10+50+0+108+10+3C8+48+10+58+28+98+70+8 0
 
-    P1 Tokens
+    ## P1 Tokens
 
-    0 42A5BF80
+    pointer (4 bytes) @42A5BF80_3_967F80+28+0+10+0+A8+D0+10+0+48+10+28+68+68+0+18 0
     ```
 
     ```
     [1] [4] By Pretinaverse
 
-    Money
+    ## Money
 
-    0 2FC088B0
+    pointer (4 bytes) @2FC088B0_3_8748B0+128+10+30+58+8 0
     ```
 
 * __NieR Automata__ (CUSA04551 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73436) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/NieR_Automata_(CUSA04551-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nier-automata)
 
     ```
-    Money
+    ## Money
 
-    0 458C5810
+    3 4A1810 (4 bytes) 0 458C5810
 
-    EXP (Set Exp 9999999 -> To get Max LvL 99)
+    ## EXP (Set Exp 9999999 -> To get Max LvL 99)
 
-    0 458CD9C0
+    3 4A99C0 (4 bytes) 0 458CD9C0
 
-    Medium Recovery (Minimum 1 MR required first)
+    ## Medium Recovery (Minimum 1 MR required first)
 
-    1 458C5828
+    3 4A1828 (4 bytes) 0 458C5828
 
-    Health (Lock Max HP) [2]
+    ## Health (Lock Max HP) [2]
 
-    0 454034C0
+    pointer (4 bytes) @454034C0_1_7B4C0+98+518+340+1E0+348+8+C0+88+3B0 0
     ```
 
 * __Nioh__ (CUSA07123 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-5#post-80457) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80490) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.3/Nioh_(CUSA07123-Ver_X.X.X).cht)
 
     ```
-    Spirit Iron Fragment
+    ## Spirit Iron Fragment
 
-    0 16003A90
+    3 157A90 (4 bytes) 0 16003A90
 
-    HQ Tamahagane
+    ## HQ Tamahagane
 
-    0 16005458
-    0 160048A0
+    3 159458 (4 bytes) 0 16005458
+    3 1588A0 (4 bytes) 0 160048A0
 
-    HQ Wood
+    ## HQ Wood
 
-    0 16004968
-    0 16004A30
+    3 158968 (4 bytes) 0 16004968
+    3 158A30 (4 bytes) 0 16004A30
 
-    HQ Lacquer
+    ## HQ Lacquer
 
-    0 160040D0
-    0 16004260
+    3 1580D0 (4 bytes) 0 160040D0
+    3 158260 (4 bytes) 0 16004260
 
-    HQ Ingot
+    ## HQ Ingot
 
-    0 160039C8
-    0 160059D0
+    3 1579C8 (4 bytes) 0 160039C8
+    3 1599D0 (4 bytes) 0 160059D0
 
-    HQ Leather Cord
+    ## HQ Leather Cord
 
-    0 160052C8
-    0 16004580
+    3 1592C8 (4 bytes) 0 160052C8
+    3 158580 (4 bytes) 0 16004580
 
-    HQ Leather Kozane
+    ## HQ Leather Kozane
 
-    0 16004710
-    0 160047D8
+    3 158710 (4 bytes) 0 16004710
+    3 1587D8 (4 bytes) 0 160047D8
 
-    HQ Iron Kozane
+    ## HQ Iron Kozane
 
-    0 16004328
+    3 1584B8 (4 bytes) 0 16004328
     0 160044B8
 
-    Iron Chunk
+    ## Iron Chunk
 
-    0 16004198
+    3 158198 (4 bytes) 0 16004198
 
-    Demon Horn
+    ## Demon Horn
 
-    0 16004D50
+    3 158D50 (4 bytes) 0 16004D50
 
-    Great Centipede Fang
+    ## Great Centipede Fang
 
-    0 16005520
+    3 159520 (4 bytes) 0 16005520
 
-    Bangasa Rib
+    ## Bangasa Rib
 
-    0 16005070
+    3 159070 (4 bytes) 0 16005070
 
-    Spirit Stone
+    ## Spirit Stone
 
-    0 15FE18A8
+    3 1358A8 (4 bytes) 0 15FE18A8
 
-    Small Spirit Stone
+    ## Small Spirit Stone
 
-    0 15FE02B8
+    3 1342B8 (4 bytes) 0 15FE02B8
 
-    Large Spirit Stone
+    ## Large Spirit Stone
 
-    0 15FE2A88
+    3 136A88 (4 bytes) 0 15FE2A88
 
-    Guardian Spirit Talisman
+    ## Guardian Spirit Talisman
 
-    0 160170B8
+    3 16B0B8 (4 bytes) 0 160170B8
 
-    Slot Talisman
+    ## Slot Talisman
 
-    0 16017310
+    3 16B310 (4 bytes) 0 16017310
 
-    Arrow
+    ## Arrow
 
-    0 15FEB238
+    3 13F238 (4 bytes) 0 15FEB238
 
-    Special Arrow
+    ## Special Arrow
 
-    0 15FE3E08
+    3 137E08 (4 bytes) 0 15FE3E08
 
-    Rifle Ammo
+    ## Rifle Ammo
 
-    0 15FE65D8
+    3 13A5D8 (4 bytes) 0 15FE65D8
 
-    Special Rifle Ammo
+    ## Special Rifle Ammo
 
-    0 15FE2268
+    3 36268 (4 bytes) 0 15FE2268
 
-    Hand Cannon Ammo
+    ## Hand Cannon Ammo
 
-    0 15FE60F8
+    3 13A0F8 (4 bytes) 0 15FE60F8
 
-    Special Hand Cannon Ammo
+    ## Special Hand Cannon Ammo
 
-    0 15FE3448
+    3 137448 (4 bytes) 0 15FE3448
 
-    Glory
+    ## Glory
 
-    0 161CFB8C
+    3 323B8C (4 bytes) 0 161CFB8C
     ```
 
 * __Outlast Trinity__ (CUSA07742 / CUSA06633 - Ver 1.0.3 / Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-9#post-88698) [[CHT File]](Outlast_Trinity_(https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/CUSA07742__CUSA06633-Ver_1.0.3__Ver_1.0.0).cht)
 
     ```
-    P1 Battery (Outlast 1 and DLC)
+    ## P1 Battery (Outlast 1 and DLC)
 
-    0 23A43E0
+    pointer (4 bytes) @23A43E0_1_2843E0+48+28+28+10A8+40+D0+0+380+1410+AF8 0
     ```
 
-* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[10]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-31#post-89831) [[11]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-90505) [[12]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-40#post-97195) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
+* __Persona 5__ (CUSA06638 / CUSA05877 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.2 and 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-73753) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-3#post-75659) [[3]](https://github.com/JDsnyke/PS4-Cheat-List/issues/3#issuecomment-372824847) [[4]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-76381) [[5]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-6#post-80998) [[6]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88559) [[7]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-27#post-88601) [[8]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-88971) [[9]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-28#post-89127) [[10]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-31#post-89831) [[11]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-90505) [[12]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-40#post-97195) [[13]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-40#post-104900) [[CHT File 1.2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.2/Persona_5_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V2]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Persona_5_V2_(CUSA06638-Ver_1.0.0).cht) [[CHT File 1.4.3 V3]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Persona_5_V3_(CUSA05877-Ver_1.0.0).cht) [[Complete Compendium CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Persona_5_Compendium_(CUSA05877-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/persona-5)
 
     ```
     Note : apparently these codes work for both CUSA06638 and CUSA05877 respectively [8]
     ```
 
     ```
-    Money
+    ## Money
 
     0 195E674
 
-    Medicine (Max 999)
+    ## Medicine (Max 999)
 
     0 195DBB0
 
-    Main Character Level [4]
+    ## Main Character Level [4]
 
     0 B38F738
 
-    Main Character EXP (Set your EXP, after one Battle you get the lvl ups)
+    ## Main Character EXP (Set your EXP, after one Battle you get the lvl ups)
 
     0 195B73C
 
-    Main Character HP (Max 999)
+    ## Main Character HP (Max 999)
 
     1 195B72C
 
-    Main Character Skill Points (Max 999)
+    ## Main Character Skill Points (Max 999)
 
     1 195B730
 
-    Main Character Bullets [3]
+    ## Main Character Bullets [3]
 
     1 7B1D39B4
 
-    Ryuji HP [3]
+    ## Ryuji HP [3]
 
     1 7B1D39CC
 
-    Ryuji EXP [3]
+    ## Ryuji EXP [3]
 
     0 7B1D3A0C
 
-    Ryuji Gun Bullets [3]
+    ## Ryuji Gun Bullets [3]
 
     1 7B1D3C54
 
-    Ryuji Skill Points [3]
+    ## Ryuji Skill Points [3]
 
     1 7B1D39D0
 
-    Morgana Cat HP [3]
+    ## Morgana Cat HP [3]
 
     1 7B1D3C6C
 
-    Morgana Cat Skill Points [3]
+    ## Morgana Cat Skill Points [3]
 
     1 7B1D3C70
 
-    Morgana Cat EXP [3]
+    ## Morgana Cat EXP [3]
 
     0 7B1D3CAC
 
-    Morgana Cat Gun Bullets [3]
+    ## Morgana Cat Gun Bullets [3]
 
     1 7B1D3EF4
 
-    Ann HP [3]
+    ## Ann HP [3]
 
     1 7B1D3F0C
 
-    Ann Skill Points [3]
+    ## Ann Skill Points [3]
 
     1 7B1D3F10
 
-    Ann EXP [3]
+    ## Ann EXP [3]
 
     0 7B1D3F4C
 
-    Ann Gun Bullets [3]
+    ## Ann Gun Bullets [3]
 
     1 7B1D4194
 
-    Days until Expulsion [4]
+    ## Days until Expulsion [4]
 
     0 B392AF0
 
-    Kamoshida Security Level [4]
+    ## Kamoshida Security Level [4]
 
     0 B392CE4
 
-    Casino Points [2]
+    ## Casino Points [2]
 
     0 23596D60
 
-    Fishing Points [5]
+    ## Fishing Points [5]
 
     0 7690AC40
     ```
@@ -2192,43 +2763,43 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
     CHT FILE V2 :
 
-    1st Persona Exp [6]
+    ## 1st Persona Exp [6]
 
-    0 61FAF76C
+    3 3376C (4 bytes) 0 61FAF76C
 
-    2nd Persona Exp [6]
+    ## 2nd Persona Exp [6]
 
-    0 61FAF79C
+    3 3379C (4 bytes) 0 61FAF79C
 
-    3rd Persona Exp [6]
+    ## 3rd Persona Exp [6]
 
-    0 61FAF7CC
+    3 337CC (4 bytes) 0 61FAF7CC
 
-    4th Persona Exp [6]
+    ## 4th Persona Exp [6]
 
-    0 61FAF7FC
+    3 337FC (4 bytes) 0 61FAF7FC
 
-    5th Persona Exp [6]
+    ## 5th Persona Exp [6]
 
-    0 61FAF82C
+    3 3382C (4 bytes) 0 61FAF82C
 
-    6th Persona Exp [6]
+    ## 6th Persona Exp [6]
 
-    0 61FAF85C
+    3 3385C (4 bytes) 0 61FAF85C
 
-    All Items, Materials & Essentials [7]
+    ## All Items, Materials & Essentials [7]
 
-    0 61FB1B73
+    3 35B73 (hex) 5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A005A5A5A00005A5A5A5A5A5A5A005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A005A5A5A005A5A5A5A5A5A5A5A00005A005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A005A005A5A5A005A5A5A5A5A5A5A5A5A5A5A005A5A5A5A5A005A5A5A5A005A5A5A5A5A5A5A5A5A5A005A5A5A005A5A5A5A5A5A00005A5A5A5A5A5A5A5A5A5A5A5A5A5A005A5A5A5A5A005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A00005A5A5A5A5A5A5A5A00005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A005A5A5A5A5A5A5A005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A000000000000000000000000000000005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A000000000000000000000000000000000000005A5A5A5A5A5A5A5A005A5A5A5A5A5A5A5A5A5A5A5A005A5A5A5A5A5A5A5A5A5A005A005A5A5A5A5A5A5A5A5A5A005A5A5A5A5A5A5A5A005A5A5A5A005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A00000000000000005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A00005A5A5A5A5A5A000000005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A0000005A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A0000005A005A5A5A5A5A5A5A5A000000005A5A0000005A5A5A5A5A5A005A 0 61FB1B73
     ```
 
     ```
     CHT FILE V3 :
 
-    Money [8]
+    ## Money [8]
 
     0 XXXXXX (refer to address from cht file)
 
-    Casino Coins [11] (Only use it if you don't mind skipping some scenes of the game)
+    ## Casino Coins [11] (Only use it if you don't mind skipping some scenes of the game)
 
     0 XXXXXX
 
@@ -2236,227 +2807,227 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     (From - https://kutt.it/MDfTb4)
 
-    All Items, Materials and Essentials [8] [9]
+    ## All Items, Materials and Essentials [8] [9]
 
     0 XXXXXX
 
-    All Treasures [10]
+    ## All Treasures [10]
 
     0 XXXXXX
 
-    All Skill Cards [10]
+    ## All Skill Cards [10]
 
     0 XXXXXX
 
-    All Melee Weapons [10]
+    ## All Melee Weapons [10]
 
     0 XXXXXX
 
-    All Ranged Weapons [10]
+    ## All Ranged Weapons [10]
 
     0 XXXXXX
 
-    All Protectors [10]
+    ## All Protectors [10]
 
     0 XXXXXX
 
-    All Accessories [10]
+    ## All Accessories [10]
 
     0 XXXXXX
 
-    Social Stats (Only 1 point for max) [9]
+    ## Social Stats (Only 1 point for max) [9]
 
     0 XXXXXX
 
-    Main Character HP [8] [9]
+    ## Main Character HP [8] [9]
 
     0 XXXXXX
 
-    Main Character SP [8] [9]
+    ## Main Character SP [8] [9]
 
     0 XXXXXX
 
-    Main Character EXP [8] [9]
+    ## Main Character EXP [8] [9]
 
     0 XXXXXX
 
-    Main Character Gun Bullets [8] [9]
+    ## Main Character Gun Bullets [8] [9]
 
     0 XXXXXX
 
-    Ryuji HP [8] [9]
+    ## Ryuji HP [8] [9]
 
     0 XXXXXX
 
-    Ryuji SP [8] [9]
+    ## Ryuji SP [8] [9]
 
     0 XXXXXX
 
-    Ryuji EXP [8] [9]
+    ## Ryuji EXP [8] [9]
 
     0 XXXXXX
 
-    Ryuji Gun Bullets [8] [9]
+    ## Ryuji Gun Bullets [8] [9]
 
     0 XXXXXX
 
-    Ann HP [8] [9]
+    ## Ann HP [8] [9]
 
     0 XXXXXX
 
-    Ann SP [8] [9]
+    ## Ann SP [8] [9]
 
     0 XXXXXX
 
-    Ann EXP [8] [9]
+    ## Ann EXP [8] [9]
 
     0 XXXXXX
 
-    Ann Gun Bullets [8] [9]
+    ## Ann Gun Bullets [8] [9]
 
     0 XXXXXX
 
-    Morgana HP [8] [9]
+    ## Morgana HP [8] [9]
 
     0 XXXXXX
 
-    Morgana SP [8] [9]
+    ## Morgana SP [8] [9]
 
     0 XXXXXX
 
-    Morgana EXP [8] [9]
+    ## Morgana EXP [8] [9]
 
     0 XXXXXX
 
-    Morgana Gun Bullets [8] [9]
+    ## Morgana Gun Bullets [8] [9]
 
     0 XXXXXX
 
-    Yusuke HP [8] [9]
+    ## Yusuke HP [8] [9]
 
     0 XXXXXX
 
-    Yusuke SP [8] [9]
+    ## Yusuke SP [8] [9]
 
     0 XXXXXX
 
-    Yusuke EXP [8] [9]
+    ## Yusuke EXP [8] [9]
 
     0 XXXXXX
 
-    Yusuke Gun Bullets [8] [9]
+    ## Yusuke Gun Bullets [8] [9]
 
     0 XXXXXX
 
-    Makoto HP [10]
+    ## Makoto HP [10]
 
     0 XXXXXX
 
-    Makoto SP [10]
+    ## Makoto SP [10]
 
     0 XXXXXX
 
-    Makoto EXP [10]
+    ## Makoto EXP [10]
 
     0 XXXXXX
 
-    Makoto Gun Bullets [10]
+    ## Makoto Gun Bullets [10]
 
     0 XXXXXX
 
-    Haru HP [11]
+    ## Haru HP [11]
 
     0 XXXXXX
 
-    Haru SP [11]
+    ## Haru SP [11]
 
     0 XXXXXX
 
-    Haru EXP [11]
+    ## Haru EXP [11]
 
     0 XXXXXX
 
-    Haru Gun Bullets [11]
+    ## Haru Gun Bullets [11]
 
     0 XXXXXX
 
-    Akechi HP [11]
+    ## Akechi HP [11]
 
     0 XXXXXX
 
-    Akechi SP [11]
+    ## Akechi SP [11]
 
     0 XXXXXX
 
-    Akechi EXP [11]
+    ## Akechi EXP [11]
 
     0 XXXXXX
 
-    Akechi Gun Bullets [11]
+    ## Akechi Gun Bullets [11]
 
     0 XXXXXX
 
-    Futaba HP [10]
+    ## Futaba HP [10]
 
     0 XXXXXX
 
-    Futaba SP [10]
+    ## Futaba SP [10]
 
     0 XXXXXX
 
-    Futaba EXP [10]
+    ## Futaba EXP [10]
 
     0 XXXXXX    
 
-    Security Level [8] [9]
+    ## Security Level [8] [9]
 
     0 XXXXXX
 
-    1st Persona Exp [8] [9]
+    ## 1st Persona Exp [8] [9]
 
     0 XXXXXX
 
-    2nd Persona Exp [8] [9]
+    ## 2nd Persona Exp [8] [9]
 
     0 XXXXXX
 
-    3rd Persona Exp [8] [9]
+    ## 3rd Persona Exp [8] [9]
 
     0 XXXXXX
 
-    4th Persona Exp [8] [9]
+    ## 4th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    5th Persona Exp [8] [9]
+    ## 5th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    6th Persona Exp [8] [9]
+    ## 6th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    7th Persona Exp [8] [9]
+    ## 7th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    8th Persona Exp [8] [9]
+    ## 8th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    9th Persona Exp [8] [9]
+    ## 9th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    10th Persona Exp [8] [9]
+    ## 10th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    11th Persona Exp [8] [9]
+    ## 11th Persona Exp [8] [9]
 
     0 XXXXXX
 
-    12th Persona Exp [8] [9]
+    ## 12th Persona Exp [8] [9]
 
     0 XXXXXX
 
@@ -2468,51 +3039,51 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     (From - https://kutt.it/1k8EgD)
 
-    Change Slot 1 Persona [8] [9] (hex code values can be found below)
+    ## Change Slot 1 Persona [8] [9] (hex code values can be found below)
 
     0 XXXXXX
 
-    Change Slot 2 Persona [8] [9]
+    ## Change Slot 2 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 3 Persona [8] [9]
+    ## Change Slot 3 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 4 Persona [8] [9]
+    ## Change Slot 4 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 5 Persona [8] [9]
+    ## Change Slot 5 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 6 Persona [8] [9]
+    ## Change Slot 6 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 7 Persona [8] [9]
+    ## Change Slot 7 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 8 Persona [8] [9]
+    ## Change Slot 8 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 9 Persona [8] [9]
+    ## Change Slot 9 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 10 Persona [8] [9]
+    ## Change Slot 10 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 11 Persona [8] [9]
+    ## Change Slot 11 Persona [8] [9]
 
     0 XXXXXX
 
-    Change Slot 12 Persona [8] [9]
+    ## Change Slot 12 Persona [8] [9]
 
     0 XXXXXX
 
@@ -2529,469 +3100,479 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     Note : Make sure not to skip levels, it's best to increment the level one by one just to be safe, personally for me, setting a rank from 1 to 10 crashes the game.
 
-    1st Persona 1st Skill [12]
+    ## 1st Persona 1st Skill [12]
 
     0 5174F770
 
-    1st Persona 2nd Skill [12]
+    ## 1st Persona 2nd Skill [12]
 
     0 5174F772
 
-    1st Persona 3rd Skill [12]
+    ## 1st Persona 3rd Skill [12]
 
     0 5174F774
 
-    1st Persona 4th Skill [12]
+    ## 1st Persona 4th Skill [12]
 
     0 5174F776
 
-    1st Persona 5th Skill [12]
+    ## 1st Persona 5th Skill [12]
 
     0 5174F7783
 
-    1st Persona 6th Skill [12]
+    ## 1st Persona 6th Skill [12]
 
     0 5174F77A
 
-    1st Persona 7th Skill [12]
+    ## 1st Persona 7th Skill [12]
 
     0 5174F77C
 
-    1st Persona 8th Skill [12]
+    ## 1st Persona 8th Skill [12]
 
     0 5174F77E
 
-    1st Persona Strength [12]
+    ## 1st Persona Strength [12]
 
     0 5174F780
 
-    1st Persona Magic [12]
+    ## 1st Persona Magic [12]
 
     0 5174F781
 
-    1st Persona Endurance [12]
+    ## 1st Persona Endurance [12]
 
     0 5174F782
 
-    1st Persona Agility [12]
+    ## 1st Persona Agility [12]
 
     0 5174F783
 
-    1st Persona Luck [12]
+    ## 1st Persona Luck [12]
 
     0 5174F784
 
-    Ryuji Persona Str [12]
+    ## Ryuji Persona Str [12]
 
     0 5174FA20
 
-    Ryuji Persona Ma [12]
+    ## Ryuji Persona Ma [12]
 
     0 5174FA21
 
-    Ryuji Persona En [12]
+    ## Ryuji Persona En [12]
 
     0 5174FA22
 
-    Ryuji Persona Ag [12]
+    ## Ryuji Persona Ag [12]
 
     0 5174FA23
 
-    Ryuji Persona Lu [12]
+    ## Ryuji Persona Lu [12]
 
     0 5174FA24
 
-    Ryuji Persona 1st Skill [12]
+    ## Ryuji Persona 1st Skill [12]
 
     0 5174FA10
 
-    Ryuji Persona 2nd Skill [12]
+    ## Ryuji Persona 2nd Skill [12]
 
     0 5174FA12
 
-    Ryuji Persona 3rd Skill [12]
+    ## Ryuji Persona 3rd Skill [12]
 
     0 5174FA14
 
-    Ryuji Persona 4th Skill [12]
+    ## Ryuji Persona 4th Skill [12]
 
     0 5174FA16
 
-    Ryuji Persona 5th Skill [12]
+    ## Ryuji Persona 5th Skill [12]
 
     0 5174FA18
 
-    Ryuji Persona 7th Skill [12]
+    ## Ryuji Persona 7th Skill [12]
 
     0 5174FA1C
 
-    Ryuji Persona 6th Skill [12]
+    ## Ryuji Persona 6th Skill [12]
 
     0 5174FA1A
 
-    Ryuji Persona 8th Skill [12]
+    ## Ryuji Persona 8th Skill [12]
 
     0 5174FA1E
 
-    Morgana Persona St [12]
+    ## Morgana Persona St [12]
 
     0 5174FCC0
 
-    Morgana Persona Ma [12]
+    ## Morgana Persona Ma [12]
 
     0 5174FCC1
 
-    Morgana Persona En [12]
+    ## Morgana Persona En [12]
 
     0 5174FCC2
 
-    Morgana Persona Ag [12]
+    ## Morgana Persona Ag [12]
 
     0 5174FCC3
 
-    Morgana Persona Lu [12]
+    ## Morgana Persona Lu [12]
 
     0 5174FCC4
 
-    Morgana Persona 1st Skill [12]
+    ## Morgana Persona 1st Skill [12]
 
     0 5174FCB0
 
-    Morgana Persona 2nd Skill [12]
+    ## Morgana Persona 2nd Skill [12]
 
     0 5174FCB2
 
-    Morgana Persona 3rd Skill [12]
+    ## Morgana Persona 3rd Skill [12]
 
     0 5174FCB4
 
-    Morgana Persona 4th Skill [12]
+    ## Morgana Persona 4th Skill [12]
 
     0 5174FCB6
 
-    Morgana Persona 5th Skill [12]
+    ## Morgana Persona 5th Skill [12]
 
     0 5174FCB8
 
-    Morgana Persona 6th Skill [12]
+    ## Morgana Persona 6th Skill [12]
 
     0 5174FCBA
 
-    Morgana Persona 7th Skill [12]
+    ## Morgana Persona 7th Skill [12]
 
     0 5174FCBC
 
-    Morgana Persona 8th Skill [12]
+    ## Morgana Persona 8th Skill [12]
 
     0 5174FCBE
 
-    Ann Persona St [12]
+    ## Ann Persona St [12]
 
     0 5174FF60
 
-    Ann Persona Ma [12]
+    ## Ann Persona Ma [12]
 
     0 5174FF61
 
-    Ann Persona En [12]
+    ## Ann Persona En [12]
 
     0 5174FF62
 
-    Ann Persona Ag [12]
+    ## Ann Persona Ag [12]
 
     0 5174FF63
 
-    Ann Persona Lu [12]
+    ## Ann Persona Lu [12]
 
     0 5174FF64
 
-    Ann Persona 1st Skill [12]
+    ## Ann Persona 1st Skill [12]
 
     0 5174FF50
 
-    Ann Persona 2nd Skill [12]
+    ## Ann Persona 2nd Skill [12]
 
     0 5174FF52
 
-    Ann Persona 3rd Skill [12]
+    ## Ann Persona 3rd Skill [12]
 
     0 5174FF54
 
-    Ann Persona 4th Skill [12]
+    ## Ann Persona 4th Skill [12]
 
     0 5174FF56
 
-    Ann Persona 5th Skill [12]
+    ## Ann Persona 5th Skill [12]
 
     0 5174FF58
 
-    Ann Persona 6th Skill [12]
+    ## Ann Persona 6th Skill [12]
 
     0 5174FF5A
 
-    Ann Persona 7th Skill [12]
+    ## Ann Persona 7th Skill [12]
 
     0 5174FF5C
 
-    Ann Persona 8th Skill [12]
+    ## Ann Persona 8th Skill [12]
 
     0 5174FF5E
 
-    Yusuke Persona St [12]
+    ## Yusuke Persona St [12]
 
     0 51750200
 
-    Yusuke Persona Ma [12]
+    ## Yusuke Persona Ma [12]
 
     0 51750201
 
-    Yusuke Persona En [12]
+    ## Yusuke Persona En [12]
 
     0 51750202
 
-    Yusuke Persona Ag [12]
+    ## Yusuke Persona Ag [12]
 
     0 51750203
 
-    Yusuke Persona Lu [12]
+    ## Yusuke Persona Lu [12]
 
     0 51750204
 
-    Yusuke Persona 1st Skill [12]
+    ## Yusuke Persona 1st Skill [12]
 
     0 517501F0
 
-    Yusuke Persona 2nd Skill [12]
+    ## Yusuke Persona 2nd Skill [12]
 
     0 517501F2
 
-    Yusuke Persona 3rd Skill [12]
+    ## Yusuke Persona 3rd Skill [12]
 
     0 517501F4
 
-    Yusuke Persona 4th Skill [12]
+    ## Yusuke Persona 4th Skill [12]
 
     0 517501F6
 
-    Yusuke Persona 5th Skill [12]
+    ## Yusuke Persona 5th Skill [12]
 
     0 517501F8
 
-    Yusuke Persona 6th Skill [12]
+    ## Yusuke Persona 6th Skill [12]
 
     0 517501FA
 
-    Yusuke Persona 7th Skill [12]
+    ## Yusuke Persona 7th Skill [12]
 
     0 517501FC
 
-    Yusuke Persona 8th Skill [12]
+    ## Yusuke Persona 8th Skill [12]
 
     0 517501FE
 
-    Makoto Persona St [12]
+    ## Makoto Persona St [12]
 
     0 517504A0
 
-    Makoto Persona Ma [12]
+    ## Makoto Persona Ma [12]
 
     0 517504A1
 
-    Makoto Persona En [12]
+    ## Makoto Persona En [12]
 
     0 517504A2
 
-    Makoto Persona Ag [12]
+    ## Makoto Persona Ag [12]
 
     0 517504A3
 
-    Makoto Persona Lu [12]
+    ## Makoto Persona Lu [12]
 
     0 517504A4
 
-    Makoto Persona 1st Skill [12]
+    ## Makoto Persona 1st Skill [12]
 
     0 51750490
 
-    Makoto Persona 2nd Skill [12]
+    ## Makoto Persona 2nd Skill [12]
 
     0 51750492
 
-    Makoto Persona 3rd Skill [12]
+    ## Makoto Persona 3rd Skill [12]
 
     0 51750494
 
-    Makoto Persona 4th Skill [12]
+    ## Makoto Persona 4th Skill [12]
 
     0 51750496
 
-    Makoto Persona 5th Skill [12]
+    ## Makoto Persona 5th Skill [12]
 
     0 51750498
 
-    Makoto Persona 6th Skill [12]
+    ## Makoto Persona 6th Skill [12]
 
     0 5175049A
 
-    Makoto Persona 7th Skill [12]
+    ## Makoto Persona 7th Skill [12]
 
     0 5175049C
 
-    Makoto Persona 8th Skill [12]
+    ## Makoto Persona 8th Skill [12]
 
     0 5175049E
 
-    Haru Persona St [12]
+    ## Haru Persona St [12]
 
     0 51750740
 
-    Haru Persona Ma [12]
+    ## Haru Persona Ma [12]
 
     0 51750741
 
-    Haru Persona En [12]
+    ## Haru Persona En [12]
 
     0 51750742
 
-    Haru Persona Ag [12]
+    ## Haru Persona Ag [12]
 
     0 51750743
 
-    Haru Persona Lu [12]
+    ## Haru Persona Lu [12]
 
     0 51750744
 
-    Haru Persona 1st Skill [12]
+    ## Haru Persona 1st Skill [12]
 
     0 51750730
 
-    Haru Persona 2nd Skill [12]
+    ## Haru Persona 2nd Skill [12]
 
     0 51750732
 
-    Haru Persona 3rd Skill [12]
+    ## Haru Persona 3rd Skill [12]
 
     0 51750734
 
-    Haru Persona 4th Skill [12]
+    ## Haru Persona 4th Skill [12]
 
     0 51750736
 
-    Haru Persona 5th Skill [12]
+    ## Haru Persona 5th Skill [12]
 
     0 51750738
 
-    Haru Persona 6th Skill [12]
+    ## Haru Persona 6th Skill [12]
 
     0 5175073A
 
-    Haru Persona 7th Skill [12]
+    ## Haru Persona 7th Skill [12]
 
     0 5175073C
 
-    Haru Persona 8th Skill [12]
+    ## Haru Persona 8th Skill [12]
 
     0 5175073E
 
-    Futaba Persona St [12]
+    ## Futaba Persona St [12]
 
     0 517509E0
 
-    Futaba Persona Ma [12]
+    ## Futaba Persona Ma [12]
 
     0 517509E1
 
-    Futaba Persona En [12]
+    ## Futaba Persona En [12]
 
     0 517509E2
 
-    Futaba Persona Ag [12]
+    ## Futaba Persona Ag [12]
 
     0 517509E3
 
-    Futaba Persona Lu [12]
+    ## Futaba Persona Lu [12]
 
     0 517509E4
 
-    Chariot Rank [12]
+    ## Chariot Rank [12]
 
     0 51761BC0
 
-    Fool Rank [12]
+    ## Fool Rank [12]
 
     0 51761BD0
 
-    Lovers Rank [12]
+    ## Lovers Rank [12]
 
     0 51761BE0
 
-    Magician Rank [12]
+    ## Magician Rank [12]
 
     0 51761BF0
 
-    Death Rank [12]
+    ## Death Rank [12]
 
     0 51761C00
 
-    Hierophant Rank [12]
+    ## Hierophant Rank [12]
 
     0 51761C10
 
-    Moon Rank [12]
+    ## Moon Rank [12]
 
     0 51761C20
 
-    Sun Rank [12]
+    ## Sun Rank [12]
 
     0 51761C30
 
-    Strength Rank [12]
+    ## Strength Rank [12]
 
     0 51761C40
 
-    Temperance Rank [12]
+    ## Temperance Rank [12]
 
     0 51761C50
 
-    Justice Rank [12]
+    ## Justice Rank [12]
 
     0 51761C60
 
-    Emperor Rank [12]
+    ## Emperor Rank [12]
 
     0 51761C70
 
-    Devil Rank [12]
+    ## Devil Rank [12]
 
     0 51761C80
 
-    Priestess Rank [12]
+    ## Priestess Rank [12]
 
     0 51761C90
 
-    Fortune Rank [12]
+    ## Fortune Rank [12]
 
     0 51761CA0
 
-    Judge Rank [12]
+    ## Judge Rank [12]
 
     0 51761CB0
 
-    Hanged Man Rank [12]
+    ## Hanged Man Rank [12]
 
     0 51761CC0
 
-    Star Rank [12]
+    ## Star Rank [12]
 
     0 51761CD0
 
-    Hermit Rank [12]
+    ## Hermit Rank [12]
 
     0 51761CE0
 
-    Tower Rank [12]
+    ## Tower Rank [12]
 
     0 51761CF0
+    ```
+
+    ```
+    Complete Persona 5 Compendium CHT File [13]
+
+    Refer to CHT file for complete list of names, addresses and values.
+
+    * This also includes DLC Personas, even if you don't have the DLC purchased, you can still acquire them. Should you ever want a 100% compendium, just Ctrl + A, right click, lock, then unlock.
+
+    * Warning : Locking and unlocking a Persona will overwrite all stats of that Persona, so if you don't want to overwrite, just get the Personas that you need. Don't refresh the values
     ```
 
     ```
@@ -3970,90 +4551,90 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Republique__ (CUSA03853 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-25#post-87337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87448) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-26#post-87574) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Republique_(CUSA03853-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/republique)
 
     ```
-    Warning : Normally you can have only a maximum of 3 of each weapon (Only 3 taser, only 3 pepper spray). In one occasion I tried to put more than that using the codes, but this seems to mess with the game and, after that, some actions were unavailable, specifically all of the actions made using the x button. So, make sure to not surpass the maximum of 3 used by the game. If you find yourself unable to search a locker or unable to crawl in a vent, just close and open the game and everything should be working fine again.
+    Warning : Normally you can have only a maximum of 3 of each weapons (Only 3 taser, only 3 pepper spray). In one occasion I tried to put more than that using the codes, but this seems to mess with the game and, after that, some actions were unavailable, specifically all of the actions made using the x button. So, make sure to not surpass the maximum of 3 used by the game. If you find yourself unable to search a locker or unable to crawl in a vent, just close and open the game and everything should be working fine again.
     ```
 
     ```
-    Money
+    ## Money
 
-    0 1C43F568
+    pointer (4 bytes) @1C43F568_1_3B568+8+1AE0+20+30+98+A0+0+0+A0+1E0+18+18+0+10+20+28+10+20+68+FFFFFFFFFFFFFFF8 0
 
-    Battery
+    ## Battery
 
     (Every bar of battery is 0,1 (with a comma), so if your battery have 3 bars of energy, you should put 0,3 as the value. If your battery have 4 bar, you should put 0,4... and so on.)
 
-    0 1C43F568
+    pointer (float) @1C43F568_1_3B568+8+1D98+0+18+70+40+10+20+134 0
 
-    Weapon
+    ## Weapon
 
     (Change quantity of pepper spray and taser, one code for all)
 
-    0 1C43F568
+    pointer (4 bytes) @1C43F568_1_3B568+8+38+308+1D0+8+98+0+38+28+38 0
     ```
 
 * __Resident Evil 4__ (CUSA04885 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-54#post-85014) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Resident_Evil_4_(CUSA04885-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-4)
 
     ```
-    Currency
+    ## Currency
 
-    0 7E485C7C  
+    3 599C7C (4 bytes) 0 7E485C7C  
     ```
 
 * __Resident Evil 6__ (CUSA03856 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Resident_Evil_6_(CUSA03856-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-6)
 
     ```
-    Health
+    ## Health
 
-    1 5E7CF5C8
+    pointer (float) @5E7CF5C8_3_B5C8+28+38+28+1368 1
 
-    Assult Rifle Ammo
+    ## Assault Rifle Ammo
 
-    0 5E7CD2D8
-    0 5E943888
+    pointer (2 bytes) @5E7CD2D8_3_92D8+28+568+C8+148+58+1A8+8+6FE 0
+    pointer (2 bytes) @5E943888_3_17F888+428+568+C8+148+58+1A8+8+6FE 0
 
-    Skill Points
+    ## Skill Points
 
-    0 5E7CDDE0
+    pointer (4 bytes) @5E7CDDE0_3_9DE0+28+28+20+38+5B0+518 0
 
-    Stamina
+    ## Stamina
 
-    1 / 0 5E7CF5C8
+    pointer (float) @5E7CF5C8_3_B5C8+28+38+28+1550+14D8+F68+490+1E30 0 / 1
     ```
 
 * __Resident Evil 7__ (CUSA03842 - Ver 1.1.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-74#post-89589) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Resident_Evil_7_(CUSA03842-Ver_1.1.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resident-evil-7)
 
     ```
-    Health
+    ## Health
 
-    0 72939D08
-    0 72932218
-    0 729340D0
+    pointer (float) @72939D08_3_71D08+80+30+E0+70+24 0
+    pointer (float) @72932218_3_6A218+78+B0+E0+70+24 0
+    pointer (float) @729340D0_3_6C0D0+D0+B0+E0+70+24 0
 
-    Pistol
+    ## Pistol
 
-    0 56F5C678
+    pointer (4 bytes) @56F5C678_1_12C678+0+218+20+130+160+20+38+FFFFFFFFFFFFFFF4 0
 
-    SG Ammo
+    ## SG Ammo
 
-    0 591F91B0
+    pointer (4 bytes) @591F91B0_3_6D1B0+98+80+158+A8+E8+128+160+FFFFFFFFFFFFFFF4 0
 
-    First Aid Med
+    ## First Aid Med
 
-    0 61E98678
+    pointer (4 bytes) @61E98678_1_12C678+0+D8+A8+28+E0+128+30+88 0
 
-    Psychostimulants
+    ## Psychostimulants
 
-    0 24C889C8
+    pointer (4 bytes) @24C889C8_1_13C9C8+10+60+20+68+20+28+28+88 1
     ```
 
 * __Resident Evil Origins : RE 0__ (CUSA02461 - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/re-origins-collection-re-0-ps4-cheater-4-55-codes.46606/) [[2]](https://playstationhax.xyz/forums/topic/4413-re-origins-collection-re-0-ps4-cheater-455-codes/)
 
     ```
-    Handgun Ammo and Equipped Ammo (Slot 01)
+    ## Handgun Ammo and Equipped Ammo (Slot 01)
 
     0 20D0EFCDC
 
-    Ink Ribbon (Slot 04)
+    ## Ink Ribbon (Slot 04)
 
     0 20D14D554
     ```
@@ -4061,95 +4642,93 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Resogun__ (CUSA00038 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-10#post-90285) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Resogun_(CUSA00038-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/resogun)
 
     ```
-    Address's are not available (currently), please use cht file instead.
+    ## P1 Lives
 
-    P1 Lives
+    pointer (4 bytes) @F41138_2_F9138+658+8+10+48+18+8+0+0+18+10+20+7D0+18+C4 0
 
-    0 XXXXXX
+    ## P1 Bombs
 
-    P1 Bombs
+    pointer (4 bytes) @F41138_2_F9138+4F8+8+10+48+18+8+0+0+18+10+20+7D0+18+C0 0
 
-    0 XXXXXX
+    ## P1 Turbo (Max is 1065353216)
 
-    P1 Turbo (Max is 1065353216)
+    pointer (4 bytes) @F41070_2_F9070+E8+8F8+8+10+48+18+8+0+0+18+10+20+6B0+18+60 0
 
-    0 XXXXXX
-
-    P1 Overdrive
+    ## P1 Overdrive
 
     Note : use this Value to Max the Overdrive bar: 1065353216 then you can 'Lock', after you are in overdrive mode you have 'De-lock' to get out or stay in
 
-    0 XXXXXX
+    pointer (4 bytes) @F41070_2_F9070+E8+38+8+10+48+18+8+0+0+18+10+20+750+18+5C 0
     ```
 
 * __Rise of the Tomb Raider : 20 Year Anniversary__ (CUSA05716 - Ver 1.0.6 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](Update from Discord on 06.05.2018 @ 11.59 PM in #cheats by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Rise_of_the_Tomb_Raider_(CUSA05716-Ver_1.0.6).cht) [[Wiki Guide]](https://www.ign.com/wikis/rise-of-the-tomb-raider)
 
     ```
-    P1 Skill Points
+    ## P1 Skill Points
 
-    0 658E9490
+    pointer (4 bytes) @658E9490_3_1885490+8+8+8+8+8+8+20+3D0+0+10+40+0+280+18+44 0
     ```
 
 * __Shadow of the Beast__ (CUSA03762 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-34#post-91849) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Shadow_of_the_Beast_(CUSA03762-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/shadow-of-the-beast)
 
     ```
-    Inf Health
+    ## Inf Health
 
-    0 5AD9AE70
+    pointer (4 bytes) @5AD9AE70_3_16E70+AE4 0
 
-    Inf Powers
+    ## Inf Powers
 
-    0 5AD9AE70
+    pointer (byte) @5AD9AE70_3_16E70+AEC 0
 
-    Inf Money / Mana
+    ## Inf Money / Mana
 
-    0 5B0331B0
+    pointer (4 bytes) @5B0331B0_3_2AF1B0+8+400+150 0
 
-    Inf Blood Rage
+    ## Inf Blood Rage
 
-    0 5AD9AE70
+    pointer (2 bytes) @5AD9AE70_3_16E70+AEA 0
 
-    Inf Time
+    ## Inf Time
 
-    0 5AD9AE70
+    pointer (float) @5AD9AE70_3_16E70+B60 0
 
-    Max Combo
+    ## Max Combo
 
-    0 5AD9AE70
+    pointer (2 bytes) @5AD9AE70_3_16E70+A54 0
     ```
 
 * __Tales of Zestiria__ (CUSA02461 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/ps4-cheater.4529/page-2#post-64700)
 
     ```
-    Sorey Exp
+    ## Sorey Exp
 
     0 103DE7D5BC
 
-    Edna Exp
+    ## Edna Exp
 
     0 103DE8E2FC
 
-    Rose Exp
+    ## Rose Exp
 
     0 103DE8193C
 
-    Zaveid Exp
+    ## Zaveid Exp
 
     0 103DE9697C
 
-    Lailah Exp
+    ## Lailah Exp
 
     0 103DE89FBC
 
-    Mikleo Exp
+    ## Mikleo Exp
 
     0 103DE85C7C
 
-    Money
+    ## Money
 
     0 103F605F60
 
-    All Consumables
+    ## All Consumables
 
     0 103DE01024
     0 103DE01028
@@ -4182,25 +4761,34 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Tekken 7__ (CUSA06014 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-17#post-84529) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-10#post-90634) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Tekken_7_(CUSA06014-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/tekken-7)
 
     ```
-    Money (need some money first)
+    ## Money (need some money first)
 
-    0 35AB8C60
+    pointer (4 bytes) @35AB8C60_3_18C60+8+0+98 0
 
-    Inf HP (Left Side Fighter) [2]
+    ## Inf HP (Left Side Fighter) [2]
 
     Note : first, go in to 'Game Battle' for the codes to work
 
-    0 35AD8560
+    pointer (4 bytes) @35AD8560_3_38560+304 0
 
-    Inf HP (Right Side Fighter) [2]
+    ## Inf HP (Right Side Fighter) [2]
 
-    0 35ADB350
+    pointer (4 bytes) @35ADB350_3_3B350+304 0
+    ```
+
+* __Tekken 7__ (CUSA06014 - Ver X.X.X - Firm 5.05 - PS4Cheater 1.4.4) [[1]](Update from Discord on 06.06.2018 @ 10.36 PM in #cheats by Swear) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/Tekken_7_(CUSA06014-Ver_X.X.X).cht) [[Wiki Guide]](https://www.ign.com/wikis/tekken-7)
+
+    ```
+    ## Millionaire
+
+    84 100B8 (4 bytes) 1 205B800B8
+    508 29E0 (4 bytes) 1 2B34529E0
     ```
 
 * __The Last of Us__ (CUSAXXXXX - Ver X.X.X - Firm 4.55 - PS4Cheater 1.2) [[1]](http://www.maxconsole.com/threads/the-last-of-us-ps4-cheater-4-55-cheat-codes.46608/) [[2]](https://playstationhax.xyz/forums/topic/4418-the-last-of-us-ps4-cheater-455-cheat-codes/)
 
     ```
-    Ammo (currently has issues, view source for more details)
+    ## Ammo (currently has issues, view source for more details)
 
     0 11748B719C
     ```
@@ -4208,11 +4796,11 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Uncharted Trilogy__ (CUSA02343 - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-2#post-58321)
 
     ```
-    Uncharted 1 - 1st Weapon Bullets
+    ## Uncharted 1 - 1st Weapon Bullets
 
     0 00EA5444
 
-    Uncharted 1 - 2nd Weapon Bullets
+    ## Uncharted 1 - 2nd Weapon Bullets
 
     0 00EA54F8
     ```
@@ -4220,30 +4808,22 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Watch Dogs 2__ (CUSA04294 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82771) [[2]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-7#post-82785) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85750) [[4]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-21#post-85757) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Watch_Dogs_2_(CUSA04294-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/watch-dogs-2)
 
     ```
-    Money [1]
+    ## Money [1] [3] [4]
 
-    1 204A81158
+    pointer (4 bytes) @2005B3CA8_18_1C3CA8+18 1
+    pointer (4 bytes) @200863CA8_18_1C3CA8+18 0
 
-    Money [3] [4]
+    ## P1 Follower XP [3]
 
-    0 200863CA8
-    1 2005B3CA8
+    pointer (4 bytes) @12684EA8_3_5CEA8+138+70+18+C8+0+50+B0+18+0+60+20 0
 
-    Follower XP [3]
+    ## Life [4]
 
-    0 12684EA8
+    pointer (float) @51E5E660_3_BA660+18+90+0+48+10+10+18 1
 
-    Life [4]
+    ## Inf Hack [2] [4]
 
-    1 51E5E660
-
-    Inf Hack [4]
-
-    1 51E273A0
-
-    Inf Hack [2]
-
-    1 207A7CD74
+    pointer (float) @51E273A0_3_833A0+28+10+A8+110+328+0+290+74 1
     ```
 
 * __Witcher 3 GOTY Edition__ (CUSA05572 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85569) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-58#post-85772) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Witcher_3_GOTY_Edition_(CUSA05572-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
@@ -4255,69 +4835,69 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    Health
+    ## Health
 
-    0 XXXXXX
-    0 XXXXXX
+    pointer (float) @7A632840_3_24E840+30+28+390+228+100+60+F0+110+20+48 1
 
-    Level XP
+    ## Level XP
 
-    0 XXXXXX
-    0 XXXXXX
+    pointer (4 bytes) @7A873448_3_48F448+230+78+FFFFFFFFFFFFFFF8 0
 
-    Skill Points
+    ## Skill Points
 
-    0 XXXXXX
-    0 XXXXXX
-    0 XXXXXX
-    0 XXXXXX
-    0 XXXXXX
-    0 XXXXXX
+    pointer (4 bytes) @7A871530_3_48D530+110+90+40+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A873448_3_48F448+230+90+40+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A86D408_3_489408+110+90+E8+40+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A86D5D0_3_4895D0+230+90+E8+40+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A86B870_3_487870+16A8+1D18+110+90+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A86A1F8_3_4861F8+16C0+1D18+110+90+20+FFFFFFFFFFFFFFF0 0
+    pointer (4 bytes) @7A86B890_3_487890+1D18+110+90+20+FFFFFFFFFFFFFFF0 0
     ```
 
 * __Witcher 3 GOTY Edition__ (CUSA05574 - Ver 1.3.0 - Firm 4.55 - PS4Cheater 1.4) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85337) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85475) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4/Witcher_3_GOTY_Edition_(CUSA05574-Ver_1.3.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/the-witcher-3-wild-hunt)
 
     ```
-    Money
+    ## Money
 
-    1 12333A9A14
+    217 33A9A14 (4 bytes) 1 12333A9A14
 
-    Skill Points
+    ## Skill Points
 
-    0 1007C03710
+    211 7C03710 (4 bytes) 0 1007C03710
     ```
+
 * __World of Final Fantasy__ (CUSA04548 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-35#post-92472) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/World_of_Final_Fantasy_(CUSA04548-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/world-of-final-fantasy)
 
     ```
-    Gill (Money)
+    ## Gill (Money)
 
-    0 2029447E8
+    20 20E07E8 (4 bytes) 0 2029447E8
     ```
 
 * __Xuan-Yuan Sword : The Gate of Firmament__ (CUSA06423 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91056) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Xuan_Yuan_Sword_(CUSA06423-Ver_1.0.0).cht)
 
     ```
-    Bei (Money)
+    ## Bei (Money)
 
-    0 XXXXXX
+    pointer (4 bytes) @503E0EB0_3_24EB0+10+10+198+18+0+A0+74 0
 
-    Sikongyu Life
+    ## Sikongyu Life
 
-    0 XXXXXX
+    pointer (4 bytes) @503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFF9C 0
 
-    Sikongyu Mana
+    ## Sikongyu Mana
 
-    0 XXXXXX
+    pointer (4 bytes) @503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFFA0 0
 
-    Sikongyu EXP
+    ## Sikongyu EXP
 
-    0 XXXXXX
+    pointer (4 bytes) @503E0EB0_3_24EB0+10+8+28+0+10+20+FFFFFFFFFFFFFFD0 0
     ```
 
 * __Yakuza 0__ (CUSAXXXXX - Ver X.X.X - Firm 4.05 - PS4Cheater 1.1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-6#post-64825) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
 
     ```
-    Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
+    ## Money (Dynamic Address - always 2nd value in memory map of size 372,800 KB)
 
     0 209E8F2B0
     ```
@@ -4325,43 +4905,43 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Yakuza 0__ (CUSA05133 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-88#post-94516) [[2]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-91#post-95423) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Yakuza_0_(CUSA05133-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/yakuza-0)
 
     ```
-    Inf Money Kiryu
+    ## Inf Money Kiryu
 
-    0 20114F028
+    14 77028 (4 bytes) 0 20114F028
 
-    Inf HP Kiryu
+    ## Inf HP Kiryu
 
-    0 201147024
+    14 6F024 (4 bytes) 0 201147024
 
-    Inf Gauge Kiryu
+    ## Inf Gauge Kiryu
 
-    0 20114702C
+    14 6F02C (4 bytes) 0 20114702C
 
-    Inf CP Kiryu
+    ## Inf CP Kiryu
 
-    0 20114F148
+    14 6F424 (4 bytes) 0 20114F148
 
-    Inf HP Majima
+    ## Inf HP Majima
 
-    0 200A77424
+    14 6F424 (4 bytes) 0 200A77424
 
-    Inf Gauge Majima
+    ## Inf Gauge Majima
 
-    0 200A7742C
+    14 6F42C (4 bytes) 0 200A7742C
 
-    Inf Money Majima
+    ## Inf Money Majima
 
-    0 200A7F030
+    14 77030 (4 bytes) 0 200A7F030
 
-    Inf CP Majima
+    ## Inf CP Majima
 
-    0 200A7F150
+    14 77150 (4 bytes) 0 200A7F150
     ```
 
 * __Yakuza 6__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548)
 
     ```
-    Money
+    ## Money
 
     0 2023B1D38
     ```
@@ -4369,7 +4949,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Yakuza Ishin__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4)  [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-11#post-63905)
 
     ```
-    Money
+    ## Money
 
     0 2003E6BC8 3B9AC9FF
     ```
@@ -4377,25 +4957,25 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 * __Yakuza Kiwami__ (CUSA07615 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-32#post-91497) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-33#post-91679) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-38#post-95836) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Yakuza_Kiwami_(CUSA07615-Ver_1.0.0).cht)
 
     ```
-    Money
+    ## Money
 
-    0 2001804A8
+    15 744A8 (4 bytes) 0 2001804A8
 
-    HP
+    ## HP
 
-    1 20017AFE4
+    15 6EFE4 (4 bytes) 1 20017AFE4
 
-    EXP (Skill points not needed, just set value)
+    ## EXP (Skill points not needed, just set value)
 
-    1 20017B018
+    15 6F018 (4 bytes) 1 20017B018
 
-    Inf Gauge
+    ## Inf Gauge
 
-    1 200E96FEC
+    15 6EFEC (4 bytes) 1 200E96FEC
 
-    Inf CP
+    ## Inf CP
 
-    0 200E9C538
+    15 74538 (4 bytes) 0 200E9C538
     ```
 
 ## Community
@@ -4410,15 +4990,17 @@ Join our [Slack](https://psxcheatlist-slack.herokuapp.com) channel to be notifie
 
 ## Donate
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1AQrV5YKDv3WnwEYddHr5UFtiTLUvQ5pQr)](https://en.cryptobadges.io/donate/1AQrV5YKDv3WnwEYddHr5UFtiTLUvQ5pQr)
+<a href="https://psxcheatlist.tk/docs/donate-btc" target="_blank"><img src="https://img.shields.io/badge/Donate%20BTC-1AQrV5YKDv3WnwEYddHr5UFtiTLUvQ5pQr-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABcVBMVEUAAAD//wD/qgD/vwD/1AD/zAD/vwD/wwD+xgD+uw3/vwz+wgz+wQr+xAn+vAn+vwn+wQj+wAT+wQT+wgn+vwn+wAj+wQb+wgb/wAb+wAX+wQX+wgX+wAX+wQX+wAb/wQb+wQb+wAb+wQf+wQf+wAf+wAf/wQf+wQf+wQb+wAb+wQb+wAb+wAb+wQb+wAb+wAf+wAf+wQf+wQf+wQf+wAf+wQf+wAf+wQf+wQf+wAf+wAf+wAb+wAb+wQb+wQb+wAb+wAb+wQb+wQb+wAf+wAf+wQf+wQf+wAf+wAf/wQf/wgz/ww7/ww//wxD/xBL/xhr/xhv/xhz/xx7/yCP/ySf/yir/zTT/zTX/zTf/zjz/0Uf/0Uj/007/1lv/11//12D/2GH/2GL/2mn/2mv/3Xf/4IP/4Yb/4oj/4or/553/557/55//6KP/66z/663/8MH/8cX/887/9ND/9NH/9NL/9db/9tn/9tr/997/+OD/+OGNLM4BAAAASXRSTlMAAgMEBgoQERITFBUZGhscHTU2Nzg5U1RVVldYWlt3eHl6hIWGh4iRkpOWl5iam6usra6xs7bR0tPU1eHi4+Tl6uvs7e73+Pn6ME/sdQAAAZ5JREFUeAHd1FcT0kAQwPENGBVUCmJXigKCQRFBARGlBI61994Vey+i+fTeg7M5bvaS8ZXfA7OTuz9zMJODtRTJFpun3fnc7R0vbLcgTKpyDhWDchKCxI8K1IgjcTDaP0HGaB/wNhxDAycKDPskGrVt5vtpP6cVAZ16Hs/z/n0QBzQHkA/IHlixZRwWDGOgqqu7yZt76KuBIiW4QHp3mZ7PEuCroBaQt0hKQKyzWoDShZsLT7pNC2csCnYgE0gf5fgcSYaCoiF4JceXSPIUnDAEn+T4GEmDgh4XnL/1Wk7La0i6FLh6QP48Rd+YAmEKft5HhTAH5NtDNnDZH3312S/P+32XO1KXC6QXcvyApENB0xDckONX7m8tGIKLclwiyVGQNQQP5PgZSZoCa8AFV558l+OCFvoWkLIW+H5cp4VD4EsKQ/DlDj2fbgOFwwbvH10yvKIQC78ENsGKvWHBTtDUg4PDoIu2/vOqBLsdsN8GRtRBg2oEeLtHyBjuAqPNtRlqptWNECRR6qOif3ArhLEy+UZnIsTkVCOXtmAd/QVCJJYlhSwQOwAAAABJRU5ErkJggg==" alt="Donate with Bitcoin"></a>
 
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x2729F47611dC42758A2f918668E32f464e5d231B)](https://en.cryptobadges.io/donate/0x2729F47611dC42758A2f918668E32f464e5d231B)
+<a href="https://psxcheatlist.tk/docs/donate-eth" target="_blank"><img src="https://img.shields.io/badge/Donate%20ETH-0x2729F47611dC42758A2f918668E32f464e5d231B-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABelBMVEUAAAD///9/f/9///9/f/9/v7+Rttp/n7+UqtR/o9qZqt1vj7+lpeGZpdiQm92fqt+cpteDldOcpN6LktiGmtacqdehp9mdqdqKldKHltWhptqMldeep9ufqNidqNlyhMmKlNCfptuLmNKLldCgptmJlNGep9qfp9uKktKJldCdp9qeqNqIldGeqNmHlM+eqNp2hMqfp9qIlNCIktKfp9mfqNmHk9GGktGHk8+eqNqeqNmEks6fp9pxgMeFkdCUntWep9qfqNmFkNCeqNmEj8+EkM6eqNmfp9meqNqfqNlvfMeCjs+fqNqep9mBjc6fqNqBjM6eqNl3hcufp9mAjM5/jc2fp9p/is1pd8R+isx+is2fp9l8isyfp9p9iMxkc8N8iMyfqNl6iMt7h8uep9lca8Bda8BebsFfbsFhb8FjcMJndMRreMZufcdygcl3g8p4hst5hst5h8t6hst6h8t9ic2Bjs6GktCMl9KSnNWXoNebpdiep9qfqNrSYI+lAAAAZXRSTlMAAQICBAQHCAwODxARFBcYGh0fISYnKSouMTE6OjtER0hIS01RWVpdZ2hpanZ5fH+DhoiUlZaYp6iut7m7vL+/xMXGztPU1NXW4OHl5efr6+3u7/Dx8vP2+Pj4+Pv7/P39/f7+/sjDJJYAAAGcSURBVHjaxZNXU8JAFIWvBRF77xWxACqKIFbsXbE3EHuwlwt23f8umzUT4qRsnvjeksk3OSc5C+nD4QVT5K0el5oS/ATnwASNlwQTTuAmZ5EQxEMbt+AhVMAgcFIVYULCDlxkTBIm4E4Wl+AikoAB4KBkWxYuajmEYSILuMKxCZIqoNd4E0rBcCF+ohRwzmgT/4WE02gTSsFgIR7C+Pl8u314RkZQdxOU749XREG4un9ioez6m/h6f6GPCUlid4+6C3GJWZAhMMRkAa1NiFmUgphMYyETLItSYMm2VIXeMKoLws04qGIdOlUTrpfzQYuK2fh/IXbQDBp0VANAW0gpnPTRmwOqQu68r1CuIoWnrw0XgSp1kXW3RarCwotXiXbQwE3IQutfFTE8e9+Q/vEcYVVY+JDBMS1YShpRWkX+ZkfloENDlCRJqYLxLtClhwq0ivTfR0GfzDHlidvIBgOK11KF0xowpOksRegGDvplYRp4sExJwq4VuCjbZMJFPXDiYIIXuPFRYRb4yZkhuG8DE1TunbeAKToHIU38AvDdAK0PhKloAAAAAElFTkSuQmCC" alt="Donate with Ethereum"></a>
 
-[![Donate with Ripple](https://en.cryptobadges.io/badge/small/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)](https://en.cryptobadges.io/donate/rJJsXCkzYwMKcnCZN3fVgrxeitYKpEcRZX)
+<a href="https://kutt.it/psxcheatlist-altcoin" target="_blank"><img src="https://img.shields.io/badge/Donate%20ALT-Changelly-lightgrey.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAB7FBMVEUAAAD/AAD/fwD/VQD/fwD/ZgD/fwD+bQD/XwD+cQD/ZgD+cwD/agD+bQD/aQD+awD/cgD+bQD+cwD+bgD+awD+bQD+cgD/bgD+bAD+bQD+cQD+cgD+bwD/bAD+cAD+bgD+bgD+bAD+cAD+bgD+cQD+bwD+bQD+bwD+bQD+cAD/cAD+bQP+bwP/bwD+bwD+bgD+bgP+cAD+cAP+bgD+bgD+bgL/bwD+bwD+bgD+cAD+bwD/bgD+bwD+bgD+bgD+bgL+cQD+bwD+bgD+bgD+bwD+bgD+bQD+bgD+bwD/bgD+bwD+bgD+bwD+bgD+bgH+bgD+bgD+bwH+bwD/bgD+bwD+bgH+bwD+bwH+bwD+bgH+bwH+bgD+bwD+bgD+bwD+bwD+bwH+bwD+bgD+bwD/bwD+bwD+bwH+bwD+bgD+bwD+bgD+bgH+bwD+bwD+bgD+bgL+bwL+bgL+bwD+bwD+bgL+bwD+bgD/bwL+bgD+bwL+bwD+bgD+bgD+bwL+bgL+bwD+bgD+bwD+bgD+bwD+bgD+bwD+bgD+bwD+bwL+bwD+bwL+bwD+bgD+bwD+bgL+bwD+bgD+bwD+bgD+bgL+bwD+bwL+bwD+bgD+bwD+bgD+bwD+bwD+bwL+bgD+bgD+bwD+bwL/bwD/bwH/bwJY0/0ZAAAAoXRSTlMAAQIDBAUGBwgJCgsMDhETFBUWFxocHR4hIyQmJygrLC4vMjU2Nzg5Oj1ESElQUlNTVFRaXF9gYmNkZWZnaGpqbG5vcXJzdHZ3eHl6foGBg4SFh4iJiouLjI+QlJmanJ6io6apqqysrq+wtLa3ucHBw8TFx8nKy8zNztDS1NXW19na29zd3uLl5efn6Onq6+zt7u/v8fHz9PX29/j4+fv+/rHav24AAAJFSURBVHgB3dT7N5RfFAbwZ77m+2IGebsTCUXTpaTQZUqlC12ULopUoiQqXaimortB0kikxpQz5x9tn7HmdM7MWe/42ee3Z+1ncWb2XoMlKa381J1Xk5Hw1wE/FmH1xSCLO4OUcq9H2D/bkcruEFOtBTD0vOty7dbCdBhYN1jM9459pfb/3nU+F4BeHjM/8qi9sQIaz30mvK3JhKKJS1NlUFmx/uxxNzSVsj9RAk3sPe+KkCCPL4iOJYz2MPLCRiLXNBcYOwyNHaL+exvJ+sSfp+GXFVC1ifcXwaCVkz80boNijdjXCZhUUX+wmcY/1X9xSXyfbpgUcx6wrWEqnIOUFqRcAyP3XH8OUEeFURfiNov9emDWkg0ga4YqGxB3mlIHHPVQpU6mu5T2wtFRqnTL9JrSRjgSr34m0ySlZXCUT5VhmcQWLDjyUCUs029KHjhKF6cg0zdK+XCUS5Vx7UOXw1E5VQZk6qZ0BI78VLmlLa4HjjqpckgmnzhGL4DsFph5f1ClQMa08YXF5/TPuWF0gAovlXyVcjDDDnBeDBPrIxWOqXsUm2ge5JxXwaSBxqGspN8MTlphUCZOoR6qleKcopzzPiRb9ZmGb9KhOSn6ZNqV3Bd7jZRCUzQWpb6Ql3TYo4wchKZkgsdVQmM1hBm5AE3ZFJeaoMja/4kJ513QVDS2Px6Z5zG9YpG+Aq+1fJO/c4YJs9UwySjcVnulKzAEoICpnq5HKruU+ofq/5DS2Xj7170dbizCzmu3Hz55cLN+SyaWpL8IlzEvd+seVgAAAABJRU5ErkJggg==" alt="Donate with Altcoin"></a>
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate%20USD-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3EPELN3KBGBXU&lc=LK&item_name=PS4%20Cheat%20List%20%2d%20Donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+<a href="https://psxcheatlist.tk/docs/donate-cpu" target="_blank"><img src="https://img.shields.io/badge/Donate%20CPU-Hash%20Power-yellow.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAATlBMVEUAAABLs0tIrVFPr09LrFJNsU1LrFJLr09MrlBLrlBMr09Lr09Mr09MrlBMr09MrlBLrlBLr083R085Uk86U09GkVBGklBHkk9Mr1D/mADwB1MGAAAAEnRSTlMAGxwdIiQlqausrezt7vDx8vMwruWlAAAAkElEQVR42t2VORKAIBAExRs8QFDB/39UjSydcikNRO2EZDqYLVii/zEtwPkdIeHKnaBEjvm4dgQVA6F0JAUIHS1IEJyHywIM0yesmTDCYPQOY3cCljb6QO+ZkgYeFrA0ClD6VcILx3rjamBp2x/yY+j3QAuPbI0NdXWRCVrgIOTkMm7SCGCFPIu3PPv6H/c7Zq0SawMmVeF2AAAAAElFTkSuQmCC" alt="Donate with CPU Power"></a>
 
-[![Donate with CPU Power](https://img.shields.io/badge/Donate%20CPU-Hash%20Power-green.svg)](https://psxcheatlist.tk/docs/donate-cpu)
+<a href="https://www.patreon.com/JDsnyke" target="_blank"><img src="https://img.shields.io/badge/Donate%20USD-Patreon-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAclBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACa4vOeAAAAJXRSTlMACw0TFBUWQEFCT1FSVHR3eX+BgoOvsLGys83Oz9Dv8PHy9P3+S3hGxwAAAI5JREFUeNq10G0PgiAUBeAgDJLMUuxFTb3G+f9/sQ3HdmV9aKvOJ+DZLrtn89MAQDhkrpvnzqkUCkLIeFhD4dFoIXQDbznsCMflXmJSDBwucfYNFYMHdASDngFBRJCgT6CHeT+q5p+fGWQTyuX9hHHLF7QeVyPl/o5nvq7EDggZ8rREVbdEbZWUyPIl/DMvojUUykSbJ9sAAAAASUVORK5CYII=" alt="Donate with Patreon"></a>
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=3EPELN3KBGBXU&amp;lc=LK&amp;item_name=PS4%20Cheat%20List%20%2d%20Donation&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" target="_blank"><img src="https://img.shields.io/badge/Donate%20USD-PayPal-green.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABuVBMVEUAAAAA//8Af/8Af78AkdoAn98fX78cccYAmeUAlOkVar8OY8YAneYAnOETYsQSZL8AnuQAnOYYYr0AmOESY8AFnOcUZL4Em+UEmuUEnOYUZsEDnOMTZMEWZb8UZcADmeQDmuUDmeYVZb4VZL8CnOYVZL8UZcAVZMECmuQCm+UVZcAVZL8DmuUDmuQDmuUVZb8UZL8VZL8UZcADm+QDmuQCm+UUZMACm+QUZb8VZMACm+QUZb8ZXbMCm+UCmuUZXLIdUKgeTKUhR6MiQZ4JidoGj94LftIScMIfSaYUZcACmuUcUKwlPJkkOpcCmuQNec4Cm+QEleEJitgUZMAUZb8lO5gCm+UmN5YCmuQKhNMDmuQmOpYDmOMYWLQlOJUmOJURb8gUZcADm+UKidcDm+QKi9gYXLgDmuQUZcAJjNkDmuUDm+UVZcADm+UVZL8YXroDmuQUZMAnNpInNZQHkNsnNZMnNZQUZMADmuUSacInNZMDmuUVZMADmuUVZb8FluEDm+QUZL8nNZIDmuUoNJIEmeQoNZMEmeMEmOQVZL8VZMAWY74nNJMDmuQVZcAVZMADm+UVZcAoNZNPNQX1AAAAkHRSTlMAAQIEBwgICQoMDBIVGhocHR8fIyksMzs9Pj5BQkRJTlFTU1RdYGJrdXZ2gYSJjI2VmKOkpausrq60uLq8vb6/v7/AwMHCw8PDxMbHx8jLzM3NztDR0dLS09XW1tfX19rb29zc39/f4ODh4uPj5ubm5+fn6Onq6uvt7e3v8PHy9PX19ff3+Pj5+vr7+/v8/P2rrLy+AAABaUlEQVR4Ae3UVXcTYRjE8SEIBHeH4O4Q3D3B3QXq7u7u7fPuJ64kc7rP7rt7tqe3+V3P/3aQszArPhq30Zobx1YizG7jU7wPIU4Zv5FDIcFVY9G5GYHKjc0FBNlgrJoQ5LCxW48A57kobHXcvhVdTiyBRYrBQ0cpEJHXW+CztIfBK7UfH5YZzdvgtd1Qgwo+yZzvy+FxnPsqR7knGUfgcYnBC7Xvrc8GN+Hxj8EjFdyXrHxoawx9ce//dDHog7af+7F+1742T6gU2mkGv1z73yVCkoZ2i8FzhxpvD8m8c1Bi7Qxezm4H6348eDYgbjuhbDX0Xqw+x6Ac5b5F7A5Cu8jgjVhdgccHBo/FJh2HtnqSwTuxSK6Cx17upzrE52si5GH+itL2/86ZHbC4zuApp90bEaaSwRMGdxEqxeAng7OIJD7B4AAi2SO0DpGc5L4M0VxjkEQ01QxOIJJNQrsQydoKyXi7DIuRMw0c/thXRW0uEwAAAABJRU5ErkJggg==" alt="Donate with PayPal"></a>
 
 ## License
 

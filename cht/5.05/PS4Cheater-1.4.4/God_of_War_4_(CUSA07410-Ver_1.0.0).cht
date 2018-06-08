@@ -1,0 +1,38 @@
+1.4|eboot.bin|ID:CUSA07410|VER:01.00|FM:505
+data|364|5473C8|float|0|1|Health|1146B473C8
+data|363|547428|float|180|0|Rage|1146B47428
+data|335|2FBE3E0|4 bytes|30|0|Soft Svartalfheim Steel|10831BE3E0
+data|335|2FBF060|4 bytes|0|0|Fog / Mist Echoes|10831BF060
+data|335|2FBDAA0|4 bytes|985462|0|Hacksilver|10831BDAA0
+data|335|2FBD8E0|4 bytes|85426|0|XP|10831BD8E0
+data|335|2FBE720|4 bytes|30|0|Cold Mist of Nilfhelm|10831BE720
+data|335|2FBE4A0|4 bytes|0|0|Frost / Frozen Flame|10831BE4A0
+data|335|2FBF0A0|4 bytes|0|0|Nielfhelm Recumbent / Alloy|10831BF0A0
+data|335|2FBF160|4 bytes|0|0|Ivalddis Rusty Armor|10831BF160
+data|335|2FBF0E0|4 bytes|0|0|Dunst Mesh / Haze Wave|10831BF0E0
+data|335|2FBF120|4 bytes|0|0|Ashes - Asenfluch / Aesirbane |10831BF120
+data|335|2FC18A0|4 bytes|30|0|Overlapping Resurrection Stone|10831C18A0
+data|335|2FC18A0|4 bytes|30|0|Surviving Resurrection Stone|10831C18A0
+data|335|2FBE5E0|4 bytes|0|0|Chaos Flame|10831BE5E0
+data|335|2FBEE20|4 bytes|0|0|Smoldering Embers|10831BEE20
+data|335|2FBDE20|4 bytes|0|0|Aegis Gold|10831BDE20
+data|335|2FBE420|4 bytes|0|0|Solid Steel|10831BE420
+data|335|2FBE7E0|4 bytes|30|0|World Serpent Scale Fragment|10831BE7E0
+data|340|2FBEE60|4 bytes|4294967295|0|Crest of Flame|10831BEE60
+data|340|2FBEEA0|4 bytes|4294967295|0|Greater Crest of Flame|10831BEEA0
+data|339|2FC1760|4 bytes|1000|0|Corrupted Remnant|10831C1760
+data|339|2FC1F60|4 bytes|1000|0|Apples|10831C1F60
+data|339|2FBF1A0|4 bytes|5|0|Mist Archor|10831BF1A0
+data|339|2FBE7A0|4 bytes|1000|0|Dust Of Realms|10831BE7A0
+data|339|2FBEC20|4 bytes|1000|0|Perfect Asgard Steel|10831BEC20
+data|339|2FBE9A0|4 bytes|1000|0|Asgard Steel|10831BE9A0
+data|363|54BD14|float|500|0|Strength|1146B4BD14
+data|363|551BF4|float|500|0|Strength|1146B51BF4
+data|363|551BFC|float|500|0|Defense|1146B51BFC
+data|363|54BD1C|float|500|0|Defense|1146B4BD1C
+data|363|551C00|float|500|0|Vitality|1146B51C00
+data|363|54BD20|float|500|0|Vitality|1146B4BD20
+data|363|54BD18|float|500|0|Runic|1146B4BD18
+data|363|551BF8|float|500|0|Runic|1146B51BF8
+data|363|551C04|float|500|0|Luck|1146B51C04
+data|363|54BD24|float|500|0|Luck|1146B4BD24

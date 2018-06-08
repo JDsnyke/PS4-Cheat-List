@@ -1,0 +1,12 @@
+1.4|eboot.bin|ID:CUSA02624|VER:01.23|FM:455
+data|3|6A9F698|2 bytes|99|0|Starter Pistol Ammo|36EDB698
+data|3|6AB5EB4|4 bytes|1000000|0|Money|36EF1EB4
+data|3|68272D8|4 bytes|5000|1|Zombie/Nightmare/Dead Ops Health|36C632D8
+data|3|6A9F6A0|2 bytes|99|0|Mark 2 Raygun Ammo|36EDB6A0
+data|3|6A9F6A4|2 bytes|3|0|Gursh Device|36EDB6A4
+data|3|6A9F6A0|2 bytes|99|0|BRM Ammo|36EDB6A0
+data|3|6A9F6A0|2 bytes|99|0|Thunder Gun Ammo|36EDB6A0
+data|3|64BE92C|4 bytes|10|0|Fake Round Skip (FOR SHOW)|368FA92C
+data|3|6A9F69C|2 bytes|99|0|Nightmare Primary Ammo|36EDB69C
+data|3|6A9F694|4 bytes|3|0|Nightmare Grenades|36EDB694
+data|3|6A9F698|4 bytes|3|0|Nightmare Frag Grenades|36EDB698
