@@ -2481,6 +2481,16 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     44 4177F24 (4 bytes) 1 301977F24
     ```
 
+* __Ni no Kuni II Revenant Kingdom__ (CUSA09243- Firm 5.05 - PS4Cheater 1.4.5)
+
+    ```
+    ## Guilders (Copy below code into notepad(text) file, save with .cht extension - Load file on PS4 cheater, click refresh, your guilders will show in the value column, change as you desire, go out of the menu then came back in to see the changes)
+
+    1.4|eboot.bin|ID:CUSA09243|VER:01.00|FM:505
+    data|38|32E7840|4 bytes|99999999|0||244367840
+
+    ```
+
 * __NBA 2K17__ (CUSA05040 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-84#post-94028) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/NBA_2K17_(CUSA05040-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/nba-2k17)
 
     ```
