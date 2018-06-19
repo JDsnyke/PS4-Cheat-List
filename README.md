@@ -2916,7 +2916,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     44 4177F24 (4 bytes) 1 301977F24
     ```
-
+    
 * __MX vs ATV : All Out__ (CUSA06877 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.4) [[1]](Update from Discord on 11.06.2018 @ 6.07 AM in #cheats by Fubc) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/MX_vs_ATV_All_Out_(CUSA06877-Ver_1.0.0).cht)
 
     ```
@@ -2995,7 +2995,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     pointer (4 bytes) @454034C0_1_7B4C0+98+518+340+1E0+348+8+C0+88+3B0 0
     ```
 
-* __Ni No Kuni 2 : Revenant Kingdom__ (CUSA09243 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.4) [[1]](Update from Discord on 07.06.2018 @ 8.47 PM in #cheats by Piff the Magic DragoSNEK) [[2]](Update from Discord on 09.06.2018 @ 7.16 PM in #cheats by dxbline) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/Ni_No_Kuni_2_Revenant_Kingdom_(CUSA09243-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/ni-no-kuni-2-revenant-kingdom)
+* __Ni No Kuni 2 : Revenant Kingdom__ (CUSA09243 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.4 and 1.4.3) [[1]](Update from Discord on 07.06.2018 @ 8.47 PM in #cheats by Piff the Magic DragoSNEK) [[2]](Update from Discord on 09.06.2018 @ 7.16 PM in #cheats by dxbline) [[3]](https://github.com/ZeeshiGN) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/Ni_No_Kuni_2_Revenant_Kingdom_(CUSA09243-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/ni-no-kuni-2-revenant-kingdom)
 
     ```
     [1]
@@ -3027,7 +3027,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ```
 
     ```
-    [2]
+    [2] [3]
 
     ## Money KG
 
