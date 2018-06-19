@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:CUSA07023|VER:01.03|FM:505
+data|3|3000FC|4 bytes|60|0|Infinite Life|A440FC
+data|3|300108|4 bytes|99|0|Infinite Silver Medals|A44108
+data|16|12604|4 bytes|32|0|Infinite Rings|200036604
