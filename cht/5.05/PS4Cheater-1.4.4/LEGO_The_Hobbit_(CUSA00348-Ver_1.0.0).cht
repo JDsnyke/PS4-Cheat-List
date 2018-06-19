@@ -1,0 +1,35 @@
+1.4|eboot.bin|ID:CUSA00348|VER:01.00|FM:505
+data|2|1C5B18|4 bytes|99999999|0|money|2119B18
+data|22|7F37170|4 bytes|99999999|0|money|230337170
+data|20|4EAFC58|4 bytes|999|0|stone|21D2AFC58
+data|20|4EAFC5C|4 bytes|999|0|stone|21D2AFC5C
+data|20|4EAFB08|4 bytes|999|0|wood|21D2AFB08
+data|20|4EAFB0C|4 bytes|999|0|wood|21D2AFB0C
+data|20|4EAFB78|4 bytes|999|0|leather|21D2AFB78
+data|20|4EAFB7C|4 bytes|999|0|leather|21D2AFB7C
+data|20|4EAF9B8|4 bytes|999|0|blue stone|21D2AF9B8
+data|20|4EAF9BC|4 bytes|999|0|blue stone|21D2AF9BC
+data|20|4EAFD38|4 bytes|999|0|bread|21D2AFD38
+data|20|4EAFD3C|4 bytes|999|0|bread|21D2AFD3C
+data|20|4EAFE18|4 bytes|999|0|fish|21D2AFE18
+data|20|4EAFE1C|4 bytes|999|0|fish|21D2AFE1C
+data|20|4EAFCC8|4 bytes|999|0|Carrot|21D2AFCC8
+data|20|4EAFCCC|4 bytes|999|0|Carrot|21D2AFCCC
+data|20|4EAFBE8|4 bytes|999|0|Rope|21D2AFBE8
+data|20|4EAFBEC|4 bytes|999|0|Rope|21D2AFBEC
+data|20|4EAF868|4 bytes|999|0|Silver|21D2AF868
+data|20|4EAF86C|4 bytes|999|0|Silver|21D2AF86C
+data|20|4EAF8D8|4 bytes|999|0|gold|21D2AF8D8
+data|20|4EAF8DC|4 bytes|999|0|gold|21D2AF8DC
+data|20|4EAFDA8|4 bytes|999|0|chicken|21D2AFDA8
+data|20|4EAFDAC|4 bytes|999|0|chicken|21D2AFDAC
+data|20|4EAF788|4 bytes|999|0|copper|21D2AF788
+data|20|4EAF78C|4 bytes|999|0|copper|21D2AF78C
+data|20|4EAF7F8|4 bytes|999|0|iron|21D2AF7F8
+data|20|4EAF7FC|4 bytes|999|0|iron|21D2AF7FC
+data|20|4EAFA28|4 bytes|999|0|emerald|21D2AFA28
+data|20|4EAFA2C|4 bytes|999|0|emerald|21D2AFA2C
+data|20|4EAF948|4 bytes|999|0|ruby|21D2AF948
+data|20|4EAF94C|4 bytes|999|0|ruby|21D2AF94C
+data|20|4EAFA98|4 bytes|999|0|diamond|21D2AFA98
+data|20|4EAFA9C|4 bytes|999|0|diamond|21D2AFA9C

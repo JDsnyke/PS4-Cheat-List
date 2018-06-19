@@ -1,0 +1,17 @@
+1.4|eboot.bin|ID:CUSA09243|VER:01.00|FM:505
+data|38|32E7840|4 bytes|9840055|0|ammount of G|244367840
+data|38|37A7148|4 bytes|99|0|level of one of the characters|244827148
+data|38|358DC3C|4 bytes|99|0|level of one of the characters|24460DC3C
+data|38|358CE3C|4 bytes|99|0|level of one of the characters|24460CE3C
+data|38|358C03C|4 bytes|99|0|level of one of the characters|24460C03C
+data|38|331B2D0|4 bytes|99|0|level of one of the characters|24439B2D0
+data|38|331B088|4 bytes|99|0|level of one of the characters|24439B088
+data|38|331AE40|4 bytes|99|0|level of one of the characters|24439AE40
+data|38|3A014BC|4 bytes|9648410|0|ammount of KG|244A814BC
+data|38|32E7844|4 bytes|9648410|0|ammount of KG|244367844
+data|38|3A014C0|4 bytes|9904|0|ammount of ToG|244A814C0
+data|38|32E7848|4 bytes|9904|0|ammount of ToG|244367848
+data|38|2EF68D8|4 bytes|9904|0|ammount of ToG|243F768D8
+data|38|32E7844|4 bytes|99999999|1|Money KG|244367844
+data|38|32E7840|4 bytes|99999999|1|Money G|244367840
+data|38|32E7848|4 bytes|99999999|1|TOG|244367848

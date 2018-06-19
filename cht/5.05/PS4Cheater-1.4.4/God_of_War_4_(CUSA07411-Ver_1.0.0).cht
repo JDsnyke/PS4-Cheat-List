@@ -1,0 +1,34 @@
+1.4|eboot.bin|ID:CUSA07411|VER:01.00|FM:505
+data|359|54BD14|float|500|1|Fuerza|1146B4BD14
+data|359|551BF4|float|500|1|Fuerza|1146B51BF4
+data|359|551BFC|float|500|1|Defensa|1146B51BFC
+data|359|54BD1C|float|500|1|Defensa|1146B4BD1C
+data|359|551C00|float|500|1|Vitalidad|1146B51C00
+data|359|54BD20|float|500|1|Vitalidad|1146B4BD20
+data|359|54BD18|float|500|1|Runico|1146B4BD18
+data|359|551BF8|float|500|1|Runico|1146B51BF8
+data|359|551C04|float|500|1|Suerte|1146B51C04
+data|359|54BD24|float|500|1|Suerte|1146B4BD24
+data|359|54BD28|float|500|1|Reutilizacion|1146B4BD28
+data|359|551C08|float|500|1|Reutilizacion|1146B51C08
+data|335|2FBD8E0|4 bytes|999999|1|Exp|10831BD8E0
+data|335|2FBDAA0|4 bytes|999999999|1|Dinero|10831BDAA0
+data|359|5473C8|float|500|1|Vida|1146B473C8
+data|359|866198|float|500|1|Vida|1146E66198
+data|359|547428|float|100|1|Furia|1146B47428
+data|335|2FC1F60|4 bytes|9|0|Manzanas|10831C1F60
+data|378|1E74278|float|40|0|Flechas|1183E74278
+data|335|2FBE4A0|4 bytes|5|0|Llamas Heladas|10831BE4A0
+data|335|2FC1760|4 bytes|500|0|corrupted remnant|10831C1760
+data|335|2FBDE20|4 bytes|4943|0|aegir's gold|10831BDE20
+data|335|2FBE7E0|4 bytes|4725|0|Serpent Scale|10831BE7E0
+data|335|2FBEE60|4 bytes|2|0|crest of flame|10831BEE60
+data|335|2FBF120|4 bytes|2|0|aerisbane|10831BF120
+data|335|2FBF0A0|4 bytes|2|0|niflheim alloy|10831BF0A0
+data|335|2FBEEA0|4 bytes|2|0|greater crest of flame|10831BEEA0
+data|335|2FBEE20|4 bytes|2|0|smouldering ember|10831BEE20
+data|335|2FBF0E0|4 bytes|2|0|haze wave|10831BF0E0
+data|335|2FBF060|4 bytes|2|0|mist echo|10831BF060
+data|335|2FBEC20|4 bytes|2|0|perfect asgard steel|10831BEC20
+data|335|2FBE9A0|4 bytes|2|0|asgard steel|10831BE9A0
+data|335|2FBF1A0|4 bytes|2|0|mist anchor|10831BF1A0

@@ -1,0 +1,10 @@
+1.4|eboot.bin|ID:CUSA06740|VER:01.00|FM:505
+data|27|28514BC|4 bytes|9999999|1|Gold|25BD654BC
+data|30|17FAC3C|float|1000|1|Health Hero 1|272D0EC3C
+data|30|17FAF4C|float|1000|1|Health Hero 2|272D0EF4C
+data|30|17FB25C|float|1000|1|Health Hero 3|272D0F25C
+data|30|17FB56C|float|1000|1|Health Hero 4|272D0F56C
+data|30|17FAC60|float|1000|1|Mana Hero 1|272D0EC60
+data|30|17FAF70|float|1000|1|Mana Hero 2|272D0EF70
+data|30|17FB280|float|1000|1|Mana Hero 3|272D0F280
+data|30|17FB590|float|1000|1|Mana Hero 4|272D0F590

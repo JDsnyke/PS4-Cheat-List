@@ -1,0 +1,12 @@
+1.4|eboot.bin|ID:CUSA10053|VER:01.00|FM:505
+data|16|8E6D4|2 bytes|9999|0|Inf Health|2000B26D4
+data|16|8E6DC|float|7000|0|Inf Aura|2000B26DC
+data|16|8E6D1|byte|99|0|Max Level Up|2000B26D1
+data|16|8E708|2 bytes|99|0|Inf Grey Points|2000B2708
+data|16|8E70C|2 bytes|99|0|Inf Green Points|2000B270C
+data|16|8E710|2 bytes|99|0|Inf Yellow Points|2000B2710
+data|16|8E70E|2 bytes|99|0|Inf Orange Points|2000B270E
+data|16|8E70A|2 bytes|99|0|Inf Blue Points|2000B270A
+data|16|93E20|4 bytes|999999999|0|Inf Poker Fish|2000B7E20
+data|16|93E08|4 bytes|999999999|0|Inf Money|2000B7E08
+data|16|93E58|4 bytes|999999999|0|Inf Arena Points|2000B7E58
