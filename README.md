@@ -2,7 +2,7 @@
 
 [![GitHub watchers](https://img.shields.io/github/watchers/JDsnyke/PS4-Cheat-List.svg?style=social&label=Watch)](https://github.com/JDsnyke/PS4-Cheat-List/subscription) [![GitHub stars](https://img.shields.io/github/stars/JDsnyke/PS4-Cheat-List.svg?style=social&label=Stars)](https://github.com/JDsnyke/PS4-Cheat-List/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JDsnyke/PS4-Cheat-List.svg?style=social&label=Fork)](https://github.com/JDsnyke/PS4-Cheat-List/fork)
 
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://status.psxcheatlist.tk) [![Site Backup](https://img.shields.io/badge/backup-up-green.svg)](https://backup.psxcheatlist.tk) [![Site Backup status](https://img.shields.io/badge/backup-ok-green.svg)](https://backup.psxcheatlist.tk) [![Site changelog status](https://img.shields.io/badge/changelog-ok-green.svg)](https://changelog.psxcheatlist.tk)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://status.psxcheatlist.tk) [![Site Backup status](https://img.shields.io/badge/backup-ok-green.svg)](https://backup.psxcheatlist.tk) [![Site changelog status](https://img.shields.io/badge/changelog-ok-green.svg)](https://changelog.psxcheatlist.tk)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
@@ -165,7 +165,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
 > Tip - cht files can be found [here](https://github.com/JDsnyke/PS4-Cheat-List/tree/master/cht/) or next to specific game titles
 
-> Remember - cht file posters are not always the original offset finders 
+> Remember - cht file posters are not always the original offset finders
 
 * __Akiba's Trip : Undead & Undressed__ (CUSA01166 - Ver 1.0.0 - Firm 4.55 - PS4Cheater 1.4.3) [[1]](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/page-79#post-91104) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Akibas_Trip_Undead_&_Undressed_(CUSA01166-Ver_1.0.0).cht) [[Wiki Guide]](http://www.ign.com/wikis/akibas-trip-undead-undressed)
 
