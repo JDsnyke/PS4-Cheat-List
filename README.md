@@ -9,6 +9,24 @@
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
 ```
+## Announcement
+
+I would like to announce that by 15th July 2018, I will no longer maintain the PS4 Cheat List.
+
+This is due to my increasing real world obligations, such as university studies and work.
+
+The site and repo will still be online for those who need it, long past this date.
+
+If you would like to continue maintaining the list, please PM me on Discord, and I will provide you with collaborator access on GitHub.
+
+All that's required is to update the README.md and add the relevant CHT files on the GitHub repo. The site will automatically update to reflect those changes.
+
+Again, I apologize for this occurring and would like to take this moment to say that this project would not have been possible without several good people and this awesome community.
+
+Thank you for your time and effort Everyone!
+```
+
+```
 Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
 ```
 
@@ -2916,7 +2934,7 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
 
     44 4177F24 (4 bytes) 1 301977F24
     ```
-    
+
 * __MX vs ATV : All Out__ (CUSA06877 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.4) [[1]](Update from Discord on 11.06.2018 @ 6.07 AM in #cheats by Fubc) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.4/MX_vs_ATV_All_Out_(CUSA06877-Ver_1.0.0).cht)
 
     ```
