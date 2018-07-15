@@ -1,0 +1,3 @@
+1.4|eboot.bin|ID:CUSA05847|VER:01.00|FM:505
+simple pointer|pointer|4 bytes|@6A9E958_3_302958+70+38+10+18+58+18+78+30|data|4 bytes|889|0|P1 Skill Points|
+simple pointer|pointer|4 bytes|@67DA3F8_3_3E3F8+40+0+318+20+0+58+4C|data|4 bytes|990724|0|P1 Money|

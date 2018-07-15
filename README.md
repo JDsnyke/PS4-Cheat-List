@@ -17,13 +17,21 @@ This is due to my increasing real world obligations, such as university studies 
 
 The site and repo will still be online for those who need it, long past this date.
 
-If you would like to continue maintaining the list, please PM me on Discord, and I will provide you with collaborator access on GitHub.
+If you would like to continue maintaining the list and are confident with your abilities, please PM me on Discord (Animated2Monkey#2949), and I will provide you with collaborator access on GitHub.
 
 All that's required is to update the README.md and add the relevant CHT files on the GitHub repo. The site will automatically update to reflect those changes.
 
 Again, I apologize for this occurring and would like to take this moment to say that this project would not have been possible without several good people and this awesome community.
 
 Thank you for your time and effort Everyone!
+```
+
+```
+## Future Updates
+
+To stay in the loop and get the latest cht file updates, sign up with the 'PS4 Source Discord' group!
+
+(https://discord.gg/FpRwaZE)
 ```
 
 ```
@@ -209,6 +217,74 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     2 2AB7C (4 bytes) 0 AB2B7C
     ```
 
+* __Assassins Creed : Origins__ (CUSA05625 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.5) [[1]](Update from Discord on 14.06.2018 in #game-enhancements by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.5/Assassins_Creed_Origins_(CUSA05625-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/assassins-creed-origins)
+
+    ```
+    Notes :
+
+    Inf HP
+
+    (Is very unstable and not working every time, try to reboot your game / Ps4)
+
+    ExP
+
+    (if you set the EXP like 9999 you get Automatic the level up but no Skill points, but no problem you can go to every level back you have to set the exp back)
+
+    Skill Point
+
+    (If you want Skill points set your exp 999 lock it then kill an enemy then you get a level up, every level up you get 1 Skill point so, your earn after every killed enemy 1 Skill point)
+    ```
+
+    ```
+    P1 HP
+
+    pointer (4 bytes) @7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4 0
+
+    P2 HP
+
+    pointer (4 bytes) @7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4 0
+
+    P3 HP
+
+    pointer (4 bytes) @7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4 0
+
+    P4 HP
+
+    pointer (4 bytes) @7997068_3_9E7068+18+8+5D8+18+30+8+48+30+18+D4 0
+
+    P1 EXP
+
+    pointer (4 bytes) @7892198_3_8E2198+D8+160+10+158+BE8+168+0+114 0
+
+    P2 EXP
+
+    pointer (4 bytes) @7B54AF0_3_BA4AF0+168+0+114 0
+
+    P3 EXP
+
+    pointer (4 bytes) @7892198_3_8E2198+D8+160+10+158+BE8+168+0+114 0
+
+    P4 EXP
+
+    pointer (4 bytes) @7B54AF0_3_BA4AF0+168+0+114 0
+    ```
+
+* __Assassins Creed : Origins__ (CUSA05855 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.5) [[1]](Update from Discord on 14.06.2018 in #game-enhancements by Ryan-Stock) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.5/Assassins_Creed_Origins_(CUSA05855-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/assassins-creed-origins)
+
+    ```
+    ## Money
+
+    295 1A0AF0 (4 bytes) 0 260D60AF0
+
+    ## Arrows
+
+    295 1A0AB0 (byte) 0 260D60AB0
+
+    ## Hunter Arrows
+
+    295 1A0AD0 (byte) 0 260D60AD0
+    ```
+
 * __Atelier Sophie : The Alchemist of the Mysterious Book__ (CUSA05034 - Ver 1.0.1 - Firm 4.55 - PS4Cheater 1.4.2) [[1]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-18#post-85386) [[2]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-19#post-85614) [[3]](https://www.psxhax.com/threads/ps4-cheat-list-listing-of-ps4-cheat-codes-offsets-on-github.4737/page-22#post-86120) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.2/Atelier_Sophie_MB_(CUSA05034-Ver_1.0.1).cht) [[Wiki Guide]](https://www.ign.com/wikis/atelier-sophie-the-alchemist-of-the-mysterious-book)
 
     ```
@@ -259,6 +335,26 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ## Plachta Max All
 
     3 9E798 (hex) 3F420F00E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E7030000E703 0 629BE798
+    ```
+
+* __Atelier Firis : The Alchemist and the Mysterious Journey__ (CUSA07581 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.5) [[1]](Update from Discord on 14.06.2018 in #game-enhancements by Ryan-Stock) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.5/Atelier_Firis_(CUSA07581-Ver_1.0.0).cht)
+
+    ```
+    ## Money
+
+    3 89348 (4 bytes) 0 12FD348
+
+    ## Idea Points
+
+    3 13B4C (4 bytes) 0 1287B4C
+
+    ## Item 7 ?
+
+    3 1AA1D (byte) 1 128EA1D
+
+    ## LP
+
+    3 8BB60 (byte) 1 12FFB60
     ```
 
 * __Batman Arkham Knight__ (CUSA00135 - Ver 1.1.4 - Firm 4.55 - PS4Cheater 1.4.3 R1) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-9#post-88698) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.4.3/Batman_Arkham_Knight_(CUSA00135-Ver_1.1.4).cht) [[Wiki Guide]](https://www.ign.com/wikis/batman-arkham-knight)
@@ -1388,6 +1484,20 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     pointer (4 bytes) @44AF8508_3_9C508+18+0+38+18+0+5C 0
     ```
 
+* __Far Cry 5__ (CUSA05847 - Ver 1.0.0 - Firm 5.05 - PS4Cheater 1.4.5) [[1]](Update from Discord on 14.06.2018 in #game-enhancements by Weysincha) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.5/Far_Cry_5_(CUSA05847-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/far-cry-5)
+
+    ```
+    ## Skill Points
+
+    (After setting the new value spend some skill Points or gain new skill points to get the change)
+
+    pointer (4 bytes) @6A9E958_3_302958+70+38+10+18+58+18+78+30 0
+
+    ## Money
+
+    pointer (4 bytes) @67DA3F8_3_3E3F8+40+0+318+20+0+58+4C 0
+    ```
+
 * __FIFA 15__ (CUSAXXXXX - Ver X.X.X - Firm X.XX - NetCheatPS4) [[1]](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/page-9#post-63548) [[Wiki Guide]](https://www.ign.com/wikis/fifa-15)
 
     ```
@@ -1623,6 +1733,37 @@ Feel free to [Fork](https://github.com/JDsnyke/PS4-Cheat-List/fork) and maintain
     ## XP
 
     pointer (4 bytes) @728AEB18_3_78AB18+20+8+8+8+50+1C8+10+6B0 1
+    ```
+
+* __Final Fantasy XV__ (CUSA01615 - Ver 1.0.0 ? - Firm 5.05 - PS4Cheater 1.4.5) [[1]](Update from Discord on 14.06.2018 in #game-enhancements by Ryan-Stock) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/5.05/PS4Cheater-1.4.5/Final_Fantasy_XV_(CUSA01615-Ver_1.0.0).cht) [[Wiki Guide]](https://www.ign.com/wikis/final-fantasy-15)
+
+    ```
+    ## Money
+
+    23686 1F171D0 (4 bytes) 0 50030671D0
+
+    ## AP
+
+    23686 1F171DC (2 bytes) 0 50030671DC
+
+    ## Item Slot 1 Amount
+
+    23686 1FB620C (2 bytes) 0 500310620C
+
+    ## Magic Slot 1 Amount
+
+    23686 1FB9730 (2 bytes) 0 5003109730
+
+    ## Magic Slot 2 Amount
+
+    23686 1FB9760 (2 bytes) 0 5003109760
+
+    ## EXP
+
+    23686 1D706C0 (4 bytes) 0 5002EC06C0
+    23686 1D7B7C0 (4 bytes) 0 5002ECB7C0
+    23686 1D868C0 (4 bytes) 0 5002ED68C0
+    23686 1D919C0 (4 bytes) 0 5002EE19C0
     ```
 
 * __Fl4tout : Total Insanity__ (CUSA07458 - Ver 1.0.3 - Firm 4.55 - PS4Cheater 1.3) [[1]](https://www.psxhax.com/threads/ps4-game-modding-offsets-drop-thread.4300/page-4#post-77659) [[CHT File]](https://github.com/JDsnyke/PS4-Cheat-List/raw/master/cht/4.55/PS4Cheater-1.3/Fl4tout_Total_Insanity_(CUSA07458-Ver_1.0.3).cht)

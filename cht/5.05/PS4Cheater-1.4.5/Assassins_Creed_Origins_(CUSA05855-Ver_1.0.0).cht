@@ -1,0 +1,4 @@
+1.4|eboot.bin|ID:|VER:|FM:505
+data|295|1A0AF0|4 bytes|22220|0|Money|260D60AF0
+data|295|1A0AB0|byte|22|0|Arrows|260D60AB0
+data|295|1A0AD0|byte|22|0|Hunter Arrows|260D60AD0

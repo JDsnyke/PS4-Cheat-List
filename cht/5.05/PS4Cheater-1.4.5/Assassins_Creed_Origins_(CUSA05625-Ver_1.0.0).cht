@@ -1,0 +1,9 @@
+1.4|eboot.bin|ID:CUSA05625|VER:01.41|FM:505
+simple pointer|pointer|4 bytes|@7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4|data|4 bytes|0|0|P1 HP|
+simple pointer|pointer|4 bytes|@7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4|data|4 bytes|0|0|P2 HP|
+simple pointer|pointer|4 bytes|@7997068_3_9E7068+18+8+5D8+18+30+8+48+10+18+D4|data|4 bytes|0|0|P3 HP|
+simple pointer|pointer|4 bytes|@7997068_3_9E7068+18+8+5D8+18+30+8+48+30+18+D4|data|4 bytes|0|0|P4 HP|
+simple pointer|pointer|4 bytes|@7892198_3_8E2198+D8+160+10+158+BE8+168+0+114|data|4 bytes|1049|0|P1 EXP|
+simple pointer|pointer|4 bytes|@7B54AF0_3_BA4AF0+168+0+114|data|4 bytes|1049|0|P2 EXP|
+simple pointer|pointer|4 bytes|@7892198_3_8E2198+D8+160+10+158+BE8+168+0+114|data|4 bytes|1049|0|P3 EXP|
+simple pointer|pointer|4 bytes|@7B54AF0_3_BA4AF0+168+0+114|data|4 bytes|1049|0|P4 EXP|
