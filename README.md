@@ -8,7 +8,6 @@
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
 
-```
 ## Announcement
 
 I would like to announce that by 15th July 2018, I will no longer maintain the PS4 Cheat List.
@@ -24,15 +23,14 @@ All that's required is to update the README.md and add the relevant CHT files on
 Again, I apologize for this occurring and would like to take this moment to say that this project would not have been possible without several good people and this awesome community.
 
 Thank you for your time and effort Everyone!
-```
 
-```
 ## Future Updates
 
 To stay in the loop and get the latest cht file updates, sign up with the 'PS4 Source Discord' group!
 
 (https://discord.gg/FpRwaZE)
-```
+
+<hr>
 
 ```
 Help Wanted - visit (https://psxcheatlist.tk/docs/help-wanted) for more details!
