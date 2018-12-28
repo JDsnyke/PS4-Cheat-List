@@ -185,3 +185,4 @@ data|3|45CC0|byte|10|0|Hanged Man Rank|51761CC0
 data|3|45CD0|byte|10|0|Star Rank|51761CD0
 data|3|45CE0|byte|10|0|Hermit Rank|51761CE0
 data|3|45CF0|byte|1|0|Tower Rank|51761CF0
+data|3|3CBB2|byte|0|1|Time of the day, set to 0 and you will start from early morning of the day after the next cutscene|21E4CBB2
