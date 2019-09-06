@@ -2,8 +2,6 @@
 
 [![GitHub watchers](https://img.shields.io/github/watchers/JDsnyke/PS4-Cheat-List.svg?style=social&label=Watch)](https://github.com/JDsnyke/PS4-Cheat-List/subscription) [![GitHub stars](https://img.shields.io/github/stars/JDsnyke/PS4-Cheat-List.svg?style=social&label=Stars)](https://github.com/JDsnyke/PS4-Cheat-List/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JDsnyke/PS4-Cheat-List.svg?style=social&label=Fork)](https://github.com/JDsnyke/PS4-Cheat-List/fork)
 
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m780451202-65a83b8a8f1bfd5aaa773693.svg)](https://status.psxcheatlist.tk) [![Site Backup status](https://img.shields.io/badge/backup-ok-green.svg)](https://backup.psxcheatlist.tk) [![Site changelog status](https://img.shields.io/badge/changelog-ok-green.svg)](https://changelog.psxcheatlist.tk)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/JDsnyke/PS4-Cheat-List.svg) ![GitHub issues](https://img.shields.io/github/issues/JDsnyke/PS4-Cheat-List.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JDsnyke/PS4-Cheat-List.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JDsnyke/PS4-Cheat-List.svg) ![license](https://img.shields.io/github/license/JDsnyke/PS4-Cheat-List.svg) ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-orange.svg)
 
 List of PS4 cheat codes / offsets found for either [PS4Cheater](https://www.psxhax.com/threads/ps4cheater-ps4-cheater-homebrew-app-to-find-game-cheat-codes.4529/) or [NetCheatPS4](https://www.psxhax.com/threads/netcheat-api-for-ps4-4-05-firmware-by-bisoon-for-game-cheats.4292/) :scroll:
